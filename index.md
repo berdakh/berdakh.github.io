@@ -354,6 +354,52 @@ This project aims to accelerate the efficacy of robotic rehabilitation using a n
 **Co-Principal Investigator**, *Neural-assisted optimization of human learning with multimodal neuroimaging of EEG and NIRS*, Nazarbayev University.<br/>
 Implementing and validate a neural-assisted, machine-learning-based intelligent  tutoring system that uses information from physiological signals to adapt the learning schedule to a user's individual learning capacity
 
+## Technical Skills 
+Expert in the Python Language and libraries such as Cython; very good knowledge of C,
+C++. Expert in NumPy, Scipy, Sklearn, PyTorch, Tensoflow, Keras, MNE. Azure DevOps, AWS Certified.   Experience with a variety of tools and languages, including bash, LATEX, HTML, Git, Lab-streaming layer, various database query languages etc. 
+ 
+## Data acquisition systems  
+Expert user of Nicolet EEG Amplifiers, Blackrock Microsystems (intracranial recording), Functional Near-Infrared Spectroscopy FOIRE3000, BIOPAC fNIR200 Optical Brain Imaging, BioSemi Active-Two EEG system, Brain Products EEG amp., BIOPAC MP100 EEG amp. And G.tec g.USBamp systems. 
+
+## Productivity applications
+LaTeX, BibTEX, PSTricks, Beamer 
+
+## System Environments
+Linux (Ubuntu, Pop!_OS - favorite), Windows
+
+## Language Skills
+- English (Professional proficiency) 
+- Korean  (Professional conversational skills)
+- Russian \& Kazakh \& Uzbek (Bilingual proficiency)
+
+
+## Academic Service 
+Associate Editor 
+ - IEEE Access
+ - PeerJ Computer Science 
+
+Program Committee Member 
+- International Workshop on Artificial Intelligence for Healthcare Applications at International Conference on Pattern Recognition 2020.
+- The 7th International Conference on New Trends in Information Science, Service Science and Data Mining, June 18-20, 2013, Jeju Island, South Korea.
+- The 8th International Conference on Information Processing, Management and Intelligent Information Technology, April 1-3, 2013, Seoul, South Korea.
+- The 16th North-East Asia Symposium on Nano, Information Technology and Reliability, Oct.24-26, 2011, South Macao.
+
+Session Chair
+- The 6th International Conference on Brain-Computer Interface (BCI), IEEE, 2018, South Korea
+- IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems, 2017, Daegu, South Korea.
+- The 6th Int. Conference on Networked Computing, May 11-13, 2010, Gyeongju, South Korea.
+- International Conference on Control Automation and Systems Oct.27-30, 2010, Seoul, South Korea.
+  
+Occasional Reviewer
+
+- IEEE Transactions on Neural Networks and Learning Systems
+- IEEE Journal of Biomedical and Health Informatics.
+- IEEE Transactions on Systems, Man, and Cybernetics: Systems
+- Brain Research, Elsevier.
+- Neuroimage, Elsevier.
+- Medical Engineering and Physics, Elsevier.
+- Medical \& Biological Engineering \& Computing, Springer.
+
 <!---
 ## Honors and Awards
 
