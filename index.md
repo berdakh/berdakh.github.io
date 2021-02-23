@@ -2,15 +2,17 @@
 layout: cv
 title: Berdakh Abibullaev
 ---
+<br/>
+
 # Berdakh Abibullaev
-Assistant Professor, 
+Assistant Professor, Ph.D. 
 
 Robotics and Mechatronics Department, <br/>
 School of Engineering and Digital Sciences, <br/>
-Nazarbayev University, (http://nu.edu.kz), <br/> 
-Qabanbay Batyr Avenue # 53, Nur-Sultan, Kazakhstan. <br/>
+Nazarbayev University, [www.nu.edu.kz](http://nu.edu.kz), <br/> 
+Qabanbay Batyr Avenue # 53, Kazakhstan. <br/>
 
-<a href="firstname.lastname@nu.edu.kz">firstname.lastname@nu.edu.kz</a> - +7 (7172) 70 66 64
+<a href="firstname.lastname@nu.edu.kz">firstname.lastname@nu.edu.kz</a> - (7172) 70 66 64
 
 <div id="webaddress">
   <a href="https://berdakh.github.io/blog"><i class="fas fa-home"></i> Blog posts</a> - 
@@ -21,22 +23,23 @@ Qabanbay Batyr Avenue # 53, Nur-Sultan, Kazakhstan. <br/>
   <a href="https://www.youtube.com/channel/UCOUcmoCAWBFaqPb1Fu3J86A/videos"><i class="fab fa-youtube"></i> YouTube Channel</a>
 </div>
 
-## Info: 
+## TOC: 
   - [Short Biography](#short-biography)
   - [Education](#education)
-  - [Experience](#experience)
-  - [Publications](#publications)
-  - [Journal Publications](#journal-publications)
-  - [Conference Publications](#conference-publications)
-  - [Patents](#patents)
+  - [Work Experience](#experience)
+  - [Peer Reviewed Publications](#publications)
   - [Grants and Funding](#grants-and-funding)
-
+  - [Honors and Awards](#honors-and-awards)
+  - [Technical Skills](#technical-skills)
+  - [Service to Scientific Community](#academic-service)
+  
+*** 
 ## Short Biography
 <p style='text-align: justify;'>
 Dr. Berdakh Abibullaev received his M.Sc. and Ph.D. degrees in electronic engineering from Yeungnam University, South Korea in 2006  and 2010 under the Korean Government Scholarship program. He held research scientist positions at Daegu-Gyeongbuk Institute of Science and Technology (2010-2013) and Samsung Medical Center, South Korea (2013-2014). He was also appointed as a research professor at Sungkyunkwan University, Seoul. In 2014, he received NIH (National Institute of Health, USA), a postdoctoral research fellowship to join a research project between the University of Houston Brain-Machine Interface Systems Team and a Texas Medical Center in developing neural interfaces for rehabilitation in post-stroke patients. Currently, he is an Assistant Professor in the Department of Robotics and Mechatronics, Nazarbayev University, Kazakhstan. </p>
 <p style='text-align: justify;'>
 Dr. Abibullaev has considerable research and clinical experience working with patient populations in applying scientific and technical skills to advance the development of treatments for neurological disorders. 
-His current research focuses on developing signal processing and machine learning models for inference problems of Brain-Computer Interfaces.
+His current research focuses on developing signal processing and machine learning models for the inference problems of Brain-Computer Interfaces, and brain data analysis.
 </p>
 
 ## Education
@@ -72,13 +75,15 @@ His current research focuses on developing signal processing and machine learnin
 
 ## Publications
 
-*Publication list also available [in Google Scholar](https://scholar.google.com/citations?user=KvECkz0AAAAJ&hl=en).  
+*Publication list also available [in Google Scholar](https://scholar.google.com/citations?hl=en&user=KvECkz0AAAAJ&view_op=list_works&sortby=pubdate).  
 
+  - [Journal Publications](#journal-publications)
+  - [Conference Publications](#conference-publications)
+  - [Patents](#patents)
 
 ## Journal Publications 
 
 <u>B. Abibullaev</u> and A. Zollanvari. **A Systematic Deep Learning Model Selection for P300-Based Brain-Computer Interfaces**, *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, DOI: 10.1109/TSMC.2021.3051136, 2021. [[Link]](https://ieeexplore.ieee.org/document/9351887)
-
 
 <u>B. Abibullaev</u>, I. Dolzhikova and A. Zollanvari. **A Brute-force CNN Model Selection for Accurate Classification of Sensorimotor Rhythms in BCIs**, *IEEE Access*, DOI: 10.1109/ACCESS.2020.2997681, 2020.
 [[Link]](https://ieeexplore.ieee.org/document/9099856)
@@ -354,55 +359,7 @@ This project aims to accelerate the efficacy of robotic rehabilitation using a n
 **Co-Principal Investigator**, *Neural-assisted optimization of human learning with multimodal neuroimaging of EEG and NIRS*, Nazarbayev University.<br/>
 Implementing and validate a neural-assisted, machine-learning-based intelligent  tutoring system that uses information from physiological signals to adapt the learning schedule to a user's individual learning capacity
 
-## Technical Skills 
-Expert in the Python Language and libraries such as Cython; very good knowledge of C,
-C++. Expert in NumPy, Scipy, Sklearn, PyTorch, Tensoflow, Keras, MNE. Azure DevOps, AWS Certified.   Experience with a variety of tools and languages, including bash, LATEX, HTML, Git, Lab-streaming layer, various database query languages etc. 
- 
-## Data acquisition systems  
-Expert user of Nicolet EEG Amplifiers, Blackrock Microsystems (intracranial recording), Functional Near-Infrared Spectroscopy FOIRE3000, BIOPAC fNIR200 Optical Brain Imaging, BioSemi Active-Two EEG system, Brain Products EEG amp., BIOPAC MP100 EEG amp. And G.tec g.USBamp systems. 
-
-## Productivity applications
-LaTeX, BibTEX, PSTricks, Beamer 
-
-## System Environments
-Linux (Ubuntu, Pop!_OS - favorite), Windows
-
-## Language Skills
-- English (Professional proficiency) 
-- Korean  (Professional conversational skills)
-- Russian \& Kazakh \& Uzbek (Bilingual proficiency)
-
-
-## Academic Service 
-Associate Editor 
- - IEEE Access
- - PeerJ Computer Science 
-
-Program Committee Member 
-- International Workshop on Artificial Intelligence for Healthcare Applications at International Conference on Pattern Recognition 2020.
-- The 7th International Conference on New Trends in Information Science, Service Science and Data Mining, June 18-20, 2013, Jeju Island, South Korea.
-- The 8th International Conference on Information Processing, Management and Intelligent Information Technology, April 1-3, 2013, Seoul, South Korea.
-- The 16th North-East Asia Symposium on Nano, Information Technology and Reliability, Oct.24-26, 2011, South Macao.
-
-Session Chair
-- The 6th International Conference on Brain-Computer Interface (BCI), IEEE, 2018, South Korea
-- IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems, 2017, Daegu, South Korea.
-- The 6th Int. Conference on Networked Computing, May 11-13, 2010, Gyeongju, South Korea.
-- International Conference on Control Automation and Systems Oct.27-30, 2010, Seoul, South Korea.
-  
-Occasional Reviewer
-
-- IEEE Transactions on Neural Networks and Learning Systems
-- IEEE Journal of Biomedical and Health Informatics.
-- IEEE Transactions on Systems, Man, and Cybernetics: Systems
-- Brain Research, Elsevier.
-- Neuroimage, Elsevier.
-- Medical Engineering and Physics, Elsevier.
-- Medical \& Biological Engineering \& Computing, Springer.
-
-<!---
 ## Honors and Awards
-
 `11/2017` 
 **The best paper award**, *fNIRS motion artifact
 correction for overground walking using entropy-based unbalanced optode decision and wavelet regression neural network*,<br/> in Fusion and Integration for Intelligent Systems (MFI), 2017 IEEE International Conference, South Korea.
@@ -420,8 +377,48 @@ correction for overground walking using entropy-based unbalanced optode decision
 **Brain Korea Scholarship**, *Recipient of competitive graduate scholarship for a M.Sc. program*, South Korea.
 
 
-## Service to the Scientific Community
--->
+## Technical Skills 
+
+**Software :** Expert in the Python Language and libraries such as Cython; very good knowledge of C,
+C++. Experience with a variety of tools and languages, including bash, LATEX, HTML, Git, Lab-streaming layer, various database query languages etc 
+
+**Data Science :** Expert in NumPy, Scipy, Sklearn, PyTorch, Tensoflow, Keras, MNE. Azure DevOps, AWS Certified. 
+ 
+**Data acquisition systems :** Expert user of Nicolet EEG Amplifiers, Blackrock Microsystems (intracranial recording), Functional Near-Infrared Spectroscopy FOIRE3000, BIOPAC fNIR200 Optical Brain Imaging, BioSemi Active-Two EEG system, Brain Products EEG amp., BIOPAC MP100 EEG amp. And G.tec g.USBamp systems. 
+
+**Productivity applications :** LaTeX, BibTEX, PSTricks, Beamer 
+**System Environments :** Linux (Ubuntu, Pop!_OS - favorite), Windows
+
+### Language Skills
+- English (Professional proficiency) 
+- Korean  (Professional conversational skills)
+- Russian & Kazakh & Uzbek (Bilingual proficiency)
+
+## Academic Service 
+**Associate Editor** 
+ - IEEE Access
+ - PeerJ Computer Science 
+
+**Program Committee Member** 
+- International Workshop on Artificial Intelligence for Healthcare Applications at International Conference on Pattern Recognition 2020.
+- The 7th International Conference on New Trends in Information Science, Service Science and Data Mining, June 18-20, 2013, Jeju Island, South Korea.
+- The 8th International Conference on Information Processing, Management and Intelligent Information Technology, April 1-3, 2013, Seoul, South Korea.
+- The 16th North-East Asia Symposium on Nano, Information Technology and Reliability, Oct.24-26, 2011, South Macao.
+
+**Session Chair**
+- The 6th International Conference on Brain-Computer Interface (BCI), IEEE, 2018, South Korea
+- IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems, 2017, Daegu, South Korea.
+- The 6th Int. Conference on Networked Computing, May 11-13, 2010, Gyeongju, South Korea.
+- International Conference on Control Automation and Systems Oct.27-30, 2010, Seoul, South Korea.
+  
+**Occasional Reviewer**
+- IEEE Transactions on Neural Networks and Learning Systems
+- IEEE Journal of Biomedical and Health Informatics.
+- IEEE Transactions on Systems, Man, and Cybernetics: Systems
+- Brain Research, Elsevier.
+- Neuroimage, Elsevier.
+- Medical Engineering and Physics, Elsevier.
+- Medical \& Biological Engineering \& Computing, Springer.
 
 <br/>
 <br/>
