@@ -21,8 +21,7 @@ Qabanbay Batyr Avenue # 53, Nur-Sultan, Kazakhstan <br/>
 </div>
 
 
-## Table of contents 
-  - [Table of contents](#table-of-contents)
+## Info: 
   - [Education](#education)
   - [Experience](#experience)
   - [Publications](#publications)
@@ -30,7 +29,7 @@ Qabanbay Batyr Avenue # 53, Nur-Sultan, Kazakhstan <br/>
   - [Conference Publications](#conference-publications)
   - [Patents](#patents)
   - [Grants and funding](#grants-and-funding)
-    - [Current Research funding](#current-research-funding)
+  - [Current Research funding](#current-research-funding)
 
 
 ## Education
