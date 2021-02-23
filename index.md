@@ -5,28 +5,13 @@ title: Berdakh Abibullaev
 <br/>
 
 # Berdakh Abibullaev
-<div>&nbsp;</div>
-<div>&nbsp;</div>
-<div>
-<table style="width: 90.7202%; border-collapse: collapse; border-style: hidden;" border="1">
-<tbody>
-<tr>
-<td style="width: 20%;"><img src="media\profilephoto.jpg" alt="" width="120" height="140" /></td>
-<td style="width: 69.0476%;">
-<div>Assistant&nbsp;Professor,&nbsp;Ph.D.&nbsp;</div>
-<div>&nbsp;</div>
-<div>Robotics and Mechatronics Department,&nbsp;&nbsp;</div>
-<div>School of Engineering and Digital Sciences,&nbsp;&nbsp;</div>
-<div>Nazarbayev University, [<a href="http://www.nu.edu.kz">www.nu.edu.kz</a>](http://nu.edu.kz),&nbsp;&nbsp;</div>
-<div>Qabanbay Batyr Avenue # 53, Kazakhstan.&nbsp;&nbsp;</div>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-<div><img src="profile" alt="" />&nbsp;</div>
+Assistant Professor, Ph.D. 
+
+Robotics and Mechatronics Department, <br/>
+School of Engineering and Digital Sciences, <br/>
+Nazarbayev University, [www.nu.edu.kz](http://nu.edu.kz), <br/> 
+Qabanbay Batyr Avenue # 53, Kazakhstan. <br/>
 <a href="firstname.lastname@nu.edu.kz">firstname.lastname@nu.edu.kz</a> - (7172) 70 66 64
- 
 
 <div id="webaddress">
   <a href="https://berdakh.github.io/blog"><i class="fas fa-home"></i> Blog posts</a> - 
