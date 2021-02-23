@@ -11,7 +11,7 @@ Robotics and Mechatronics Department, <br/>
 School of Engineering and Digital Sciences, <br/>
 Nazarbayev University, [www.nu.edu.kz](http://nu.edu.kz), <br/> 
 Qabanbay Batyr Avenue # 53, Kazakhstan. <br/>
-<a href="firstname.lastname@nu.edu.kz">firstname.lastname@nu.edu.kz</a> - (7172) 70 66 64
+<a href="mailto:firstname.lastname@nu.edu.kz">firstname.lastname@nu.edu.kz</a> - (7172) 70 66 64
 
 <div id="webaddress">
   <a href="https://berdakh.github.io/blog"><i class="fas fa-home"></i> Blog posts</a> - 
