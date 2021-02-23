@@ -190,14 +190,14 @@ Korea.
 B. Saduanov, T. Alizadeh, J. An, and <u>B. Abibullaev</u>, “**Trained by
 demonstration humanoid robot controlled via a BCI system for
 telepresence**,” in *Brain-Computer Interface (BCI), 2018 6th
-International Conference on*.1em plus 0.5em minus 0.4emIEEE, 2018, pp.
+International Conference on*. IEEE, 2018, pp.
 1–4, January, GangWon, South Korea.
 
 G. Lee, S. H. Jin, S. H. Lee, <u>B. Abibullaev</u>, and J. An, “**fNIRS
 motion artifact correction for overground walking using entropy based
 unbalanced optode decision and wavelet regression neural network**,” in
 *Multisensor Fusion and Integration for Intelligent Systems (MFI), 2017
-IEEE International Conference on*.1em plus 0.5em minus 0.4emIEEE, 2017,
+IEEE International Conference on*.IEEE, 2017,
 pp. 186–193, Daegu, South Korea.
 
 A. Zhumadilova, D. Tokmurzina, A. Kuderbekov and and <u>B.
