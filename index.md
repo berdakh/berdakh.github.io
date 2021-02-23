@@ -77,9 +77,11 @@ His current research focuses on developing signal processing and machine learnin
 
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?hl=en&user=KvECkz0AAAAJ&view_op=list_works&sortby=pubdate).  
 
-  - [Journal Publications](#journal-publications)
-  - [Conference Publications](#conference-publications)
-  - [Patents](#patents)
+<br/>
+
+  - [**Journal Publications**](#journal-publications)
+  - [**Conference Publications**](#conference-publications)
+  - [**Patents**](#patents)
 
 ## Journal Publications 
 
@@ -151,6 +153,8 @@ temporal lobe epileptic EEGs using the best basis wavelet functions**. *Journal 
 
 M.S. Kim, Y.C. Cho, <u>B. Abibullaev</u>, and H.D. Seo. **Analysis of brain functions and classification of sleep stage EEG using daubechies wavelet**. *Sensors and Materials* , 20(1):1--15, 2008. MYU, Japan. [[Link]](https://myukk.org/SM2017/sm_pdf/SM701.pdf)
 
+
+[Go to Top](#berdakh-abibullaev)
 
 ## Conference Publications 
 
@@ -343,6 +347,7 @@ number*: 14049302, 09-OCT-2013, United States,
 
 J. An, S.H. Jin, S.H. Lee,  <u>B. Abibullaev</u>, J.I. Moon , J.H. Ahn and G.H. Jang. **Combining Brain Signals and Functional Electrostimulation Self-Directed Rehabilitation Method**, Patent Registration Number: 101501524000, 05.03.2015. South Korea, [>> Link <<](http://eng.kipris.or.kr/). 
 
+[Top](#berdakh-abibullaev)
 
 ## Grants and funding
 
@@ -376,6 +381,7 @@ correction for overground walking using entropy-based unbalanced optode decision
 `09/2004` 
 **Brain Korea Scholarship**, *Recipient of competitive graduate scholarship for a M.Sc. program*, South Korea.
 
+[Go to Top](#berdakh-abibullaev)
 
 ## Technical Skills 
 
@@ -423,5 +429,4 @@ C++. Experience with a variety of tools and languages, including bash, LATEX, HT
 <br/>
 <br/>
 
-
-[Back](#berdakh-abibullaev)
+[Go to Top](#berdakh-abibullaev)
