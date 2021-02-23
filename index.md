@@ -18,7 +18,7 @@ Qabanbay Batyr Avenue # 53, Nur-Sultan, Kazakhstan. <br/>
   <a href="https://github.com/berdakh"><i class="fab fa-github"></i> berdakh</a> - 
   <a href="https://orcid.org/0000-0002-8623-5526"><i class="ai ai-orcid"></i> 0000-0002-8623-5526</a> - 
   <a href="https://www.researchgate.net/profile/Berdakh-Abibullaev"><i class="ai ai-researchgate"></i>Berdakh Abibullaev</a> <br/> 
-  <a href="https://www.youtube.com/channel/UCOUcmoCAWBFaqPb1Fu3J86A/videos"><i class="fas fa-youtube"></i> YouTube Channel</a>
+  <a href="https://www.youtube.com/channel/UCOUcmoCAWBFaqPb1Fu3J86A/videos"><i class="fab fa-youtube"></i> YouTube Channel</a>
 </div>
 
 ## Info: 
