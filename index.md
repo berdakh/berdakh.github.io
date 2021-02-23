@@ -422,8 +422,8 @@ C++. Experience with a variety of tools and languages, including bash, LATEX, HT
 - Brain Research, Elsevier.
 - Neuroimage, Elsevier.
 - Medical Engineering and Physics, Elsevier.
-- Medical \& Biological Engineering \& Computing, Springer.
-
+- Medical & Biological Engineering & Computing, Springer.
+- ... other journals 
 <br/>
 <br/>
 
