@@ -5,14 +5,28 @@ title: Berdakh Abibullaev
 <br/>
 
 # Berdakh Abibullaev
-Assistant Professor, Ph.D. 
-
-Robotics and Mechatronics Department, <br/>
-School of Engineering and Digital Sciences, <br/>
-Nazarbayev University, [www.nu.edu.kz](http://nu.edu.kz), <br/> 
-Qabanbay Batyr Avenue # 53, Kazakhstan. <br/>
-
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>
+<table style="width: 90.7202%; border-collapse: collapse; border-style: hidden;" border="1">
+<tbody>
+<tr>
+<td style="width: 20%;"><img src="media\profilephoto.jpg" alt="" width="120" height="140" /></td>
+<td style="width: 69.0476%;">
+<div>Assistant&nbsp;Professor,&nbsp;Ph.D.&nbsp;</div>
+<div>&nbsp;</div>
+<div>Robotics and Mechatronics Department,&nbsp;&nbsp;</div>
+<div>School of Engineering and Digital Sciences,&nbsp;&nbsp;</div>
+<div>Nazarbayev University, [<a href="http://www.nu.edu.kz">www.nu.edu.kz</a>](http://nu.edu.kz),&nbsp;&nbsp;</div>
+<div>Qabanbay Batyr Avenue # 53, Kazakhstan.&nbsp;&nbsp;</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div><img src="profile" alt="" />&nbsp;</div>
 <a href="firstname.lastname@nu.edu.kz">firstname.lastname@nu.edu.kz</a> - (7172) 70 66 64
+ 
 
 <div id="webaddress">
   <a href="https://berdakh.github.io/blog"><i class="fas fa-home"></i> Blog posts</a> - 
@@ -76,8 +90,6 @@ His current research focuses on developing signal processing and machine learnin
 ## Publications
 
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?hl=en&user=KvECkz0AAAAJ&view_op=list_works&sortby=pubdate).  
-
-<br/>
 
   - [**Journal Publications**](#journal-publications)
   - [**Conference Publications**](#conference-publications)
@@ -345,9 +357,9 @@ Signals and Functional Electrostimulation**. : 17077057, *Application
 number*: 14049302, 09-OCT-2013, United States,
 [[Link]](http://www.google.com/patents/US20140200632).
 
-J. An, S.H. Jin, S.H. Lee,  <u>B. Abibullaev</u>, J.I. Moon , J.H. Ahn and G.H. Jang. **Combining Brain Signals and Functional Electrostimulation Self-Directed Rehabilitation Method**, Patent Registration Number: 101501524000, 05.03.2015. South Korea, [>> Link <<](http://eng.kipris.or.kr/). 
+J. An, S.H. Jin, S.H. Lee,  <u>B. Abibullaev</u>, J.I. Moon , J.H. Ahn and G.H. Jang. **Combining Brain Signals and Functional Electrostimulation Self-Directed Rehabilitation Method**, Patent Registration Number: 101501524000, 05.03.2015. South Korea, [[Link]](http://eng.kipris.or.kr/). 
 
-[Top](#berdakh-abibullaev)
+[Go to Top](#berdakh-abibullaev)
 
 ## Grants and funding
 
@@ -393,7 +405,8 @@ C++. Experience with a variety of tools and languages, including bash, LATEX, HT
 **Data acquisition systems :** Expert user of Nicolet EEG Amplifiers, Blackrock Microsystems (intracranial recording), Functional Near-Infrared Spectroscopy FOIRE3000, BIOPAC fNIR200 Optical Brain Imaging, BioSemi Active-Two EEG system, Brain Products EEG amp., BIOPAC MP100 EEG amp. And G.tec g.USBamp systems. 
 
 **Productivity applications :** LaTeX, BibTEX, PSTricks, Beamer 
-**System Environments :** Linux (Ubuntu, Pop!_OS - favorite), Windows
+
+**System Environments :** Linux (Ubuntu, Pop!_OS - favorite distro), Windows
 
 ### Language Skills
 - English (Professional proficiency) 
