@@ -17,7 +17,7 @@ Qabanbay Batyr Avenue # 53, Nur-Sultan, Kazakhstan <br/>
   <a href="https://nu.edu.kz/faculty/berdakh-abibullaev"><i class="fas fa-users"></i>https://nu.edu.kz/faculty/berdakh-abibullaev</a><br/>
   <a href="https://github.com/berdakh"><i class="fab fa-github"></i> berdakh</a> - 
   <a href="https://orcid.org/0000-0002-8623-5526"><i class="ai ai-orcid"></i> 0000-0002-8623-5526</a> - 
-  <a href="https://www.researchgate.net/profile/Berdakh-Abibullaevp"><i class="ai ai-researchgate"></i>Berdakh Abibullaev</a> - 
+  <a href="https://www.researchgate.net/profile/Berdakh-Abibullaev"><i class="ai ai-researchgate"></i>Berdakh Abibullaev</a> - 
 </div>
 
 
@@ -28,9 +28,7 @@ Qabanbay Batyr Avenue # 53, Nur-Sultan, Kazakhstan <br/>
   - [Journal Publications](#journal-publications)
   - [Conference Publications](#conference-publications)
   - [Patents](#patents)
-  - [Grants and funding](#grants-and-funding)
-  - [Current Research funding](#current-research-funding)
-
+  - [Current Research funding](#Current-Grants-and-funding)
 
 ## Education
 
@@ -331,11 +329,9 @@ number*: 14049302, 09-OCT-2013, United States,
 
 1. J. An, S.H. Jin, S.H. Lee,  <u>B. Abibullaev</u>, J.I. Moon , J.H. Ahn and G.H. Jang. **Combining Brain Signals and Functional Electrostimulation Self-Directed Rehabilitation Method**, Patent Registration Number: 101501524000, 05.03.2015. South Korea, [>> Link <<](http://eng.kipris.or.kr/). 
 
-<br/>
-
 ## Current Grants and funding
 
-*Funding includes only amounts over 10000 USD*
+*Funding includes only amounts over 40000 USD*
 
 `01/2021-12/2023` 
 **Principal Investigator**, *Brain-Computer Interface to Exoskeleton System Design for Personalized Upper-Limb Rehabilitation after Stroke*, Nazarbayev University.<br/>
@@ -347,3 +343,30 @@ This project aims to accelerate the efficacy of robotic rehabilitation using a n
 `01/2019-12/2021`
 **Co-Principal Investigator**, *Neural-assisted optimization of human learning with multimodal neuroimaging of EEG and NIRS*, Nazarbayev University.<br/>
 Implementing and validate a neural-assisted, machine-learning-based intelligent  tutoring system that uses information from physiological signals to adapt the learning schedule to a user's individual learning capacity
+
+<!---
+## Honors and Awards
+
+`11/2017` 
+**The best paper award**, *fNIRS motion artifact
+correction for overground walking using entropy-based unbalanced optode decision and wavelet regression neural network*,<br/> in Fusion and Integration for Intelligent Systems (MFI), 2017 IEEE International Conference, South Korea.
+
+`06/2014` 
+**The best poster award**, *The evaluation of accuracy and clinical usefulness of 3D EEG source localization analysis*,<br/> Korean Epilepsy Congress 2014.
+
+`12/2012` 
+**The best Researcher of the Year Award**, *Robotics Research Division, Daegu Gyeongbuk Institute of Science and Technology*, South Korea.
+
+`09/2006` 
+**Korean Government Scholarship**, *Recipient of competitive Korean Government Information Technology Scholarship for International Graduate Students for a Ph.D. program*, South Korea.
+
+`09/2004` 
+**Brain Korea Scholarship**, *Recipient of competitive graduate scholarship for a M.Sc. program*, South Korea.
+
+
+## Service to the Scientific Community
+-->
+
+
+
+- [BACK](#Berdakh-Abibullaev)
