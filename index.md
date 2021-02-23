@@ -19,7 +19,19 @@ Qabanbay Batyr Avenue # 53, Nur-Sultan, Kazakhstan <br/>
   <a href="https://orcid.org/0000-0002-8623-5526"><i class="ai ai-orcid"></i> 0000-0002-8623-5526</a> - 
   <a href="https://www.researchgate.net/profile/Berdakh-Abibullaevp"><i class="ai ai-researchgate"></i>Berdakh Abibullaev</a> - 
 </div>
-<br/>
+
+
+## Table of contents 
+  - [Table of contents](#table-of-contents)
+  - [Education](#education)
+  - [Experience](#experience)
+  - [Publications](#publications)
+  - [Journal Publications](#journal-publications)
+  - [Conference Publications](#conference-publications)
+  - [Patents](#patents)
+  - [Grants and funding](#grants-and-funding)
+    - [Current Research funding](#current-research-funding)
+
 
 ## Education
 
@@ -31,8 +43,6 @@ Qabanbay Batyr Avenue # 53, Nur-Sultan, Kazakhstan <br/>
 
 `2000-2004`
 **B.S., Information Technology**, *Tashkent University of Information Technologies*, Uzbekistan.
-
-<br/>
 
 ## Experience
 
@@ -54,23 +64,10 @@ Qabanbay Batyr Avenue # 53, Nur-Sultan, Kazakhstan <br/>
 `02/2010 - 05/2011`
 **Postdoctoral fellow**, *Robotics Research Division, Daegu Gyeongbuk Institute of Science and Technology*, South Korea.
 
-
-<br/>
-
 ## Publications
 
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?user=KvECkz0AAAAJ&hl=en).  
 
-
-- [Berdakh Abibullaev](#berdakh-abibullaev)
-  - [Education](#education)
-  - [Experience](#experience)
-  - [Publications](#publications)
-  - [Journal Publications](#journal-publications)
-  - [Conference Publications](#conference-publications)
-  - [Patents](#patents)
-  - [Grants and funding](#grants-and-funding)
-    - [Current Research funding](#current-research-funding)
 
 ## Journal Publications 
 
