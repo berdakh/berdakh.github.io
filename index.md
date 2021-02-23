@@ -333,11 +333,9 @@ number*: 14049302, 09-OCT-2013, United States,
 
 <br/>
 
-## Grants and funding
+## Current Grants and funding
 
 *Funding includes only amounts over 10000 USD*
-
-### Current Research funding
 
 `01/2021-12/2023` 
 **Principal Investigator**, *Brain-Computer Interface to Exoskeleton System Design for Personalized Upper-Limb Rehabilitation after Stroke*, Nazarbayev University.<br/>
