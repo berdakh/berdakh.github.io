@@ -20,15 +20,23 @@ Qabanbay Batyr Avenue # 53, Nur-Sultan, Kazakhstan <br/>
   <a href="https://www.researchgate.net/profile/Berdakh-Abibullaev"><i class="ai ai-researchgate"></i>Berdakh Abibullaev</a> - 
 </div>
 
-
 ## Info: 
+  - [Short Biography](#short-biography)
   - [Education](#education)
   - [Experience](#experience)
   - [Publications](#publications)
   - [Journal Publications](#journal-publications)
   - [Conference Publications](#conference-publications)
   - [Patents](#patents)
-  - [Current Research funding](#Current-Grants-and-funding)
+  - [Current Research funding](#current-grants-and-funding)
+
+
+## Short Biography
+
+Dr. Berdakh Abibullaev received his M.Sc. and Ph.D. degrees in electronic engineering from Yeungnam University, South Korea in 2006  and 2010 under the Korean Government Scholarship program. He held research scientist positions at Daegu-Gyeongbuk Institute of Science and Technology (2010-2013) and Samsung Medical Center, South Korea (2013-2014). He was also appointed as a research professor at Sungkyunkwan University, Seoul. In 2014, he received NIH (National Institute of Health, USA), a postdoctoral research fellowship to join a research project between the University of Houston Brain-Machine Interface Systems Team and a Texas Medical Center in developing neural interfaces for rehabilitation in post-stroke patients. Currently, he is an Assistant Professor in the Department of Robotics and Mechatronics, Nazarbayev University, Kazakhstan. 
+
+Dr. Abibullaev has considerable research and clinical experience working with patient populations in applying scientific and technical skills to advance the development of treatments for neurological disorders. His current research focuses on devising signal processing and machine learning models for inference problems of Brain-Computer Interfaces.
+
 
 ## Education
 
@@ -329,6 +337,7 @@ number*: 14049302, 09-OCT-2013, United States,
 
 1. J. An, S.H. Jin, S.H. Lee,  <u>B. Abibullaev</u>, J.I. Moon , J.H. Ahn and G.H. Jang. **Combining Brain Signals and Functional Electrostimulation Self-Directed Rehabilitation Method**, Patent Registration Number: 101501524000, 05.03.2015. South Korea, [>> Link <<](http://eng.kipris.or.kr/). 
 
+
 ## Current Grants and funding
 
 *Funding includes only amounts over 40000 USD*
@@ -367,6 +376,8 @@ correction for overground walking using entropy-based unbalanced optode decision
 ## Service to the Scientific Community
 -->
 
+<br/>
+<br/>
 
 
-- [BACK](#Berdakh-Abibullaev)
+[Back](#berdakh-abibullaev)
