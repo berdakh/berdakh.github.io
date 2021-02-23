@@ -385,7 +385,7 @@ correction for overground walking using entropy-based unbalanced optode decision
 **Software :** Expert in the Python Language and libraries such as Cython; very good knowledge of C,
 C++. Experience with a variety of tools and languages, including bash, LATEX, HTML, Git, Lab-streaming layer, various database query languages etc 
 
-**Data Science :** Expert in NumPy, Scipy, Sklearn, PyTorch, Tensoflow, Keras, MNE. Azure DevOps, AWS Certified. 
+**Data Science :** Expert in NumPy, Scipy, Sklearn, PyTorch, Tensoflow, Keras, MNE, Azure DevOps, AWS Certified. 
  
 **Data acquisition systems :** Expert user of Nicolet EEG Amplifiers, Blackrock Microsystems (intracranial recording), Functional Near-Infrared Spectroscopy FOIRE3000, BIOPAC fNIR200 Optical Brain Imaging, BioSemi Active-Two EEG system, Brain Products EEG amp., BIOPAC MP100 EEG amp. And G.tec g.USBamp systems. 
 
@@ -404,16 +404,24 @@ C++. Experience with a variety of tools and languages, including bash, LATEX, HT
  - PeerJ Computer Science 
 
 **Program Committee Member** 
-- International Workshop on Artificial Intelligence for Healthcare Applications at International Conference on Pattern Recognition 2020.
-- The 7th International Conference on New Trends in Information Science, Service Science and Data Mining, June 18-20, 2013, Jeju Island, South Korea.
-- The 8th International Conference on Information Processing, Management and Intelligent Information Technology, April 1-3, 2013, Seoul, South Korea.
-- The 16th North-East Asia Symposium on Nano, Information Technology and Reliability, Oct.24-26, 2011, South Macao.
+
+International Workshop on Artificial Intelligence for Healthcare Applications at International Conference on Pattern Recognition 2020.
+
+The 7th International Conference on New Trends in Information Science, Service Science and Data Mining, June 18-20, 2013, Jeju Island, South Korea.
+
+The 8th International Conference on Information Processing, Management and Intelligent Information Technology, April 1-3, 2013, Seoul, South Korea.
+
+The 16th North-East Asia Symposium on Nano, Information Technology and Reliability, Oct.24-26, 2011, South Macao.
 
 **Session Chair**
-- The 6th International Conference on Brain-Computer Interface (BCI), IEEE, 2018, South Korea
-- IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems, 2017, Daegu, South Korea.
-- The 6th Int. Conference on Networked Computing, May 11-13, 2010, Gyeongju, South Korea.
-- International Conference on Control Automation and Systems Oct.27-30, 2010, Seoul, South Korea.
+
+The 6th International Conference on Brain-Computer Interface (BCI), IEEE, 2018, South Korea
+
+IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems, 2017, Daegu, South Korea.
+
+The 6th Int. Conference on Networked Computing, May 11-13, 2010, Gyeongju, South Korea.
+
+International Conference on Control Automation and Systems Oct.27-30, 2010, Seoul, South Korea.
   
 **Occasional Reviewer**
 - IEEE Transactions on Neural Networks and Learning Systems
