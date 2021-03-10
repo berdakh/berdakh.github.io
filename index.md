@@ -4,7 +4,7 @@ title: Berdakh Abibullaev
 ---
 <br/>
 
-# Berdakh Abibullaev
+# <font size="5"> Berdakh Abibullaev </font>
 
 <img src="media\profilephoto.jpg"
      style="float: left; margin-right: 15px; margin-top:10px; margin-bottom: 10px; 
