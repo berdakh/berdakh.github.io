@@ -5,33 +5,13 @@ title: Berdakh Abibullaev
 <br/>
 
 # Berdakh Abibullaev
-<style type="text/css">
-#wrap {
-   width:800px;
-   margin:0 auto;
-}
-#left_col {
-   float:left;
-   width:200px;
-}
-#right_col {
-   float:right;
-   width:600px;
-}
-</style>
+Assistant Professor, Ph.D. 
 
-<div id="wrap">
-    <div id="left_col">
-        <img src="media\profilephoto.jpg" width="120"
-         height="140">
-    </div>
-    <div id="right_col">
-  Assistant Professor, Ph.D., <br/> 
-  Robotics and Mechatronics Department, <br/>
-  School of Engineering and Digital Sciences, <br/>
-  Nazarbayev University, [www.nu.edu.kz](http://nu.edu.kz), <br/> 
-  Qabanbay Batyr Avenue # 53, Kazakhstan. <br/>
-  <a href="mailto:firstname.lastname@nu.edu.kz">firstname.lastname@nu.edu.kz</a>- (7172) 70 66 64
+Robotics and Mechatronics Department, <br/>
+School of Engineering and Digital Sciences, <br/>
+Nazarbayev University, [www.nu.edu.kz](http://nu.edu.kz), <br/> 
+Qabanbay Batyr Avenue # 53, Kazakhstan. <br/>
+<a href="mailto:firstname.lastname@nu.edu.kz">firstname.lastname@nu.edu.kz</a> - (7172) 70 66 64
 
 <div id="webaddress">
   <a href="https://berdakh.github.io/blog"><i class="fas fa-home"></i> Blog posts</a> - 
@@ -39,13 +19,10 @@ title: Berdakh Abibullaev
   <a href="https://github.com/berdakh"><i class="fab fa-github"></i> berdakh</a> - 
   <a href="https://orcid.org/0000-0002-8623-5526"><i class="ai ai-orcid"></i> 0000-0002-8623-5526</a> - 
   <a href="https://www.researchgate.net/profile/Berdakh-Abibullaev"><i class="ai ai-researchgate"></i>Berdakh Abibullaev</a> <br/> 
-  <a href="https://www.youtube.com/channel/UCOUcmoCAWBFaqPb1Fu3J86A/videos"><i class="fab fa-youtube"></i> YouTube Channel</a>  <br/>
-  </div>
-    </div>
+  <a href="https://www.youtube.com/channel/UCOUcmoCAWBFaqPb1Fu3J86A/videos"><i class="fab fa-youtube"></i> YouTube Channel</a>
 </div>
 
-#### Quick Links: 
-      
+## Quick Links: 
   - [Short Biography](#short-biography)
   - [Education](#education)
   - [Work Experience](#experience)
