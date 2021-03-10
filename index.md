@@ -4,19 +4,17 @@ title: Berdakh Abibullaev
 ---
 <br/>
 
-## Berdakh Abibullaev
-Assistant Professor, Ph.D. 
-
+# Berdakh Abibullaev
 <img src="media\profilephoto.jpg"
-     style="float: left; margin-right: 15px; margin-bottom: 15px; 
-     width:150px;height:170px;" />
+     style="float: left; margin-right: 17px; margin-top:10px; margin-bottom: 15px; 
+     width:160px;height:180px;" />
 
-
+Assistant Professor, Ph.D., <br/>
 Robotics and Mechatronics Department, <br/>
 School of Engineering and Digital Sciences, <br/>
 Nazarbayev University, [www.nu.edu.kz](http://nu.edu.kz), <br/> 
 Qabanbay Batyr Avenue # 53, Kazakhstan. <br/>
-<a href="mailto:firstname.lastname@nu.edu.kz">firstname.lastname@nu.edu.kz</a> - (7172) 70 66 64
+<a href="mailto:firstname.lastname@nu.edu.kz">firstname.lastname@nu.edu.kz</a>  
 
 <div id="webaddress">
   <a href="https://berdakh.github.io/blog"><i class="fas fa-home"></i> Blog posts</a> - 
