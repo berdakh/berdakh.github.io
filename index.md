@@ -5,9 +5,10 @@ title: Berdakh Abibullaev
 <br/>
 
 # Berdakh Abibullaev
+
 <img src="media\profilephoto.jpg"
-     style="float: left; margin-right: 17px; margin-top:10px; margin-bottom: 15px; 
-     width:160px;height:180px;" />
+     style="float: left; margin-right: 15px; margin-top:10px; margin-bottom: 10px; 
+     width:175px;height:200px;" />
 
 Assistant Professor, Ph.D., <br/>
 Robotics and Mechatronics Department, <br/>
