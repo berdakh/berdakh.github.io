@@ -396,8 +396,8 @@ C++. Experience with a variety of tools and languages, including bash, LATEX, HT
 ### Language Skills
 - English (Professional proficiency) 
 - Korean  (Professional conversational skills)
-- Russian & Kazakh & Uzbek (Bilingual proficiency)
-
+- Russian/Kazakh  
+  
 ## Academic Service 
 **Associate Editor** 
  - IEEE Access
