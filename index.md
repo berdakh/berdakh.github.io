@@ -4,8 +4,13 @@ title: Berdakh Abibullaev
 ---
 <br/>
 
-# Berdakh Abibullaev
+## Berdakh Abibullaev
 Assistant Professor, Ph.D. 
+
+<img src="media\profilephoto.jpg"
+     style="float: left; margin-right: 15px; margin-bottom: 15px; 
+     width:150px;height:170px;" />
+
 
 Robotics and Mechatronics Department, <br/>
 School of Engineering and Digital Sciences, <br/>
