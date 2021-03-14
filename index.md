@@ -95,6 +95,7 @@ This project aims to accelerate the efficacy of robotic rehabilitation using a n
 **Co-Principal Investigator**, *Neural-assisted optimization of human learning with multimodal neuroimaging of EEG and NIRS*, Nazarbayev University.<br/>
 Implementing and validate a neural-assisted, machine-learning-based intelligent  tutoring system that uses information from physiological signals to adapt the learning schedule to a user's individual learning capacity
 
+
 ## Honors and Awards
 `11/2017` 
 **The best paper award**, *fNIRS motion artifact
@@ -118,11 +119,11 @@ correction for overground walking using entropy-based unbalanced optode decision
 ## Technical Skills 
 
 **Software :** Expert in the Python Language and libraries such as Cython; very good knowledge of C,
-C++. Experience with a variety of tools and languages, including bash, LATEX, HTML, Git, Lab-streaming layer, various database query languages etc 
+C++. Experience with a variety of tools and languages, including bash, LATEX, HTML, Git, various database query languages etc. 
 
-**Data Science :** Expert in NumPy, Scipy, Sklearn, PyTorch, Tensoflow, Keras, MNE, Azure DevOps, AWS Certified. 
+**Data Science :** Expert in NumPy, Scipy, Sklearn, PyTorch, Tensoflow, Keras, Azure DevOps. 
  
-**Data acquisition systems :** Expert user of Nicolet EEG Amplifiers, Blackrock Microsystems (intracranial recording), Functional Near-Infrared Spectroscopy FOIRE3000, BIOPAC fNIR200 Optical Brain Imaging, BioSemi Active-Two EEG system, Brain Products EEG amp., BIOPAC MP100 EEG amp. And G.tec g.USBamp systems. 
+**Neural Data acquisition :** Expert user of Nicolet EEG Amplifiers, Blackrock Microsystems (intracranial recording), Functional Near-Infrared Spectroscopy FOIRE3000, BIOPAC fNIR200 Optical Brain Imaging, BioSemi Active-Two EEG system, Brain Products EEG amp., BIOPAC MP100 EEG amp. And G.tec g.USBamp systems. 
 
 **Productivity applications :** LaTeX, BibTEX, PSTricks, Beamer 
 
@@ -136,6 +137,8 @@ C++. Experience with a variety of tools and languages, including bash, LATEX, HT
 **Associate Editor** 
  - IEEE Access
  - PeerJ Computer Science 
+
+
 
 **Program Committee Member** 
 
@@ -247,13 +250,17 @@ temporal lobe epileptic EEGs using the best basis wavelet functions**. *Journal 
 M.S. Kim, Y.C. Cho, <u>B. Abibullaev</u>, and H.D. Seo. **Analysis of brain functions and classification of sleep stage EEG using daubechies wavelet**. *Sensors and Materials* , 20(1):1--15, 2008. MYU, Japan. [[Link]](https://myukk.org/SM2017/sm_pdf/SM701.pdf)
 
 
-[Go to Top](#quick-links)
-
 ## Conference Publications 
 
-A. Oleinikov, <u>B. Abibullaev</u>, M. Folgheraiter, "**On the Classification of Electromyography Signals to Control a Four Degree-Of-Freedom Prosthetic Device**," in 2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), July 20-24, Montreal, Canada. 
+A. Oleinikov, <u>B. Abibullaev</u>, M. Folgheraiter, "**On the Classification of 
+Electromyography Signals to Control a Four Degree-Of-Freedom Prosthetic Device**,"
+in 2020 42nd Annual International Conference of the IEEE Engineering in Medicine & 
+Biology Society (EMBC), July 20-24, Montreal, Canada. 
 
-B. Saduanov, D. Tokmurzina, K. Kunanbayev and <u>B. Abibullaev</u>, "**Design and Optimization of a Real-Time Asynchronous BCI Control Strategy for Robotic Manipulator Assistance**", in 2020 8th International Winter Conference on Brain-Computer Interface (BCI), 2020, GangWon, South Korea. 
+B. Saduanov, D. Tokmurzina, K. Kunanbayev and <u>B. Abibullaev</u>, "**Design and 
+Optimization of a Real-Time Asynchronous BCI Control Strategy for Robotic Manipulator 
+Assistance**", in 2020 8th International Winter Conference on Brain-Computer Interface 
+(BCI), 2020, GangWon, South Korea. 
 
 A. Tuleuov and <u>B. Abibullaev</u>, “**Deep Learning Models for
 Subject-Independent ERP-based Brain-Computer Interfaces**,” in *the 2019
@@ -439,11 +446,6 @@ number*: 14049302, 09-OCT-2013, United States,
 
 J. An, S.H. Jin, S.H. Lee,  <u>B. Abibullaev</u>, J.I. Moon , J.H. Ahn and G.H. Jang. **Combining Brain Signals and Functional Electrostimulation Self-Directed Rehabilitation Method**, Patent Registration Number: 101501524000, 05.03.2015. South Korea, [[Link]](http://eng.kipris.or.kr/). 
 
-[Go to Top](#quick-links)
-
-
-
 <br/>
 <br/>
-
 [Go to Top](#quick-links)
