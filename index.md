@@ -38,7 +38,7 @@ Qabanbay Batyr Avenue # 53, Kazakhstan. <br/>
   - [Service to Scientific Community](#academic-service)
   - [Peer Reviewed Publications](#publications)
   
-  
+    
 *** 
 ## Short Biography
 <p style='text-align: justify;'>
@@ -46,15 +46,6 @@ Dr. Berdakh Abibullaev received his M.Sc. and Ph.D. degrees in electronic engine
 <p style='text-align: justify;'>
 Dr. Abibullaev has considerable research and clinical experience working with patient populations in applying scientific and technical skills to advance the development of treatments for neurological disorders. His current research focuses on developing signal processing and machine learning models for the inference problems of Brain-Computer Interfaces, and brain data analysis.
 </p>
-
-## Research Interests 
-
-### Neural Engineering: 
-
-- Brain-Computer/Machine Interfaces (BMI); EEG/ECoG Feature Learning; Electromagnetic Source Imaging; Epilepsy Research; Stroke Rehabilitation, Locked-in Syndrome.
-
-### Machine Learning: 
-- Deep Learning; Kernel based learning; Feature Representation Learning; Support-vector machines; Statistical learning theory. 
 
 
 ## Education
