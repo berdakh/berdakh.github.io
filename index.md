@@ -27,9 +27,6 @@ Web: http://berdakh.github.io
   <a href="https://www.youtube.com/channel/UCOUcmoCAWBFaqPb1Fu3J86A/videos"><i class="fab fa-youtube"></i> YouTube </a>
 </div>
 
-<br/>
-<br/>
-
 ## Quick Links:
   - [Executive Summary](#executive-summary)
   - [Short Biography](#short-biography)
@@ -40,15 +37,15 @@ Web: http://berdakh.github.io
   - [Technical Skills](#technical-skills)
   - [Service to Scientific Community](#academic-service)
   - [Peer Reviewed Publications](#publications)    
-***
+  
 
-## Executive Summary
+## Summary
 
-- Machine learning researcher with expertise in devising machine learning and deep learning techniques to large-scale, real-world problems.
+- Machine learning researcher with expertise in devising predictive models and deep learning techniques to large-scale, real-world problems.
 - Fast prototyping skills, feasibility studies, specification and implementation of data analysis pipelines.
-- Hands-on advanced proficiency in handling and analyzing large biomedical data sets. 
-- Contribution to research communities and/or efforts, advance the state-of-the-art in the field, including generating patents and publications in top journals and conferences.
 - Deep expertise working with huge, noisy, and complex data to produce innovative analysis and novel predictive models for inference. 
+- Contribution to research communities and/or efforts, advance the state-of-the-art in the field, including generating patents and publications in top journals and conferences.
+
 <br/>  
 
 ## Short Biography
