@@ -39,7 +39,7 @@ Web: http://berdakh.github.io
   - [Honors and Awards](#honors-and-awards)
   - [Technical Skills](#technical-skills)
   - [Service to Scientific Community](#academic-service)
-    
+  - [Peer Reviewed Publications](#publications)    
 ***
 
 ## Executive Summary
@@ -51,7 +51,7 @@ Web: http://berdakh.github.io
 - Deep expertise working with huge, noisy, and complex data to produce innovative analysis and novel predictive models for inference. 
 
 
-  - [Peer Reviewed Publications](#publications)
+
   
     
 *** 
