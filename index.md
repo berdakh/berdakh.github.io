@@ -267,6 +267,13 @@ M.S. Kim, Y.C. Cho, <u>B. Abibullaev</u>, and H.D. Seo. **Analysis of brain func
 
 ## Conference Publications 
 
+S. Abilkassov, M. Kairgaliyev, B. Zhakanov, <u>B. Abibullaev</u>, 
+"**A System For Drivers' Cognitive Load Estimation Based On Deep Convolutional Neural Networks and Facial Feature Analysis**", in 22nd IEEE International Conference on Industrial Technology, Virual 10-12, 2021, Spain.
+
+K. Kunanbayev, <u>B. Abibullaev</u>, A. Zollanvari, "**Data Augmentation for P300-based Brain-Computer Interfaces Using Generative Adversarial Networks**", in 2021 9th International Winter Conference on Brain-Computer Interface (BCI), 2020, GangWon, South Korea.
+
+K. Kunanbayev, D. Azhigulov,  <u>B. Abibullaev</u>, A. Zollanvari, "**Deep Transfer Learning for Subject-Independent ERP-based BCIs**", in 2021 9th International Winter Conference on Brain-Computer Interface (BCI), 2020, GangWon, South Korea.
+
 A. Oleinikov, <u>B. Abibullaev</u>, M. Folgheraiter, "**On the Classification of 
 Electromyography Signals to Control a Four Degree-Of-Freedom Prosthetic Device**,"
 in 2020 42nd Annual International Conference of the IEEE Engineering in Medicine & 
