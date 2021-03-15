@@ -20,7 +20,6 @@ Web: http://berdakh.github.io
 
 <div id="webaddress">
   <a href="https://berdakh.github.io/blog"><i class="fas fa-home"></i> Blog posts</a> - 
-  <a href="https://nu.edu.kz/faculty/berdakh-abibullaev"><i class="fas fa-users"></i>https://nu.edu.kz/faculty/berdakh-abibullaev</a><br/>
   <a href="https://github.com/berdakh"><i class="fab fa-github"></i> berdakh</a> - 
   <a href="https://orcid.org/0000-0002-8623-5526"><i class="ai ai-orcid"></i> 0000-0002-8623-5526</a> - 
   <a href="https://www.researchgate.net/profile/Berdakh-Abibullaev"><i class="ai ai-researchgate"></i>B. Abibullaev</a> -- 
@@ -40,6 +39,7 @@ Web: http://berdakh.github.io
   
 
 ## Executive Summary
+
 `-`
 Machine learning researcher with expertise in devising machine learning and deep learning techniques to large-scale, real-world problems.
 
