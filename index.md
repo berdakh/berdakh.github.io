@@ -49,12 +49,8 @@ Web: http://berdakh.github.io
 - Hands-on advanced proficiency in handling and analyzing large biomedical data sets. 
 - Contribution to research communities and/or efforts, advance the state-of-the-art in the field, including generating patents and publications in top journals and conferences.
 - Deep expertise working with huge, noisy, and complex data to produce innovative analysis and novel predictive models for inference. 
+<br/>  
 
-
-
-  
-    
-*** 
 ## Short Biography
 <p style='text-align: justify;'>
 Dr. Berdakh Abibullaev received his M.Sc. and Ph.D. degrees in electronic engineering from Yeungnam University, South Korea in 2006  and 2010 under the Korean Government Scholarship program. He held research scientist positions at Daegu-Gyeongbuk Institute of Science and Technology (2010-2013) and Samsung Medical Center, South Korea (2013-2014). He was also appointed as a research professor at Sungkyunkwan University, Seoul. In 2014, he received NIH (National Institute of Health, USA), a postdoctoral research fellowship to join a research project between the University of Houston Brain-Machine Interface Systems Team and a Texas Medical Center in developing neural interfaces for rehabilitation in post-stroke patients. Currently, he is an Assistant Professor in the Department of Robotics and Mechatronics, Nazarbayev University, Kazakhstan. </p>
