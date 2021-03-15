@@ -4,18 +4,19 @@ title: Berdakh Abibullaev
 ---
 <br/>
 
-# <font size="6"> Berdakh Abibullaev </font>
+# <font size="6"> Berdakh Abibullaev Ph.D. </font>
 
 <img src="media\profilephoto.jpg"
-     style="float: left; margin-right: 15px; margin-top:10px; margin-bottom: 10px; 
-     width:175px;height:200px;" />
+     style="float: left; margin-right: 15px; 
+     margin-top:10px; margin-bottom: 10px; 
+     width:125px;height:145px;" />
 
-Assistant Professor, Ph.D., <br/>
-Robotics and Mechatronics Department, <br/>
-School of Engineering and Digital Sciences, <br/>
-Nazarbayev University, [www.nu.edu.kz](http://nu.edu.kz), <br/> 
-Qabanbay Batyr Avenue # 53, Kazakhstan. <br/>
-<a href="mailto:firstname.lastname@nu.edu.kz">firstname.lastname@nu.edu.kz</a>  
+Permanent Resident, USA, <br/>
+2532 Yorktown Str, Apt 22,<br/>
+Houston, TX 77056<br/>
+Phone: +1 (832) 779-7737‬ <br/>
+Email: <a href="mailto:berdakho@gmail.com">berdakho@gmail.com</a>  
+Web: http://berdakh.github.io
 
 <div id="webaddress">
   <a href="https://berdakh.github.io/blog"><i class="fas fa-home"></i> Blog posts</a> - 
@@ -27,8 +28,10 @@ Qabanbay Batyr Avenue # 53, Kazakhstan. <br/>
 </div>
 
 <br/>
+<br/>
 
-## Quick Links: 
+## Quick Links:
+  - [Executive Summary](#executive-summary)
   - [Short Biography](#short-biography)
   - [Education](#education)
   - [Work Experience](#experience)
@@ -37,9 +40,18 @@ Qabanbay Batyr Avenue # 53, Kazakhstan. <br/>
   - [Honors and Awards](#honors-and-awards)
   - [Technical Skills](#technical-skills)
   - [Service to Scientific Community](#academic-service)
-  
-  
-*** 
+    
+***
+
+## Executive Summary
+
+- Machine learning researcher with expertise in devising machine learning and deep learning techniques to large-scale, real-world problems.
+- Fast prototyping skills, feasibility studies, specification and implementation of data analysis pipelines.
+- Hands-on advanced proficiency in handling and analyzing large biomedical data sets. 
+- Contribution to research communities and/or efforts, advance the state-of-the-art in the field, including generating patents and publications in top journals and conferences.
+- Deep expertise working with huge, noisy, and complex data to produce innovative analysis and novel predictive models for inference. 
+
+
 ## Short Biography
 <p style='text-align: justify;'>
 Dr. Berdakh Abibullaev received his M.Sc. and Ph.D. degrees in electronic engineering from Yeungnam University, South Korea in 2006  and 2010 under the Korean Government Scholarship program. He held research scientist positions at Daegu-Gyeongbuk Institute of Science and Technology (2010-2013) and Samsung Medical Center, South Korea (2013-2014). He was also appointed as a research professor at Sungkyunkwan University, Seoul. In 2014, he received NIH (National Institute of Health, USA), a postdoctoral research fellowship to join a research project between the University of Houston Brain-Machine Interface Systems Team and a Texas Medical Center in developing neural interfaces for rehabilitation in post-stroke patients. Currently, he is an Assistant Professor in the Department of Robotics and Mechatronics, Nazarbayev University, Kazakhstan. </p>
