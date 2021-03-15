@@ -39,13 +39,19 @@ Web: http://berdakh.github.io
   - [Peer Reviewed Publications](#publications)    
   
 
-## Summary
+## Executive Summary
+`-`
+Machine learning researcher with expertise in devising machine learning and deep learning techniques to large-scale, real-world problems.
 
-- Machine learning researcher with expertise in devising predictive models and deep learning techniques to large-scale, real-world problems.
-- Fast prototyping skills, feasibility studies, specification and implementation of data analysis pipelines.
-- Deep expertise working with huge, noisy, and complex data to produce innovative analysis and novel predictive models for inference. 
-- Contribution to research communities and/or efforts, advance the state-of-the-art in the field, including generating patents and publications in top journals and conferences.
+`-`
+Fast prototyping skills, feasibility studies, specification and implementation of data analysis pipelines.
 
+`-`
+Deep expertise working with huge, noisy, and complex data to produce innovative analysis and novel predictive models for inference. 
+
+`-`
+Contribution to research communities and/or efforts, advance the state-of-the-art in the field, including generating patents and publications in top journals and conferences.
+ 
 <br/>  
 
 ## Short Biography
