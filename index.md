@@ -11,12 +11,12 @@ title: Berdakh Abibullaev
      margin-top:10px; margin-bottom: 10px; 
      width:125px;height:145px;" />
 
-Permanent Resident, USA, <br/>
-2532 Yorktown Str, Apt 22,<br/>
+2532 Yorktown Str, #22,<br/>
 Houston, TX 77056<br/>
 Phone: +1 (832) 779-7737‬ <br/>
 Email: <a href="mailto:berdakho@gmail.com">berdakho@gmail.com</a>  
-Web: http://berdakh.github.io
+Web: http://berdakh.github.io, <br/>
+Permanent Resident, USA <br/>
 
 <div id="webaddress">
   <a href="https://berdakh.github.io/blog"><i class="fas fa-home"></i> Blog </a> - 
