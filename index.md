@@ -21,7 +21,6 @@ Web: http://berdakh.github.io
 <div id="webaddress">
   <a href="https://berdakh.github.io/blog"><i class="fas fa-home"></i> Blog </a> - 
   <a href="https://github.com/berdakh"><i class="fab fa-github"></i> berdakh</a> - 
-  <a href="https://orcid.org/0000-0002-8623-5526"><i class="ai ai-orcid"></i> 0000-0002-8623-5526</a> - 
   <a href="https://www.researchgate.net/profile/Berdakh-Abibullaev"><i class="ai ai-researchgate"></i>B. Abibullaev</a> -- 
   <a href="https://www.youtube.com/channel/UCOUcmoCAWBFaqPb1Fu3J86A/videos"><i class="fab fa-youtube"></i> YouTube </a> - <a href="./I2021[CV]-Berdakh.pdf" target="blank"> CV </a>
 </div>
