@@ -39,13 +39,13 @@ Web: [http://berdakh.github.io](http://berdakh.github.io), <br/>
 ## Summary
 
 `-`
-- Machine learning researcher with deep expertise in designing and developing machine learning and deep learning systems to large-scale, real-world problems.
+>Machine learning researcher with deep expertise in designing and developing machine learning and deep learning systems to large-scale, real-world problems.
 
 `-`
-- Expertise working with huge, noisy, and complex data to produce innovative analysis and novel predictive models for inference. 
+>Expertise working with huge, noisy, and complex data to produce innovative analysis and novel predictive models for inference. 
 
 `-`
-- Contribution to research communities and/or efforts, advance the state-of-the-art in the field, including generating patents and publications in top journals and conferences.
+>Contribution to research communities and/or efforts, advance the state-of-the-art in the field, including generating patents and publications in top journals and conferences.
  
 <br/>  
 
