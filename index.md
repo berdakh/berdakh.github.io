@@ -36,19 +36,16 @@ Web: [http://berdakh.github.io](http://berdakh.github.io), <br/>
   - [Peer Reviewed Publications](#publications)    
   
 
-## Executive Summary
+## Summary
 
 `-`
-Machine learning researcher with expertise in devising machine learning and deep learning techniques to large-scale, real-world problems.
+- Machine learning researcher with deep expertise in designing and developing machine learning and deep learning systems to large-scale, real-world problems.
 
 `-`
-Fast prototyping skills, feasibility studies, specification and implementation of data analysis pipelines.
+- Expertise working with huge, noisy, and complex data to produce innovative analysis and novel predictive models for inference. 
 
 `-`
-Deep expertise working with huge, noisy, and complex data to produce innovative analysis and novel predictive models for inference. 
-
-`-`
-Contribution to research communities and/or efforts, advance the state-of-the-art in the field, including generating patents and publications in top journals and conferences.
+- Contribution to research communities and/or efforts, advance the state-of-the-art in the field, including generating patents and publications in top journals and conferences.
  
 <br/>  
 
@@ -63,10 +60,10 @@ Dr. Abibullaev has considerable research and clinical experience working with pa
 ## Education
 
 `2006-2010`
-**Ph.D., Electronic and Electrical Engineering**, *Yeungnam University*, Daegu, South Korea.
+**Ph.D., Electronic and Electrical Engineering**, *Yeungnam University*, South Korea.
 
 `2004-2016`
-**M.Sc., Electronic and Electrical Engineering**, *Yeungnam University*, Daegu, South Korea.
+**M.Sc., Electronic and Electrical Engineering**, *Yeungnam University*, South Korea.
 
 `2000-2004`
 **B.Sc., Information Technology**, *Tashkent University of Information Technologies*, Uzbekistan.
