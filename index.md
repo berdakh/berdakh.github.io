@@ -15,8 +15,7 @@ title: Berdakh Abibullaev
 Houston, TX 77056<br/>
 Phone: +1 (832) 779-7737‬ <br/>
 Email: <a href="mailto:berdakho@gmail.com">berdakho@gmail.com</a>  
-Web: http://berdakh.github.io, <br/>
-Permanent Resident, USA <br/>
+Web: [http://berdakh.github.io](http://berdakh.github.io), <br/>
 
 <div id="webaddress">
   <a href="https://berdakh.github.io/blog"><i class="fas fa-home"></i> Blog </a> - 
