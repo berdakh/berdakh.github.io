@@ -13,7 +13,7 @@ title: Berdakh Abibullaev
 
 2532 Yorktown Str, #22,<br/>
 Houston, TX 77056<br/>
-Phone: +1 (832) 779-7737‬ <br/>
+Phone: +1 (832) 779-7736 <br/>
 Email: <a href="mailto:berdakho@gmail.com">berdakho@gmail.com</a>  
 Web: [http://berdakh.github.io](http://berdakh.github.io), <br/>
 
@@ -62,7 +62,7 @@ Dr. Abibullaev has considerable research and clinical experience working with pa
 `2006-2010`
 **Ph.D., Electronic and Electrical Engineering**, *Yeungnam University*, South Korea.
 
-`2004-2016`
+`2004-2006`
 **M.Sc., Electronic and Electrical Engineering**, *Yeungnam University*, South Korea.
 
 `2000-2004`
