@@ -1,7 +1,7 @@
 This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.9)  8 APR 2021 14:30
 entering extended mode
-**./I2021[CV]-Berdakh.tex
-(I2021[CV]-Berdakh.tex
+**./A2021[CV]-Berdakh.tex
+(A2021[CV]-Berdakh.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> xparse <2020-03-03> (moderncv.cls
 Document Class: moderncv 2012/10/31 v1.2.0 modern curriculum vitae and letter d
@@ -904,15 +904,15 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip78
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 28.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 28.
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 28
+Package hyperref Info: Option `breaklinks' set `true' on input line 26.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 26.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 26
 .
 
 (C:\Users\babib\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-(I2021[CV]-Berdakh.aux
+(A2021[CV]-Berdakh.aux
 
 LaTeX Warning: Label `haa1' multiply defined.
 
@@ -929,28 +929,28 @@ LaTeX Warning: Label `h3' multiply defined.
 LaTeX Warning: Label `h1' multiply defined.
 
 )
-\openout1 = `I2021[CV]-Berdakh.aux'.
+\openout1 = `A2021[CV]-Berdakh.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
 LaTeX Font Info:    Trying to load font information for T1+lmss on input line 2
-8.
+6.
  (C:\Users\babib\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -975,14 +975,14 @@ Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 )
-LaTeX Info: Redefining \microtypecontext on input line 28.
+LaTeX Info: Redefining \microtypecontext on input line 26.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 28.
+LaTeX Info: Redefining \showhyphens on input line 26.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1000,14 +1000,14 @@ Package microtype Info: Loading generic protrusion settings for font family
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(50.58878pt, 496.33032pt, 50.58878pt)
-* v-part:(T,H,B)=(43.36243pt, 772.77687pt, 28.90755pt)
+* v-part:(T,H,B)=(57.81621pt, 743.86821pt, 43.36243pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=496.33032pt
-* \textheight=772.77687pt
+* \textheight=743.86821pt
 * \oddsidemargin=-21.68121pt
 * \evensidemargin=-21.68121pt
-* \topmargin=-65.90756pt
+* \topmargin=-51.45378pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -1031,7 +1031,7 @@ Package: inputenc 2020/08/01 v1.3d Input encoding file
 \inpenc@prehook=\toks45
 \inpenc@posthook=\toks46
 )
-Package hyperref Info: Link coloring OFF on input line 28.
+Package hyperref Info: Link coloring OFF on input line 26.
 
 (C:\Users\babib\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1045,16 +1045,16 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count325
 )
-LaTeX Info: Redefining \ref on input line 28.
-LaTeX Info: Redefining \pageref on input line 28.
-LaTeX Info: Redefining \nameref on input line 28.
- (I2021[CV]-Berdakh.out) (I2021[CV]-Berdakh.out)
+LaTeX Info: Redefining \ref on input line 26.
+LaTeX Info: Redefining \pageref on input line 26.
+LaTeX Info: Redefining \nameref on input line 26.
+ (A2021[CV]-Berdakh.out) (A2021[CV]-Berdakh.out)
 \@outlinefile=\write6
-\openout6 = `I2021[CV]-Berdakh.out'.
+\openout6 = `A2021[CV]-Berdakh.out'.
 
 \makecvtitledetailsbox=\box77
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2
-9.
+7.
 
 (C:\Users\babib\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1064,91 +1064,102 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
-9.
+7.
 
 (C:\Users\babib\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-29.
+27.
 
 (C:\Users\babib\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-29.
+27.
 
 (C:\Users\babib\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 29.
+(Font)              <9> on input line 27.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 29.
+(Font)              <6> on input line 27.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 29.
+(Font)              <5> on input line 27.
 
 (C:\Users\babib\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
 \makecvtitlepicturebox=\box78
+<berdakh2019.png, id=91, 248.72925pt x 315.579pt>
+File: berdakh2019.png Graphic file (type png)
+<use berdakh2019.png>
+Package pdftex.def Info: berdakh2019.png  used on input line 27.
+(pdftex.def)             Requested size: 64.0pt x 81.2011pt.
 \makecvtitledetailswidth=\skip79
 \makecvtitlepicturewidth=\skip80
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--29
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
 
  []
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 39.
+(Font)              <10> on input line 36.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 39.
+(Font)              <7> on input line 36.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <9> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 56.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 46.
 [1
 
-{C:/Users/babib/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+{C:/Users/babib/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./berdakh2019.p
+ng (PNG copy)>]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 141.
- [2] [3]
-[4pdfTeX warning (ext4): destination with the same identifier (name{cite.haa1})
- has been already used, duplicate ignored
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 131.
+ [2] [3] [4pdfTeX warning (ext4): destination with the same identifier (name{ci
+te.haa1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.344 
+l.298 
       pdfTeX warning (ext4): destination with the same identifier (name{cite.ha
 a12}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.344 
+l.298 
       pdfTeX warning (ext4): destination with the same identifier (name{cite.ha
 a12}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.344 
-      ]pdfTeX warning (ext4): destination with the same identifier (name{cite.h
-3}) has been already used, duplicate ignored
+l.298 
+      ] [5]pdfTeX warning (ext4): destination with the same identifier (name{ci
+te.h3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.435 \bibitem{h3}
+l.425 \bibitem{h3}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{cite.h1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.440 \bibitem{h1}
-                   [5] [6] (I2021[CV]-Berdakh.aux)
+l.430 \bibitem{h1}
+                   [6] [7] (A2021[CV]-Berdakh.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Info: File `I2021[CV]-Berdakh.out' has not changed.
-(rerunfilecheck)             Checksum: A89E9AAB2E946550C74BE82F8CC345C2;1728.
+
+Package rerunfilecheck Warning: File `A2021[CV]-Berdakh.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `A2021[CV]-Berdakh.out':
+(rerunfilecheck)             Before: 385C1E43FEB38F8E64ECD8F9418DA87B;1761
+(rerunfilecheck)             After:  A89E9AAB2E946550C74BE82F8CC345C2;1728.
  ) 
 Here is how much of TeX's memory you used:
- 28653 strings out of 479296
- 562897 string characters out of 2855384
- 932340 words of memory out of 3000000
- 45247 multiletter control sequences out of 15000+200000
- 490022 words of font info for 205 fonts, out of 3000000 for 9000
+ 28659 strings out of 479296
+ 562996 string characters out of 2855384
+ 929718 words of memory out of 3000000
+ 45252 multiletter control sequences out of 15000+200000
+ 489921 words of font info for 204 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  101i,14n,108p,577b,515s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.en
@@ -1166,9 +1177,9 @@ C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso10.pfb>
 ><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso9.pfb
 ><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/marvosym/marv
 osym.pfb>
-Output written on I2021[CV]-Berdakh.pdf (6 pages, 311157 bytes).
+Output written on A2021[CV]-Berdakh.pdf (7 pages, 456889 bytes).
 PDF statistics:
- 233 PDF objects out of 1000 (max. 8388607)
- 68 named destinations out of 1000 (max. 500000)
- 45309 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 240 PDF objects out of 1000 (max. 8388607)
+ 69 named destinations out of 1000 (max. 500000)
+ 45314 words of extra memory for PDF output out of 51595 (max. 10000000)
 
