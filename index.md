@@ -22,7 +22,6 @@ Web: [http://berdakh.github.io](http://berdakh.github.io), <br/>
   <a href="https://github.com/berdakh"><i class="fab fa-github"></i> berdakh</a> - 
   <a href="https://www.researchgate.net/profile/Berdakh-Abibullaev"><i class="ai ai-researchgate"></i>B. Abibullaev</a> <br/>
     <a href="https://www.youtube.com/channel/UCOUcmoCAWBFaqPb1Fu3J86A/videos"><i class="fab fa-youtube"></i> YouTube </a> - <a href="./I2021[CV]-Berdakh.pdf" target="blank"> CV </a>
-  - <a href="./transcript.pdf" target="blank"> Academic Record </a>
 </div>
 
 ## Quick Links:
