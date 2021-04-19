@@ -11,8 +11,9 @@ title: Berdakh Abibullaev
      margin-top:10px; margin-bottom: 10px; 
      width:125px;height:145px;" />
 
-2532 Yorktown Str, #22,<br/>
-Houston, TX 77056<br/>
+Robotics and Mechatronics Department,<br/>
+School of Engineering and Digital Sciences, <br/>
+NAZARBAYEV UNIVERSITY, <br/>
 Phone: +1 (832) 779-7736 <br/>
 Email: <a href="mailto:berdakho@gmail.com">berdakho@gmail.com</a>  
 Web: [http://berdakh.github.io](http://berdakh.github.io), <br/>
@@ -39,10 +40,10 @@ Web: [http://berdakh.github.io](http://berdakh.github.io), <br/>
 ## Summary
 
 `-`
-Deep expertise in developing machine learning and deep learning systems to large-scale, real-world problems, and working with complex data to produce innovative analysis and predictive models for inference.
+Brain-Computer/Machine Interface Systems researcher with deep expertise in analyzing Brain data (i.e., EEG, ECoG, MEG, NIRS) for a real-time/offline mental state recognition.
 
 `-`
-Brain-Computer/Machine Interface Systems researcher with deep expertise in analyzing Brain data (i.e., EEG, ECoG, MEG, NIRS) for a real-time/offline mental state recognition.
+Deep expertise in developing machine learning and deep learning systems to large-scale, real-world problems, and working with complex data to produce innovative analysis and predictive models for inference.
 
 `-`
 Contribution to research communities and/or efforts, advance the state-of-the-art in the field, including generating patents and publications in top journals and conferences.
