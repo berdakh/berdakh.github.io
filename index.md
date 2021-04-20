@@ -4,7 +4,7 @@ title: Berdakh Abibullaev
 ---
 <br/>
 
-# <font size="6"> Berdakh Abibullaev Ph.D. </font>
+# <font size="5"> Berdakh Abibullaev Ph.D. </font>
 
 <img src="media\profilephoto.jpg"
      style="float: left; margin-right: 15px; 
@@ -13,7 +13,7 @@ title: Berdakh Abibullaev
 
 Robotics and Mechatronics Department,<br/>
 School of Engineering and Digital Sciences, <br/>
-NAZARBAYEV UNIVERSITY, <br/>
+Nazarbayev University, <br/>
 Phone: +1 (832) 779-7736 <br/>
 Email: <a href="mailto:berdakho@gmail.com">berdakho@gmail.com</a>  
 Web: [http://berdakh.github.io](http://berdakh.github.io), <br/>
@@ -36,7 +36,6 @@ Web: [http://berdakh.github.io](http://berdakh.github.io), <br/>
   - [Service to Scientific Community](#academic-service)
   - [Peer Reviewed Publications](#publications)    
   
-
 ## Summary
 
 `-`
@@ -47,16 +46,14 @@ Deep expertise in developing machine learning and deep learning systems to large
 
 `-`
 Contribution to research communities and/or efforts, advance the state-of-the-art in the field, including generating patents and publications in top journals and conferences.
- 
 <br/>  
 
 ## Short Biography
 <p style='text-align: justify;'>
-Dr. Berdakh Abibullaev received his M.Sc. and Ph.D. degrees in electronic engineering from Yeungnam University, South Korea in 2006  and 2010 under the Korean Government Scholarship program. He held research scientist positions at Daegu-Gyeongbuk Institute of Science and Technology (2010-2013) and Samsung Medical Center, South Korea (2013-2014). He was also appointed as a research professor at Sungkyunkwan University, Seoul. In 2014, he received NIH (National Institute of Health, USA), a postdoctoral research fellowship to join a research project between the University of Houston Brain-Machine Interface Systems Team and a Texas Medical Center in developing neural interfaces for rehabilitation in post-stroke patients. Currently, he is an Assistant Professor in the Department of Robotics and Mechatronics, Nazarbayev University, Kazakhstan. </p>
+Dr. Berdakh Abibullaev received his M.Sc. and Ph.D. degrees in electronic engineering from Yeungnam University, South Korea in 2006  and 2010 under the Korean Government Scholarship program. He held researcher scientist positions at Daegu-Gyeongbuk Institute of Science and Technology (2010-2013) and Samsung Medical Center, South Korea (2013-2014). He was also appointed as a research professor at Sungkyunkwan University, Seoul. In 2014, he received NIH (National Institute of Health, USA), a postdoctoral research fellowship to join a research project between the University of Houston Brain-Machine Interface Systems Team and a Texas Medical Center in developing neural interfaces for rehabilitation in post-stroke patients. Currently, he is an Assistant Professor in the Department of Robotics and Mechatronics, Nazarbayev University, Kazakhstan. </p>
 <p style='text-align: justify;'>
-Dr. Abibullaev has considerable research and clinical experience working with patient populations in applying scientific and technical skills to advance the development of treatments for neurological disorders. His current research focuses on developing signal processing and machine learning models for the inference problems of Brain-Computer Interfaces, and brain data analysis.
+Dr. Abibullaev has considerable research and clinical experience working with patient populations in applying scientific and technical skills to advance the development of treatments for neurological disorders. His current research focuses on developing signal processing and machine learning algorithms for the inference problems of Brain-Computer Interfaces, and brain data analysis.
 </p>
-
 
 ## Education
 
@@ -125,11 +122,9 @@ correction for overground walking using entropy-based unbalanced optode decision
 
 [Go to Top](#quick-links)
 
-
 ## Technical Skills 
 
-**Software :** Expert in the Python Language and libraries such as Cython; very good knowledge of C,
-C++. Experience with a variety of tools and languages, including bash, LATEX, HTML, Git, various database query languages etc. 
+**Software :** Expert in the Python Language and libraries such as Cython; very good knowledge of C, C++. Experience with a variety of tools and languages, including bash, LATEX, HTML, Git, various database query languages etc. 
 
 **Data Science :** Expert in NumPy, Scipy, Sklearn, PyTorch, Tensoflow, Keras, Azure DevOps. 
  
@@ -147,8 +142,6 @@ C++. Experience with a variety of tools and languages, including bash, LATEX, HT
 **Associate Editor** 
  - IEEE Access
  - PeerJ Computer Science 
-
-
 
 **Program Committee Member** 
 
