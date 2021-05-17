@@ -183,10 +183,6 @@ International Conference on Control Automation and Systems Oct.27-30, 2010, Seou
 
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?hl=en&user=KvECkz0AAAAJ&view_op=list_works&sortby=pubdate).  
 
-  - [**Journal Publications**](#journal-publications)
-  - [**Conference Publications**](#conference-publications)
-  - [**Patents**](#patents)
-
 ## Journal Publications 
 
 <u>B. Abibullaev</u> and A. Zollanvari. **A Systematic Deep Learning Model Selection for P300-Based Brain-Computer Interfaces**, *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, DOI: 10.1109/TSMC.2021.3051136, 2021. [[Link]](https://ieeexplore.ieee.org/document/9351887)
