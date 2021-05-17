@@ -37,7 +37,6 @@ Web: [http://berdakh.github.io](http://berdakh.github.io), <br/>
   - [Peer Reviewed Publications](#publications)    
   
 ## Summary
-
 `-`
 Brain-Computer/Machine Interface Systems researcher with deep expertise in analyzing Brain data (i.e., EEG, ECoG, MEG, NIRS) for a real-time/offline mental state recognition.
 
