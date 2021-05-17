@@ -9,7 +9,7 @@ title: Berdakh Abibullaev
 <img src="media\profilephoto.jpg"
      style="float: left; margin-right: 15px; 
      margin-top:10px; margin-bottom: 10px; 
-     width:135px;height:160px;" />
+     width:125px;height:145px;" />
 
 Robotics and Mechatronics Department,<br/>
 School of Engineering and Digital Sciences, <br/>
