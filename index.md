@@ -9,7 +9,7 @@ title: Berdakh Abibullaev
 <img src="media\profilephoto.jpg"
      style="float: left; margin-right: 15px; 
      margin-top:10px; margin-bottom: 10px; 
-     width:125px;height:145px;" />
+     width:135px;height:160px;" />
 
 Robotics and Mechatronics Department,<br/>
 School of Engineering and Digital Sciences, <br/>
@@ -25,7 +25,9 @@ Web: [http://berdakh.github.io](http://berdakh.github.io), <br/>
     <a href="https://www.youtube.com/channel/UCOUcmoCAWBFaqPb1Fu3J86A/videos"><i class="fab fa-youtube"></i> YouTube </a> - <a href="./I2021[CV]-Berdakh.pdf" target="blank"> CV </a>
 </div>
 
+
 ## Quick Links:
+
   - [Executive Summary](#summary)
   - [Short Biography](#short-biography)
   - [Education](#education)
@@ -84,6 +86,9 @@ Dr. Abibullaev has considerable research and clinical experience working with pa
 
 `02/2010 - 05/2011`
 **Postdoctoral fellow**, *Robotics Research Division, Daegu Gyeongbuk Institute of Science and Technology*, South Korea.
+
+
+[Go to Top](#quick-links)
 
 
 ## Grants and funding
@@ -172,6 +177,7 @@ International Conference on Control Automation and Systems Oct.27-30, 2010, Seou
 - Medical & Biological Engineering & Computing, Springer.
 <br/>  
 
+[Go to Top](#quick-links)
 
 ## Publications
 
@@ -250,6 +256,8 @@ using continuous wavelet transforms and artificial neural networks**, 8(1):33–
 temporal lobe epileptic EEGs using the best basis wavelet functions**. *Journal of Medical Systems*, 34(4):755–765, 2010. Springer. [[Link]](https://pubmed.ncbi.nlm.nih.gov/20703931/)
 
 M.S. Kim, Y.C. Cho, <u>B. Abibullaev</u>, and H.D. Seo. **Analysis of brain functions and classification of sleep stage EEG using daubechies wavelet**. *Sensors and Materials* , 20(1):1--15, 2008. MYU, Japan. [[Link]](https://myukk.org/SM2017/sm_pdf/SM701.pdf)
+
+[Go to Top](#quick-links)
 
 
 ## Conference Publications 
@@ -457,4 +465,5 @@ J. An, S.H. Jin, S.H. Lee,  <u>B. Abibullaev</u>, J.I. Moon , J.H. Ahn and G.H. 
 
 <br/>
 <br/>
+
 [Go to Top](#quick-links)
