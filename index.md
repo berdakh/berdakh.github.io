@@ -72,38 +72,49 @@ Dr. Abibullaev has considerable research and clinical experience working with pa
 `09/2015-present`
 **Assistant Professor**, *Robotics & Mechatronics Department, School of Engineering and Digital Sciences, Nazarbayev University*, Nur-Sultan, Kazakhstan.
 
-> Teaching: Signals and Systems, Statistical Methods and Machine Learning, Microcontrollers, Brain-Machine Interfaces 
+> **Teaching**: Signals and Systems, Statistical Methods and Machine Learning, Microcontrollers, Brain-Machine Interfaces 
 
-> Research: Brain-Computer/Machine Interfaces in Neural-Rehabilitation after Stroke.; Deep Learning for Robust Brain-Computer Interfaces; High-Level Robotic Manipulator Control via Brain-Computer Interfaces for Assistive Applications 
+> **Research**: Brain-Computer/Machine Interfaces in Neural-Rehabilitation after Stroke.; Deep Learning for Robust Brain-Computer Interfaces; High-Level Robotic Manipulator Control via Brain-Computer Interfaces for Assistive Applications 
 
 `05/2018 - 07/2018`
 **Visiting Professor**, *Department of Electrical Engineering & Computer Science, University of Houston*, Houston, Texas, USA.
-- Cortical source imaging of electroencephalographic signals in patients with stroke to examine neural correlates brain plasticity pre and post clinical trials with B.M.I. actuated exoskeleton.
+
+> Cortical source imaging of electroencephalographic signals in patients with stroke to examine neural correlates brain plasticity pre and post clinical trials with BMI. actuated exoskeleton.
 
 `05/2014 - 09/2015`
 **NIH Postdoctoral Research Fellow II**, *Department of Electrical Engineering & Computer Science, University of Houston*,Houston, Texas, USA.
-- Estimating neural correlates and mechanisms of an external command (mental intent) used to drive the external therapeutic exoskeleton for Brain-Machine Interfaces.
-- Investigate the role the mirror neuron system plays in the motor learning of young infants via noninvasively acquired brain signals
-- Categorizations of large-scale brain connectivity analysis to understand neural mechanisms of infant behavior. 
-- Electromagnetic-source localization and estimating brain network in connectivity analysis 
+
+> Estimating neural correlates and mechanisms of an external command (mental intent) used to drive the external therapeutic exoskeleton for Brain-Machine Interfaces.
+
+> Investigate the role the mirror neuron system plays in the motor learning of young infants via noninvasively acquired brain signals
+
+> Categorizations of large-scale brain connectivity analysis to understand neural mechanisms of infant behavior. 
+
+> Electromagnetic-source localization and estimating brain network in connectivity analysis 
 
 
 `01/2014 - 05/2014`
 **Research Scientist**, *Department of Neurology, Samsung Medical Center, Sungkyunkwan University*, Seoul, South Korea.
+
 > Investigated High-Frequency Oscillations of ECoG/E.E.G. signals relevant to Epileptogenesis using machine learning algorithms. Supported medical doctors through brain data analysis in the presurgical evaluation of patients with refractory epilepsy.
+
 > Neuroelectromagnetic source localization from scalp E.E.G. & M.E.G. recordings for delineation of epileptogenic zones in the surgical treatment of refractory focal epilepsy.
 
 
 `05/2011 - 12/2013`
 **Senior Research Scientist**, *Robotics Research Division, Daegu Gyeongbuk Institute of Science and Technology*, South Korea.
-> Implemented kernel-based machine learning algorithms for online BCIs to control neuro-rehabilitation devices. 
+> Implemented kernel-based machine learning algorithms for online BCIs to control neuro-rehabilitation devices.
+
 > Examined inter-subject/session variabilities to enhance fNIRS-based BCI performances. 
+
 > Design and optimization of non-invasive based BCI paradigms for real-time robot control. 
 
 `02/2010 - 05/2011`
 **Postdoctoral fellow**, *Robotics Research Division, Daegu Gyeongbuk Institute of Science and Technology*, South Korea.
-> Involved in quantitative E.E.G. and Neurofeedback methods of ADHD children. Time-frequency localization; Identification of strongly relevant neural signal patterns of ADHD using machine learning. 
+> Involved in quantitative EEG. and Neurofeedback methods of ADHD children. Time-frequency localization; Identification of strongly relevant neural signal patterns of ADHD using machine learning. 
+
 > Developed machine learning-based semi-supervised feature selection and classification algorithms. 
+
 > Participated in the developmental assessment of ADHD children during a long-term neuro-therapy in cooperation with a neurorehabilitation center at Daegu University.
 
 [Go to Top](#quick-links)
