@@ -68,7 +68,7 @@ Dr. Abibullaev has considerable research and clinical experience working with pa
 **B.Sc., Information Technology**, *Tashkent University of Information Technologies*, Uzbekistan.
 
 ## Experience
----
+<hr width="50%">
 
 `09/2015-present`
 **Assistant Professor**, *Robotics & Mechatronics Department, School of Engineering and Digital Sciences, Nazarbayev University*, Nur-Sultan, Kazakhstan.
@@ -76,11 +76,13 @@ Dr. Abibullaev has considerable research and clinical experience working with pa
 
 > **Research**: Brain-Computer/Machine Interfaces in Neural-Rehabilitation after Stroke.; Deep Learning for Robust Brain-Computer Interfaces; High-Level Robotic Manipulator Control via Brain-Computer Interfaces for Assistive Applications 
 
----
+<hr width="50%">
+
 `05/2018 - 07/2018`
 **Visiting Professor**, *Department of Electrical Engineering & Computer Science, University of Houston*, Houston, Texas, USA.
 > Cortical source imaging of electroencephalographic signals in patients with stroke to examine neural correlates brain plasticity pre and post clinical trials with BMI. actuated exoskeleton.
----
+<hr width="50%">
+
 
 `05/2014 - 09/2015`
 **NIH Postdoctoral Research Fellow II**, *Department of Electrical Engineering & Computer Science, University of Houston*,Houston, Texas, USA.
@@ -92,14 +94,15 @@ Dr. Abibullaev has considerable research and clinical experience working with pa
 
 > Electromagnetic-source localization and estimating brain network in connectivity analysis 
 
----
+<hr width="50%">
+
 `01/2014 - 05/2014`
 **Research Scientist**, *Department of Neurology, Samsung Medical Center, Sungkyunkwan University*, Seoul, South Korea.
 > Investigated High-Frequency Oscillations of ECoG/E.E.G. signals relevant to Epileptogenesis using machine learning algorithms. Supported medical doctors through brain data analysis in the presurgical evaluation of patients with refractory epilepsy.
 
 > Neuroelectromagnetic source localization from scalp E.E.G. & M.E.G. recordings for delineation of epileptogenic zones in the surgical treatment of refractory focal epilepsy.
 
----
+<hr width="50%">
 
 `05/2011 - 12/2013`
 **Senior Research Scientist**, *Robotics Research Division, Daegu Gyeongbuk Institute of Science and Technology*, South Korea.
@@ -109,7 +112,8 @@ Dr. Abibullaev has considerable research and clinical experience working with pa
 
 > Design and optimization of non-invasive based BCI paradigms for real-time robot control. 
 
----
+<hr width="50%">
+
 `02/2010 - 05/2011`
 **Postdoctoral fellow**, *Robotics Research Division, Daegu Gyeongbuk Institute of Science and Technology*, South Korea.
 > Involved in quantitative EEG. and Neurofeedback methods of ADHD children. Time-frequency localization; Identification of strongly relevant neural signal patterns of ADHD using machine learning. 
@@ -117,8 +121,8 @@ Dr. Abibullaev has considerable research and clinical experience working with pa
 > Developed machine learning-based semi-supervised feature selection and classification algorithms. 
 
 > Participated in the developmental assessment of ADHD children during a long-term neuro-therapy in cooperation with a neurorehabilitation center at Daegu University.
----
 
+ 
 [Go to Top](#quick-links)
 
 
