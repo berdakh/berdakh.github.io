@@ -87,13 +87,13 @@ Dr. Abibullaev has considerable research and clinical experience working with pa
 `05/2014 - 09/2015`
 **NIH Postdoctoral Research Fellow II**, *Department of Electrical Engineering & Computer Science, University of Houston*,Houston, Texas, USA.
 
-> - Estimating neural correlates and mechanisms of an external command (mental intent) used to drive the external therapeutic exoskeleton for Brain-Machine Interfaces.
+> Estimating neural correlates and mechanisms of an external command (mental intent) used to drive the external therapeutic exoskeleton for Brain-Machine Interfaces.
 
-> - Investigate the role the mirror neuron system plays in the motor learning of young infants via noninvasively acquired brain signals
+> Investigate the role the mirror neuron system plays in the motor learning of young infants via noninvasively acquired brain signals
 
-> - Categorizations of large-scale brain connectivity analysis to understand neural mechanisms of infant behavior. 
+> Categorizations of large-scale brain connectivity analysis to understand neural mechanisms of infant behavior. 
 
-> - Electromagnetic-source localization and estimating brain network in connectivity analysis 
+> Electromagnetic-source localization and estimating brain network in connectivity analysis 
 
 ---
 `01/2014 - 05/2014`
