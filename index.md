@@ -72,7 +72,6 @@ Dr. Abibullaev has considerable research and clinical experience working with pa
 
 `09/2015-present`
 **Assistant Professor**, *Robotics & Mechatronics Department, School of Engineering and Digital Sciences, Nazarbayev University*, Nur-Sultan, Kazakhstan.
-
 > **Teaching**: Signals and Systems, Statistical Methods and Machine Learning, Microcontrollers, Brain-Machine Interfaces 
 
 > **Research**: Brain-Computer/Machine Interfaces in Neural-Rehabilitation after Stroke.; Deep Learning for Robust Brain-Computer Interfaces; High-Level Robotic Manipulator Control via Brain-Computer Interfaces for Assistive Applications 
@@ -80,13 +79,11 @@ Dr. Abibullaev has considerable research and clinical experience working with pa
 ---
 `05/2018 - 07/2018`
 **Visiting Professor**, *Department of Electrical Engineering & Computer Science, University of Houston*, Houston, Texas, USA.
-
 > Cortical source imaging of electroencephalographic signals in patients with stroke to examine neural correlates brain plasticity pre and post clinical trials with BMI. actuated exoskeleton.
 ---
 
 `05/2014 - 09/2015`
 **NIH Postdoctoral Research Fellow II**, *Department of Electrical Engineering & Computer Science, University of Houston*,Houston, Texas, USA.
-
 > Estimating neural correlates and mechanisms of an external command (mental intent) used to drive the external therapeutic exoskeleton for Brain-Machine Interfaces.
 
 > Investigate the role the mirror neuron system plays in the motor learning of young infants via noninvasively acquired brain signals
@@ -98,7 +95,6 @@ Dr. Abibullaev has considerable research and clinical experience working with pa
 ---
 `01/2014 - 05/2014`
 **Research Scientist**, *Department of Neurology, Samsung Medical Center, Sungkyunkwan University*, Seoul, South Korea.
-
 > Investigated High-Frequency Oscillations of ECoG/E.E.G. signals relevant to Epileptogenesis using machine learning algorithms. Supported medical doctors through brain data analysis in the presurgical evaluation of patients with refractory epilepsy.
 
 > Neuroelectromagnetic source localization from scalp E.E.G. & M.E.G. recordings for delineation of epileptogenic zones in the surgical treatment of refractory focal epilepsy.
