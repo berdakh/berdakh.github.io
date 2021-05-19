@@ -56,7 +56,6 @@ Dr. Berdakh Abibullaev received his M.Sc. and Ph.D. degrees in electronic engine
 Dr. Abibullaev has considerable research and clinical experience working with patient populations in applying scientific and technical skills to advance the development of treatments for neurological disorders. His current research focuses on developing signal processing and machine learning algorithms for the inference problems of Brain-Computer Interfaces, and brain data analysis.
 </p>
 
-<br/>
 <hr width="50%">
 
 ## Education
@@ -70,7 +69,6 @@ Dr. Abibullaev has considerable research and clinical experience working with pa
 `2000-2004`
 **B.Sc., Information Technology**, *Tashkent University of Information Technologies*, Uzbekistan.
 
-<br/>
 <hr width="50%">
 ## Experience
 
@@ -85,7 +83,7 @@ Dr. Abibullaev has considerable research and clinical experience working with pa
 
 `05/2018 - 07/2018`
 **Visiting Professor**, *Department of Electrical Engineering & Computer Science, University of Houston*, Houston, Texas, USA.
-> Cortical source imaging of electroencephalographic signals in patients with stroke to examine neural correlates brain plasticity pre and post clinical trials with BMI. actuated exoskeleton.
+> Cortical source imaging of electroencephalographic signals in patients with stroke to examine neural correlates brain plasticity pre and post clinical trials with BMI actuated exoskeleton.
 
 <br/>
 <hr width="50%">
