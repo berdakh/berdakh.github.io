@@ -6,9 +6,9 @@ title: Berdakh Abibullaev
 
 <style>
   html * {
-    line-height: 1.625;
+    line-height: 1.525;
     color: #2020131;
-    font-family: Tisa Sans Pro Light , sans-serif;
+    font-family: Fira Code, sans-serif;
   }
 </style>
 
