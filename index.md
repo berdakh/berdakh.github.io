@@ -56,6 +56,9 @@ Dr. Berdakh Abibullaev received his M.Sc. and Ph.D. degrees in electronic engine
 Dr. Abibullaev has considerable research and clinical experience working with patient populations in applying scientific and technical skills to advance the development of treatments for neurological disorders. His current research focuses on developing signal processing and machine learning algorithms for the inference problems of Brain-Computer Interfaces, and brain data analysis.
 </p>
 
+<br/>
+<hr width="50%">
+
 ## Education
 
 `2006-2010`
@@ -67,22 +70,25 @@ Dr. Abibullaev has considerable research and clinical experience working with pa
 `2000-2004`
 **B.Sc., Information Technology**, *Tashkent University of Information Technologies*, Uzbekistan.
 
-## Experience
+<br/>
 <hr width="50%">
+## Experience
 
 `09/2015-present`
 **Assistant Professor**, *Robotics & Mechatronics Department, School of Engineering and Digital Sciences, Nazarbayev University*, Nur-Sultan, Kazakhstan.
-> **Teaching**: Signals and Systems, Statistical Methods and Machine Learning, Microcontrollers, Brain-Machine Interfaces 
+> *Teaching*: Signals and Systems, Statistical Methods and Machine Learning, Microcontrollers, Brain-Machine Interfaces 
 
-> **Research**: Brain-Computer/Machine Interfaces in Neural-Rehabilitation after Stroke.; Deep Learning for Robust Brain-Computer Interfaces; High-Level Robotic Manipulator Control via Brain-Computer Interfaces for Assistive Applications 
+> *Research*: Brain-Computer/Machine Interfaces in Neural-Rehabilitation after Stroke.; Deep Learning for Robust Brain-Computer Interfaces; High-Level Robotic Manipulator Control via Brain-Computer Interfaces for Assistive Applications 
 
+<br/>
 <hr width="50%">
 
 `05/2018 - 07/2018`
 **Visiting Professor**, *Department of Electrical Engineering & Computer Science, University of Houston*, Houston, Texas, USA.
 > Cortical source imaging of electroencephalographic signals in patients with stroke to examine neural correlates brain plasticity pre and post clinical trials with BMI. actuated exoskeleton.
-<hr width="50%">
 
+<br/>
+<hr width="50%">
 
 `05/2014 - 09/2015`
 **NIH Postdoctoral Research Fellow II**, *Department of Electrical Engineering & Computer Science, University of Houston*,Houston, Texas, USA.
@@ -94,6 +100,7 @@ Dr. Abibullaev has considerable research and clinical experience working with pa
 
 > Electromagnetic-source localization and estimating brain network in connectivity analysis 
 
+<br/>
 <hr width="50%">
 
 `01/2014 - 05/2014`
@@ -102,6 +109,7 @@ Dr. Abibullaev has considerable research and clinical experience working with pa
 
 > Neuroelectromagnetic source localization from scalp E.E.G. & M.E.G. recordings for delineation of epileptogenic zones in the surgical treatment of refractory focal epilepsy.
 
+<br/>
 <hr width="50%">
 
 `05/2011 - 12/2013`
@@ -112,6 +120,7 @@ Dr. Abibullaev has considerable research and clinical experience working with pa
 
 > Design and optimization of non-invasive based BCI paradigms for real-time robot control. 
 
+<br/>
 <hr width="50%">
 
 `02/2010 - 05/2011`
@@ -122,6 +131,8 @@ Dr. Abibullaev has considerable research and clinical experience working with pa
 
 > Participated in the developmental assessment of ADHD children during a long-term neuro-therapy in cooperation with a neurorehabilitation center at Daegu University.
 
+<br/>
+<hr width="50%">
  
 [Go to Top](#quick-links)
 
@@ -150,6 +161,8 @@ Implementing and validate a neural-assisted, machine-learning-based intelligent 
 `09/2014` 
 **Co-Investigator**, Development of high-resolution subdural electrodes and data mining methods for precise localization of epileptogenic zone in treatment of patients with refractory epilepsy. Participated in idea generation and in drafting/writing of the project proposal at Samsung Medical Center, Korea
 
+<br/>
+<hr width="50%">
 
 ## Honors and Awards
 `11/2017` 
@@ -169,6 +182,9 @@ correction for overground walking using entropy-based unbalanced optode decision
 **Brain Korea Scholarship**, *Recipient of competitive graduate scholarship for a M.Sc. program*, South Korea.
 
 [Go to Top](#quick-links)
+
+<br/>
+<hr width="50%">
 
 ## Technical Skills 
 
@@ -225,7 +241,7 @@ International Conference on Control Automation and Systems Oct.27-30, 2010, Seou
 
 ## Publications
 
-*Publication list also available [in Google Scholar](https://scholar.google.com/citations?hl=en&user=KvECkz0AAAAJ&view_op=list_works&sortby=pubdate).  
+*Publication list [in Google Scholar](https://scholar.google.com/citations?hl=en&user=KvECkz0AAAAJ&view_op=list_works&sortby=pubdate).  
 
 ## Journal Publications 
 
