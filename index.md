@@ -205,6 +205,8 @@ correction for overground walking using entropy-based unbalanced optode decision
  - IEEE Access
  - PeerJ Computer Science 
 
+<hr width="50%">
+
 **Program Committee Member** 
 
 International Workshop on Artificial Intelligence for Healthcare Applications at International Conference on Pattern Recognition 2020.
@@ -236,6 +238,8 @@ International Conference on Control Automation and Systems Oct.27-30, 2010, Seou
 <br/>  
 
 [Go to Top](#quick-links)
+
+<hr width="50%">
 
 ## Publications
 
