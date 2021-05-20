@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.4.21)  17 MAY 2021 15:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.4.21)  20 MAY 2021 17:00
 entering extended mode
-**"c:/Users/user/Google Drive/berdakh.github.io/I2021[CV]-Berdakh.tex"
-(c:/Users/user/Google Drive/berdakh.github.io/I2021[CV]-Berdakh.tex
+**"c:/Users/user/Google Drive/berdakh.github.io/A2021[CV]-Berdakh.tex"
+(c:/Users/user/Google Drive/berdakh.github.io/A2021[CV]-Berdakh.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> (moderncv.cls
 Document Class: moderncv 2012/10/31 v1.2.0 modern curriculum vitae and letter document class
@@ -638,34 +638,34 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip78
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 28.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 28.
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 28.
+Package hyperref Info: Option `breaklinks' set `true' on input line 26.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 26.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 26.
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-No file I2021[CV]-Berdakh.aux.
-\openout1 = `I2021[CV]-Berdakh.aux'.
+No file A2021[CV]-Berdakh.aux.
+\openout1 = `A2021[CV]-Berdakh.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 26.
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
@@ -687,14 +687,14 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Info: Redefining \microtypecontext on input line 28.
+LaTeX Info: Redefining \microtypecontext on input line 26.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 28.
+LaTeX Info: Redefining \showhyphens on input line 26.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -712,11 +712,11 @@ Package microtype Info: Loading generic protrusion settings for font family
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(50.58878pt, 496.33032pt, 50.58878pt)
-* v-part:(T,H,B)=(36.135pt, 780.0043pt, 28.90755pt)
+* v-part:(T,H,B)=(36.135pt, 765.54942pt, 43.36243pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=496.33032pt
-* \textheight=780.0043pt
+* \textheight=765.54942pt
 * \oddsidemargin=-21.68121pt
 * \evensidemargin=-21.68121pt
 * \topmargin=-73.135pt
@@ -743,7 +743,7 @@ Package: inputenc 2020/08/01 v1.3d Input encoding file
 \inpenc@prehook=\toks45
 \inpenc@posthook=\toks46
 )
-Package hyperref Info: Link coloring OFF on input line 28.
+Package hyperref Info: Link coloring OFF on input line 26.
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
@@ -753,37 +753,37 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count325
 )
-LaTeX Info: Redefining \ref on input line 28.
-LaTeX Info: Redefining \pageref on input line 28.
-LaTeX Info: Redefining \nameref on input line 28.
+LaTeX Info: Redefining \ref on input line 26.
+LaTeX Info: Redefining \pageref on input line 26.
+LaTeX Info: Redefining \nameref on input line 26.
 \@outlinefile=\write6
-\openout6 = `I2021[CV]-Berdakh.out'.
+\openout6 = `A2021[CV]-Berdakh.out'.
 
 \makecvtitledetailsbox=\box77
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 29.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 27.
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 29.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 27.
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 29.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 27.
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 29.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 27.
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 29.
+(Font)              <9> on input line 27.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 29.
+(Font)              <6> on input line 27.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 29.
+(Font)              <5> on input line 27.
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
@@ -791,69 +791,69 @@ File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 <profilephoto.jpg, id=43, 584.1825pt x 647.41875pt>
 File: profilephoto.jpg Graphic file (type jpg)
 <use profilephoto.jpg>
-Package pdftex.def Info: profilephoto.jpg  used on input line 29.
+Package pdftex.def Info: profilephoto.jpg  used on input line 27.
 (pdftex.def)             Requested size: 64.0pt x 70.9199pt.
 \makecvtitledetailswidth=\skip79
 \makecvtitlepicturewidth=\skip80
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--29
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
 
  []
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 39.
+(Font)              <10> on input line 36.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 39.
+(Font)              <7> on input line 36.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <9> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 52.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 46.
 [1
 
 {C:/Users/user/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./profilephoto.jpg>]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 137.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 131.
  [2] [3] [4pdfTeX warning (ext4): destination with the same identifier (name{cite.haa1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.340 
+l.334 
       pdfTeX warning (ext4): destination with the same identifier (name{cite.haa12}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.340 
+l.334 
       pdfTeX warning (ext4): destination with the same identifier (name{cite.haa12}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.340 
+l.334 
       ]pdfTeX warning (ext4): destination with the same identifier (name{cite.h3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.427 \bibitem{h3}
+l.425 \bibitem{h3}
                   pdfTeX warning (ext4): destination with the same identifier (name{cite.h1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.432 \bibitem{h1}
-                   [5] [6] (I2021[CV]-Berdakh.aux)
+l.430 \bibitem{h1}
+                   [5] [6] (A2021[CV]-Berdakh.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 
-Package rerunfilecheck Warning: File `I2021[CV]-Berdakh.out' has changed.
+Package rerunfilecheck Warning: File `A2021[CV]-Berdakh.out' has changed.
 (rerunfilecheck)                Rerun to get outlines right
 (rerunfilecheck)                or use package `bookmark'.
 
-Package rerunfilecheck Info: Checksums for `I2021[CV]-Berdakh.out':
+Package rerunfilecheck Info: Checksums for `A2021[CV]-Berdakh.out':
 (rerunfilecheck)             Before: <no file>
 (rerunfilecheck)             After:  A89E9AAB2E946550C74BE82F8CC345C2;1728.
  ) 
 Here is how much of TeX's memory you used:
- 28657 strings out of 479283
- 562961 string characters out of 2855375
- 928914 words of memory out of 3000000
+ 28649 strings out of 479283
+ 562873 string characters out of 2855375
+ 928963 words of memory out of 3000000
  45262 multiletter control sequences out of 15000+600000
- 489677 words of font info for 202 fonts, out of 8000000 for 9000
+ 489249 words of font info for 198 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 101i,14n,108p,622b,515s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 101i,14n,108p,619b,515s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi9.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss9.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbo10.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso10.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso17.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso9.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on I2021[CV]-Berdakh.pdf (6 pages, 461142 bytes).
+Output written on A2021[CV]-Berdakh.pdf (6 pages, 460916 bytes).
 PDF statistics:
  197 PDF objects out of 1000 (max. 8388607)
  68 named destinations out of 1000 (max. 500000)
