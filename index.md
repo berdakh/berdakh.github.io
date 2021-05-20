@@ -24,13 +24,13 @@ School of Engineering and Digital Sciences, <br/>
 Nazarbayev University, <br/>
 Phone: +1 (832) 779-7736 <br/>
 Email: <a href="mailto:berdakho@gmail.com">berdakho@gmail.com</a>  
-Web: [http://berdakh.github.io](http://berdakh.github.io), <br/>
+Web: [http://berdakh.github.io](http://berdakh.github.io) <br/>
 
 <div id="webaddress">
   <a href="https://berdakh.github.io/blog"><i class="fas fa-home"></i> Blog </a> - 
   <a href="https://github.com/berdakh"><i class="fab fa-github"></i> berdakh</a> - 
   <a href="https://www.researchgate.net/profile/Berdakh-Abibullaev"><i class="ai ai-researchgate"></i>B. Abibullaev</a> -
-    <a href="https://www.youtube.com/channel/UCOUcmoCAWBFaqPb1Fu3J86A/videos"><i class="fab fa-youtube"></i> YouTube </a> - <a href="./I2021[CV]-Berdakh.pdf" target="blank"> CV </a>
+    <a href="https://www.youtube.com/channel/UCOUcmoCAWBFaqPb1Fu3J86A/playlists"><i class="fab fa-youtube"></i> YouTube </a> - <a href="./I2021[CV]-Berdakh.pdf" target="blank"> CV </a>
 </div>
 
 
