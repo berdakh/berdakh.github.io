@@ -117,9 +117,9 @@ Dr. Abibullaev has considerable research and clinical experience working with pa
 
 `01/2014 - 05/2014`
 **Research Scientist**, *Department of Neurology, Samsung Medical Center, Sungkyunkwan University*, Seoul, South Korea.
-> Investigated High-Frequency Oscillations of ECoG/E.E.G. signals relevant to Epileptogenesis using machine learning algorithms. Supported medical doctors through brain data analysis in the presurgical evaluation of patients with refractory epilepsy.
+> Investigated High-Frequency Oscillations of ECoG/EEG. signals relevant to Epileptogenesis using machine learning algorithms. Supported medical doctors through brain data analysis in the presurgical evaluation of patients with refractory epilepsy.
 
-> Neuroelectromagnetic source localization from scalp E.E.G. & M.E.G. recordings for delineation of epileptogenic zones in the surgical treatment of refractory focal epilepsy.
+> Neuroelectromagnetic source localization from scalp EEG. & MEG recordings for delineation of epileptogenic zones in the surgical treatment of refractory focal epilepsy.
 
 <br/>
 <hr width="50%">
