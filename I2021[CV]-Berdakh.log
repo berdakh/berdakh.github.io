@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.10.7)  18 AUG 2021 10:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.10.7)  18 AUG 2021 10:33
 entering extended mode
 **"c:/Users/babib/Google Drive/berdakh.github.io/I2021[CV]-Berdakh.tex"
 ("c:/Users/babib/Google Drive/berdakh.github.io/I2021[CV]-Berdakh.tex"
@@ -793,88 +793,51 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--32
 
  []
 
-Runaway argument?
-{ \begin {itemize} \item Deep expertise in developing machine learnin\ETC.
-c:/Users/babib/Google Drive/berdakh.github.io/I2021[CV]-Berdakh.tex:41: Paragraph ended before \\cvitem was complete.
-<to be read again> 
-                   \par 
-l.41 
-     
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-
-c:/Users/babib/Google Drive/berdakh.github.io/I2021[CV]-Berdakh.tex:42: LaTeX Error: \begin{document} ended by \end{itemize}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.42 \end{itemize}
-                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-c:/Users/babib/Google Drive/berdakh.github.io/I2021[CV]-Berdakh.tex:42: Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.42 \end{itemize}
-                  
-Things are pretty mixed up, but I think the worst is over.
-
-c:/Users/babib/Google Drive/berdakh.github.io/I2021[CV]-Berdakh.tex:43: Too many }'s.
-l.43 }
-      
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 49.
+(Font)              <10> on input line 42.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 49.
+(Font)              <7> on input line 42.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <9> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 55.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 54.
 [1
 
 {C:/Users/babib/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 140.
- [2] [3]pdfTeX warning (ext4): destination with the same identifier (name{cite.haa1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.246     \bibitem{haa1}
-                        pdfTeX warning (ext4): destination with the same identifier (name{cite.haa1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.259     \bibitem{haa1}
-                        
-Underfull \hbox (badness 1360) in paragraph at lines 306--310
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 139.
+ [2] [3]
+Underfull \hbox (badness 1360) in paragraph at lines 305--309
 []$[]$\T1/lmss/m/n/9 (+20) , J An, S.H. Lee, S.H. Jin, and J.I. Moon.  \T1/lmss/bx/n/9 Min-i-miz-ing inter-subject vari-abil-ity
  []
 
 
-Underfull \hbox (badness 1127) in paragraph at lines 306--310
+Underfull \hbox (badness 1127) in paragraph at lines 305--309
 \T1/lmss/bx/n/9 in fNIRS based brain com-puter in-ter-faces via multiple-kernel sup-port vec-tor learn-ing.  \T1/lmss/m/n/9 (+20) DOI:
  []
 
-[4pdfTeX warning (ext4): destination with the same identifier (name{cite.haa12}) has been already used, duplicate ignored
+[4pdfTeX warning (ext4): destination with the same identifier (name{cite.haa1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.350 
+l.338 
+      pdfTeX warning (ext4): destination with the same identifier (name{cite.haa1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.338 
       pdfTeX warning (ext4): destination with the same identifier (name{cite.haa12}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.350 
+l.338 
+      pdfTeX warning (ext4): destination with the same identifier (name{cite.haa12}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.338 
       ]pdfTeX warning (ext4): destination with the same identifier (name{cite.h3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.437 \bibitem{h3}
+l.436 \bibitem{h3}
                   pdfTeX warning (ext4): destination with the same identifier (name{cite.h1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.442 \bibitem{h1}
+l.441 \bibitem{h1}
                    [5] [6] (I2021[CV]-Berdakh.aux)
 
 Package rerunfilecheck Warning: File `I2021[CV]-Berdakh.out' has changed.
@@ -889,15 +852,15 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 28929 strings out of 480198
- 566401 string characters out of 2878858
- 921571 words of memory out of 3000000
- 44787 multiletter control sequences out of 15000+200000
- 613515 words of font info for 130 fonts, out of 3000000 for 9000
+ 28934 strings out of 480198
+ 566470 string characters out of 2878858
+ 922187 words of memory out of 3000000
+ 44788 multiletter control sequences out of 15000+200000
+ 613717 words of font info for 132 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 89i,14n,115p,620b,513s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 89i,14n,115p,620b,516s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi9.pfb><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss9.pfb><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbo10.pfb><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso10.pfb><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso17.pfb><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso9.pfb><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on I2021[CV]-Berdakh.pdf (6 pages, 307399 bytes).
+Output written on I2021[CV]-Berdakh.pdf (6 pages, 308256 bytes).
 PDF statistics:
  196 PDF objects out of 1000 (max. 8388607)
  68 named destinations out of 1000 (max. 500000)
