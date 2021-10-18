@@ -21,7 +21,7 @@ Email: <a href="mailto:berdakho@gmail.com">berdakho@gmail.com</a>
 Web: [http://berdakh.github.io](http://berdakh.github.io) <br/>
 
 <div id="webaddress">
-  <a href="https://nubmi.notion.site"><i class="fas fa-home"></i> Lab Web Page </a> - 
+  <a href="https://nubmi.notion.site"><i class="fas fa-home"></i> Web Page </a> - 
   <a href="https://github.com/berdakh"><i class="fab fa-github"></i> berdakh</a> - 
   <a href="https://www.researchgate.net/profile/Berdakh-Abibullaev"><i class="ai ai-researchgate"></i>B. Abibullaev</a> -
     <a href="https://www.youtube.com/channel/UCOUcmoCAWBFaqPb1Fu3J86A/playlists"><i class="fab fa-youtube"></i> YouTube </a> - <a href="./I2021[CV]-Berdakh.pdf" target="blank"> CV </a>
