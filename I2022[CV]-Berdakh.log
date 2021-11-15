@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.9)  15 NOV 2021 10:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.9)  15 NOV 2021 11:52
 entering extended mode
 **"c:/Users/babib/Google Drive/berdakh.github.io/I2022[CV]-Berdakh.tex"
 (c:/Users/babib/Google Drive/berdakh.github.io/I2022[CV]-Berdakh.tex
@@ -821,31 +821,31 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 144.
  [2]
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <9> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 240.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 237.
  [3pdfTeX warning (ext4): destination with the same identifier (name{cite.haa1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.280     \bibitem{h1}
-                      pdfTeX warning (ext4): destination with the same identifier (name{cite.haa1}) has been already used, duplicate ignored
+l.287 
+      pdfTeX warning (ext4): destination with the same identifier (name{cite.haa1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.280     \bibitem{h1}
-                      pdfTeX warning (ext4): destination with the same identifier (name{cite.haa12}) has been already used, duplicate ignored
+l.287 
+      pdfTeX warning (ext4): destination with the same identifier (name{cite.haa12}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.280     \bibitem{h1}
-                      pdfTeX warning (ext4): destination with the same identifier (name{cite.haa12}) has been already used, duplicate ignored
+l.287 
+      pdfTeX warning (ext4): destination with the same identifier (name{cite.haa12}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.280     \bibitem{h1}
-                      ] [4]pdfTeX warning (ext4): destination with the same identifier (name{cite.h3}) has been already used, duplicate ignored
+l.287 
+      ] [4]pdfTeX warning (ext4): destination with the same identifier (name{cite.h3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.445 \bibitem{h3}
+l.442 \bibitem{h3}
                   pdfTeX warning (ext4): destination with the same identifier (name{cite.h1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.450 \bibitem{h1}
+l.447 \bibitem{h1}
                    [5] [6] [7] (I2022[CV]-Berdakh.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
@@ -860,15 +860,15 @@ Package rerunfilecheck Info: Checksums for `I2022[CV]-Berdakh.out':
 (rerunfilecheck)             After:  A575C101E5960AE438B0BEFD8194580A;1786.
  ) 
 Here is how much of TeX's memory you used:
- 28702 strings out of 479296
- 563582 string characters out of 2855384
- 930524 words of memory out of 3000000
+ 28706 strings out of 479296
+ 563634 string characters out of 2855384
+ 930592 words of memory out of 3000000
  45290 multiletter control sequences out of 15000+200000
- 492967 words of font info for 207 fonts, out of 3000000 for 9000
+ 493169 words of font info for 209 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  101i,14n,108p,580b,515s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi9.pfb><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss9.pfb><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbo10.pfb><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso10.pfb><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso17.pfb><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso9.pfb><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on I2022[CV]-Berdakh.pdf (7 pages, 310710 bytes).
+Output written on I2022[CV]-Berdakh.pdf (7 pages, 310570 bytes).
 PDF statistics:
  205 PDF objects out of 1000 (max. 8388607)
  72 named destinations out of 1000 (max. 500000)
