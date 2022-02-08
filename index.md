@@ -4,8 +4,6 @@ title: Berdakh Abibullaev
 ---
 <br/>
 
-
-
 # <font size="5"> Berdakh Abibullaev Ph.D. </font>
 
 <img src="media\profilephoto.jpg"
@@ -13,10 +11,12 @@ title: Berdakh Abibullaev
      margin-top:10px; margin-bottom: 10px; 
      width:125px;height:145px;" />
 
-Robotics and Mechatronics Department,<br/>
-School of Engineering and Digital Sciences, <br/>
-Nazarbayev University, <br/>
-Phone: +1 (832) 779-7736 <br/>
+IEEE Senior Member,<br/>
+Permanent Resident, USA,<br/>
+2532 Yorktown Str, 22,<br/>
+Houston, TX 77056, <br/>
+
+
 Email: <a href="mailto:berdakho@gmail.com">berdakho@gmail.com</a>  
 Web: [http://berdakh.github.io](http://berdakh.github.io) <br/>
 
@@ -24,7 +24,7 @@ Web: [http://berdakh.github.io](http://berdakh.github.io) <br/>
   <a href="https://nubmi.notion.site"><i class="fas fa-home"></i> Web Page </a> - 
   <a href="https://github.com/berdakh"><i class="fab fa-github"></i> berdakh</a> - 
   <a href="https://www.researchgate.net/profile/Berdakh-Abibullaev"><i class="ai ai-researchgate"></i>B. Abibullaev</a> -
-    <a href="https://www.youtube.com/channel/UCOUcmoCAWBFaqPb1Fu3J86A/playlists"><i class="fab fa-youtube"></i> YouTube </a> - <a href="./I2022[CV]-Berdakh.pdf" target="blank"> CV </a>
+    <a href="https://www.youtube.com/channel/UCOUcmoCAWBFaqPb1Fu3J86A/playlists"><i class="fab fa-youtube"></i> YouTube </a> 
 </div>
 
 
@@ -327,6 +327,12 @@ M.S. Kim, Y.C. Cho, <u>B. Abibullaev</u>, and H.D. Seo. **Analysis of brain func
 
 
 ## Conference Publications 
+
+I. Dolzhikova, <u>B. Abibullaev</u>, R. Sameni, A. Zollanvari, "**An Ensemble CNN for Subject-Independent Classification of Motor Imagery-based EEG**", the 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS), October 31 – November 4, 2021
+ 
+Y. Kainolda, <u>B. Abibullaev</u>, R. Sameni, A. Zollanvari, "**Is Riemannian Geometry Better than Euclidean in Averaging Covariance Matrices for CSP-based Subject-Independent Classification of Motor Imagery?**", the 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS), October 31 – November 4, 2021
+ 
+M. Nurpeiissov, <u>B. Abibullaev</u>, T. Alizadeh,  "**A novel human-robot interaction framework based on Telegram and programming by demonstration**", 9th International Conference on Robot Intelligence Technology and Applications (RITA 2021), on Dec 16 - 17, 2021 at KAIST Daejeon, Korea.
 
 S. Abilkassov, M. Kairgaliyev, B. Zhakanov, <u>B. Abibullaev</u>, 
 "**A System For Drivers' Cognitive Load Estimation Based On Deep Convolutional Neural Networks and Facial Feature Analysis**", in 22nd IEEE International Conference on Industrial Technology, Virual 10-12, 2021, Spain.
