@@ -31,7 +31,6 @@ Web: [http://berdakh.github.io](http://berdakh.github.io) <br/>
 ## Quick Links:
 
   - [Executive Summary](#summary)
-  - [Short Biography](#short-biography)
   - [Education](#education)
   - [Work Experience](#experience)
   - [Grants and Funding](#grants-and-funding)
