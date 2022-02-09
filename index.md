@@ -70,7 +70,7 @@ Contribution to research communities and/or efforts, advance the state-of-the-ar
 ## Experience
 
 `09/2015-present`
-**Assistant Professor**, *Robotics & Mechatronics Department, School of Engineering and Digital Sciences, Nazarbayev University*, Nur-Sultan, Kazakhstan.
+**Assistant Professor**, *Robotics & Mechatronics Department, School of Engineering and Digital Sciences, Nazarbayev University*, Kazakhstan.
 > *Teaching*: Signals and Systems, Statistical Methods and Machine Learning, Microcontrollers, Brain-Machine Interfaces 
 
 > *Research*: Brain-Computer/Machine Interfaces in Neural-Rehabilitation after Stroke.; Deep Learning for Robust Brain-Computer Interfaces; High-Level Robotic Manipulator Control via Brain-Computer Interfaces for Assistive Applications 
