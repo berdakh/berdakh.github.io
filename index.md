@@ -183,7 +183,7 @@ correction for overground walking using entropy-based unbalanced optode decision
 
 ## Technical Skills 
 
-**Software :** Expert in the Python Language and libraries such as Cython; very good knowledge of C, C++. Experience with a variety of tools and languages, including bash, LATEX, HTML, Git, various database query languages etc. 
+**Software :** Expert in the Python Language and libraries such as Cython; Good knowledge of C, C++. Experience with a variety of tools and languages, including bash, LATEX, HTML, Git, various database query languages etc. 
 
 **Data Science :** Expert in NumPy, Scipy, Sklearn, PyTorch, Tensoflow, Keras, Azure DevOps. 
  
