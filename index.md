@@ -12,9 +12,10 @@ title: Berdakh Abibullaev
      width:125px;height:145px;" />
 
 IEEE Senior Member,<br/>
-Permanent Resident, USA,<br/>
-2532 Yorktown Str,<br/>
-Houston, TX 77056, <br/>
+Nazarbayev University (www.nu.edu.kz), <br/>
+School of Engineering and Digital Sciences,<br/>
+Robotics and Mechatronics Department, <br/>
+Permanent Resident, USA. <br/>
 
 
 Email: <a href="mailto:berdakho@gmail.com">berdakho@gmail.com</a>  
