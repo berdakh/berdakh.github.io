@@ -15,20 +15,17 @@ IEEE Senior Member,<br/>
 Nazarbayev University (www.nu.edu.kz), <br/>
 School of Engineering and Digital Sciences,<br/>
 Robotics and Mechatronics Department, <br/>
-53 Qabanbay Batyr Ave., Nur-Sultan, Kazakhstan <br/> <br/>
-
-Web: [http://nubmi.notion.site](http://nubmi.notion.site) <br/>
-Email: <a href="mailto:berdakho@gmail.com">berdakho@gmail.com</a><br/> 
-[Curriculumn Vitae](./I2023[CV]-Berdakh.pdf) <br/>
+53 Qabanbay Batyr Ave., Nur-Sultan, Kazakhstan <br/> 
+Email: <a href="mailto:berdakho@gmail.com">berdakh.abibullaev@nu.edu.kz</a><br/> 
 
 
 <div id="webaddress">
+  <a href="https://berdakh.github.io/I2023%5BCV%5D-Berdakh.pdf"><i class="fas fa-home"></i> Curriculumn Vitae </a> -   
   <a href="https://www.linkedin.com/in/berdakh-abibullaev-a79655137/"><i class="fas fa-home"></i> LinkedIn </a> -   
   <a href="https://github.com/berdakh"><i class="fab fa-github"></i> Berdakh </a> - 
-  <a href="https://www.researchgate.net/profile/Berdakh-Abibullaev"><i class="ai ai-researchgate"></i>B. Abibullaev</a> -
+  <a href="http://nubmi.notion.site"><i class="ai ai-researchgate"></i> Lab Web Page</a> -
   <a href="https://www.youtube.com/channel/UCOUcmoCAWBFaqPb1Fu3J86A/playlists"><i class="fab fa-youtube"></i> YouTube </a> 
 </div>
-
 
 ## Quick Links:
 
