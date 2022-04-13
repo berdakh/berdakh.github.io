@@ -15,11 +15,11 @@ IEEE Senior Member,<br/>
 Nazarbayev University (www.nu.edu.kz), <br/>
 School of Engineering and Digital Sciences,<br/>
 Robotics and Mechatronics Department, <br/>
-#53 Qabanbay Batyr Ave., Nur-Sultan, Kazakhstan <br/>
+53 Qabanbay Batyr Ave., Nur-Sultan, Kazakhstan <br/> <br/>
 
-Web: [](http://nubmi.notion.site) <br/>
+Web: [http://nubmi.notion.site](http://nubmi.notion.site) <br/>
 Email: <a href="mailto:berdakho@gmail.com">berdakho@gmail.com</a><br/> 
-[Curriculumn Vitae](https://github.com/berdakh/berdakh.github.io/raw/main/I2023%5BCV%5D-Berdakh.pdf) <br/>
+[Curriculumn Vitae](./I2023[CV]-Berdakh.pdf) <br/>
 
 
 <div id="webaddress">
