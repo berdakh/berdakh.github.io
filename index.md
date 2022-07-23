@@ -240,6 +240,9 @@ International Conference on Control Automation and Systems Oct.27-30, 2010, Seou
 ## Publications
 
 *Publication list [in Google Scholar](https://scholar.google.com/citations?hl=en&user=KvECkz0AAAAJ&view_op=list_works&sortby=pubdate).  
+<u>B. Abibullaev</u>, Kassymzhomart Kunanbayev and A. Zollanvari. **Subject-Independent Classification of P300 Event-Related Potentials Using a Small Number of Training Subjects**, *IEEE Transactions on Human-Machine Systems
+*, DOI: 10.1109/THMS.2022.3189576, 2022. [[Link]](https://doi.org/10.1109/THMS.2022.3189576)
+
 
 A. Zollanvari and <u>B. Abibullaev</u>. **Bias correction for linear discriminant analysis**, *Pattern Recognition Letters*, Vol : 151, Pages: 41-47, 2021. [[Link]](https://www.sciencedirect.com/science/article/pii/S0167865521002750)
  
