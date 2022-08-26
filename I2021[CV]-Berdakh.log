@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8) (preloaded format=pdflatex 2022.8.22)  22 AUG 2022 21:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8) (preloaded format=pdflatex 2022.8.22)  22 AUG 2022 21:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/babib/My Drive/berdakh.github.io/I2023[CV]-Berdakh.tex"
-(c:/Users/babib/My Drive/berdakh.github.io/I2023[CV]-Berdakh.tex
+**"c:/Users/babib/My Drive/berdakh.github.io/I2021[CV]-Berdakh.tex"
+(c:/Users/babib/My Drive/berdakh.github.io/I2021[CV]-Berdakh.tex
 LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-08-05> (moderncv.cls
 Document Class: moderncv 2012/10/31 v1.2.0 modern curriculum vitae and letter document class
@@ -667,8 +667,8 @@ File: l3backend-pdftex.def 2022-08-05 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count325
 \l__pdf_internal_box=\box80
 )
-No file I2023[CV]-Berdakh.aux.
-\openout1 = `I2023[CV]-Berdakh.aux'.
+No file I2021[CV]-Berdakh.aux.
+\openout1 = `I2021[CV]-Berdakh.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
 LaTeX Font Info:    ... okay on input line 32.
@@ -772,7 +772,7 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 )
 Package hyperref Info: Link coloring OFF on input line 32.
 \@outlinefile=\write4
-\openout4 = `I2023[CV]-Berdakh.out'.
+\openout4 = `I2021[CV]-Berdakh.out'.
 
 \makecvtitledetailsbox=\box82
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 33.
@@ -829,16 +829,16 @@ pdfTeX warning (ext4): destination with the same identifier (name{cite.h3}) has 
 <to be read again> 
                    \relax 
 l.444 \bibitem{h3}
-                   [5] [6] [7] (I2023[CV]-Berdakh.aux)
+                   [5] [6] [7] (I2021[CV]-Berdakh.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 
-Package rerunfilecheck Warning: File `I2023[CV]-Berdakh.out' has changed.
+Package rerunfilecheck Warning: File `I2021[CV]-Berdakh.out' has changed.
 (rerunfilecheck)                Rerun to get outlines right
 (rerunfilecheck)                or use package `bookmark'.
 
-Package rerunfilecheck Info: Checksums for `I2023[CV]-Berdakh.out':
+Package rerunfilecheck Info: Checksums for `I2021[CV]-Berdakh.out':
 (rerunfilecheck)             Before: <no file>
 (rerunfilecheck)             After:  A575C101E5960AE438B0BEFD8194580A;1786.
  ) 
@@ -851,7 +851,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  90i,14n,99p,1058b,631s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi9.pfb><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss9.pfb><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbo10.pfb><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso10.pfb><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso17.pfb><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso9.pfb><C:/Users/babib/AppData/Local/Programs/MiKTeX/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on I2023[CV]-Berdakh.pdf (7 pages, 323538 bytes).
+Output written on I2021[CV]-Berdakh.pdf (7 pages, 323538 bytes).
 PDF statistics:
  228 PDF objects out of 1000 (max. 8388607)
  80 named destinations out of 1000 (max. 500000)
