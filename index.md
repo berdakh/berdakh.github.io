@@ -10,7 +10,7 @@ title: Berdakh Abibullaev
      style="float: left; margin-right: 15px; 
      margin-top:10px; margin-bottom: 10px; 
      width:125px;height:145px;" />
-
+Associate Professor,<br/>
 IEEE Senior Member,<br/>
 Nazarbayev University (www.nu.edu.kz), <br/>
 School of Engineering and Digital Sciences,<br/>
@@ -240,8 +240,10 @@ International Conference on Control Automation and Systems Oct.27-30, 2010, Seou
 ## Publications
 
 *Publication list [in Google Scholar](https://scholar.google.com/citations?hl=en&user=KvECkz0AAAAJ&view_op=list_works&sortby=pubdate).  
+
 <u>B. Abibullaev</u>, Kassymzhomart Kunanbayev and A. Zollanvari. **Subject-Independent Classification of P300 Event-Related Potentials Using a Small Number of Training Subjects**, *IEEE Transactions on Human-Machine Systems*, DOI: 10.1109/THMS.2022.3189576, 2022. [[Link]](https://doi.org/10.1109/THMS.2022.3189576)
 
+I. Dolzhikova, <u>B. Abibullaev</u>, R. Sameni, A. Zollanvari, "**Subject-Independent Classification of Motor Imagery Tasks in EEG using Multi-Subject Ensemble CNN**", *IEEE Access*, DOI:10.1109/ACCESS.2022.3195513, 2022 [[Link]](https://doi.org/10.1109/ACCESS.2022.3195513).   
 
 A. Zollanvari and <u>B. Abibullaev</u>. **Bias correction for linear discriminant analysis**, *Pattern Recognition Letters*, Vol : 151, Pages: 41-47, 2021. [[Link]](https://www.sciencedirect.com/science/article/pii/S0167865521002750)
  
