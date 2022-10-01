@@ -41,10 +41,7 @@ Email: <a href="mailto:berdakh.abibullaev@nu.edu.kz">berdakh.abibullaev@nu.edu.k
   
 ## Summary
 `-`
-Brain-Computer/Machine Interface Systems researcher with deep expertise in analyzing Brain data (i.e., EEG, ECoG, MEG, NIRS) for real-time/offline mental state recognition.
-
-`-`
-Contribution to research communities and efforts, advance the state-of-the-art in the field, including generating patents and publications in top journals and conferences.
+Dr. Berdakh Abibullaev received his M.Sc. and Ph.D. degrees in electronic engineering from Yeungnam University, South Korea in 2006, and 2010, respectively. He held research scientist positions at Daegu-Gyeongbuk Institute of Science and Technology (2010-2013) and at Samsung Medical Center, Seoul, South Korea (2013-2014). In 2014, he received the National Institute of Health postdoctoral research fellowship II to join a multi-institutional research project between the University of Houston Brain-Machine Interface Systems Team and Texas Medical Center in developing neural interfaces for rehabilitation in post-stroke patients. He is currently an Associate Professor at Robotics Department, Nazarbayev University, Kazakhstan. His research focuses on developing robust Brain-Computer Interfaces for people with severe motor impairments.
 <br/>  
 
 <br/>
