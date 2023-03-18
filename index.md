@@ -16,7 +16,7 @@ IEEE Senior Member,<br/>
 Nazarbayev University (www.nu.edu.kz), <br/>
 School of Engineering and Digital Sciences,<br/>
 Robotics and Mechatronics Department, <br/>
-53 Qabanbay Batyr Ave., Nur-Sultan, Kazakhstan <br/> 
+53 Qabanbay Batyr Ave., Astana, Kazakhstan <br/> 
 Email: <a href="mailto:berdakh.abibullaev@nu.edu.kz">berdakh.abibullaev@nu.edu.kz</a><br/> <br/>
 
 
@@ -30,18 +30,23 @@ Email: <a href="mailto:berdakh.abibullaev@nu.edu.kz">berdakh.abibullaev@nu.edu.k
 
 ## Quick Links:
 
-  - [Executive Summary](#summary)
+- [ Berdakh Abibullaev Ph.D. ](#-berdakh-abibullaev-phd-)
+  - [Quick Links:](#quick-links)
+  - [Summary](#summary)
   - [Education](#education)
-  - [Work Experience](#experience)
-  - [Grants and Funding](#grants-and-funding)
+  - [Experience](#experience)
+  - [Grants and funding](#grants-and-funding)
   - [Honors and Awards](#honors-and-awards)
   - [Technical Skills](#technical-skills)
-  - [Service to Scientific Community](#academic-service)
-  - [Peer Reviewed Publications](#publications)    
+    - [Language Skills](#language-skills)
+  - [Academic Service](#academic-service)
+  - [Publications](#publications)
+  - [Conference Publications](#conference-publications)
+  - [Patents](#patents)
   
 ## Summary
 `-`
-Dr. Berdakh Abibullaev received his M.Sc. and Ph.D. degrees in electronic engineering from Yeungnam University, South Korea in 2006, and 2010, respectively. He held research scientist positions at Daegu-Gyeongbuk Institute of Science and Technology (2010-2013) and at Samsung Medical Center, Seoul, South Korea (2013-2014). In 2014, he received the National Institute of Health postdoctoral research fellowship II to join a multi-institutional research project between the University of Houston Brain-Machine Interface Systems Team and Texas Medical Center in developing neural interfaces for rehabilitation in post-stroke patients. He is currently an Associate Professor at Robotics Department, Nazarbayev University, Kazakhstan. His research focuses on developing robust Brain-Computer Interfaces for people with severe motor impairments.
+Dr. Berdakh Abibullaev received his [M.Sc](http://m.sc/). and Ph.D. degrees in electronic engineering from Yeungnam University, South Korea, in 2006 and 2010, respectively. He worked as a research scientist at the Daegu-Gyeongbuk Institute of Science and Technology from 2010 to 2013, and later at the Samsung Medical Center in Seoul, South Korea, from 2013 to 2014. In 2014, he received the National Institute of Health Postdoctoral Research Fellowship II to join a multi-institutional research project between the University of Houston Brain-Machine Interface Systems Team and Texas Medical Center, aimed at developing neural interfaces for rehabilitation in post-stroke patients. Currently, Dr. Abibullaev is an Associate Professor at the Robotics Department of Nazarbayev University in Kazakhstan, where he focuses on developing robust Brain-Computer Interfaces for people with severe motor impairments.
 <br/>  
 
 <br/>
