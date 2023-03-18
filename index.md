@@ -38,7 +38,7 @@ Email: <a href="mailto:berdakh.abibullaev@nu.edu.kz">berdakh.abibullaev@nu.edu.k
   - [Grants and funding](#grants-and-funding)
   - [Honors and Awards](#honors-and-awards)
   - [Technical Skills](#technical-skills)
-    - [Language Skills](#language-skills)
+  - [Language Skills](#language-skills)
   - [Academic Service](#academic-service)
   - [Publications](#publications)
   - [Conference Publications](#conference-publications)
@@ -195,7 +195,7 @@ correction for overground walking using entropy-based unbalanced optode decision
 
 **System Environments:** Linux (Ubuntu, Pop!_OS - favorite distro), Windows
 
-### Language Skills
+## Language Skills
 - English (Professional proficiency) 
 - Korean  (Professional conversational skills)
   
