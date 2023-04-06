@@ -4,13 +4,12 @@ title: Berdakh Abibullaev
 ---
 <br/>
 
-<font size="5"> Berdakh Abibullaev Ph.D. </font>
+# <font size="5"> Berdakh Abibullaev Ph.D. </font>
 
 <img src="media\profilephoto.jpg"
      style="float: left; margin-right: 15px; 
      margin-top:10px; margin-bottom: 10px; 
      width:125px;height:145px;" />
-
 Associate Professor,<br/>
 IEEE Senior Member,<br/>
 Nazarbayev University (www.nu.edu.kz), <br/>
@@ -18,6 +17,7 @@ School of Engineering and Digital Sciences,<br/>
 Robotics and Mechatronics Department, <br/>
 53 Qabanbay Batyr Ave., Astana, Kazakhstan <br/> 
 Email: <a href="mailto:berdakh.abibullaev@nu.edu.kz">berdakh.abibullaev@nu.edu.kz</a><br/> <br/>
+
 
 
 <div id="webaddress">
@@ -28,18 +28,21 @@ Email: <a href="mailto:berdakh.abibullaev@nu.edu.kz">berdakh.abibullaev@nu.edu.k
   <a href="https://www.youtube.com/channel/UCOUcmoCAWBFaqPb1Fu3J86A/playlists"><i class="fab fa-youtube"></i> YouTube </a> 
 </div>
 
+## Quick Links:
 
-- [Summary](#summary)
-- [Education](#education)
-- [Experience](#experience)
-- [Grants and funding](#grants-and-funding)
-- [Honors and Awards](#honors-and-awards)
-- [Technical Skills](#technical-skills)
-- [Language Skills](#language-skills)
-- [Academic Service](#academic-service)
-- [Publications](#publications)
-- [Conference Publications](#conference-publications)
-- [Patents](#patents)
+- [ Berdakh Abibullaev Ph.D. ](#-berdakh-abibullaev-phd-)
+  - [Quick Links:](#quick-links)
+  - [Summary](#summary)
+  - [Education](#education)
+  - [Experience](#experience)
+  - [Grants and funding](#grants-and-funding)
+  - [Honors and Awards](#honors-and-awards)
+  - [Technical Skills](#technical-skills)
+  - [Language Skills](#language-skills)
+  - [Academic Service](#academic-service)
+  - [Publications](#publications)
+  - [Conference Publications](#conference-publications)
+  - [Patents](#patents)
 
 ## Summary
 

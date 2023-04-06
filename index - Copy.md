@@ -29,14 +29,19 @@ Email: <a href="mailto:berdakho@gmail.com">berdakh.abibullaev@nu.edu.kz</a><br/>
 
 ## Quick Links:
 
-  - [Executive Summary](#summary)
+- [ Berdakh Abibullaev Ph.D. ](#-berdakh-abibullaev-phd-)
+  - [Quick Links:](#quick-links)
+  - [Summary](#summary)
   - [Education](#education)
-  - [Work Experience](#experience)
-  - [Grants and Funding](#grants-and-funding)
+  - [Experience](#experience)
+  - [Grants and funding](#grants-and-funding)
   - [Honors and Awards](#honors-and-awards)
   - [Technical Skills](#technical-skills)
-  - [Service to Scientific Community](#academic-service)
-  - [Peer Reviewed Publications](#publications)    
+    - [Language Skills](#language-skills)
+  - [Academic Service](#academic-service)
+  - [Publications](#publications)
+  - [Conference Publications](#conference-publications)
+  - [Patents](#patents)
   
 ## Summary
 `-`
