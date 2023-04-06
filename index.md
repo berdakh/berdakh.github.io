@@ -45,8 +45,12 @@ Email: <a href="mailto:berdakh.abibullaev@nu.edu.kz">berdakh.abibullaev@nu.edu.k
   - [Patents](#patents)
   
 ## Summary
-`-`
-Dr. Berdakh Abibullaev received his M.Sc and Ph.D. in electronic engineering from Yeungnam University in 2006 and 2010, respectively. He worked as a research scientist at Daegu-Gyeongbuk Institute of Science and Technology from 2010 to 2013 and later at the Samsung Medical Center in Seoul from 2013 to 2014. He received a National Institute of Health Postdoctoral Research Fellowship II in 2014 and joined a multi-institutional research project to develop neural interfaces for rehabilitation in post-stroke patients. Currently, he is an Associate Professor at the Robotics Department of Nazarbayev University in Kazakhstan, focusing his research on developing robust Brain-Computer Interfaces for people with motor impairments with a special interest in machine learning algorithms and neural signal processing.
+
+Dr. Berdakh Abibullaev earned his M.Sc and Ph.D. degrees in electronic engineering from Yeungnam University, South Korea, in 2006 and 2010, respectively. After completing his education, he worked as a research scientist at the Daegu-Gyeongbuk Institute of Science and Technology from 2010 to 2013, followed by a position at the Samsung Medical Center in Seoul, South Korea, from 2013 to 2014.
+
+In 2014, he received the National Institute of Health Postdoctoral Research Fellowship II to join a multi-institutional research project between the University of Houston Brain-Machine Interface Systems Team and the Texas Medical Center. This project aimed to develop neural interfaces for rehabilitation in post-stroke patients.
+
+Dr. Abibullaev is an Associate Professor at the Robotics Department of Nazarbayev University in Kazakhstan. His research focuses on developing robust Brain-Computer Interfaces for people with motor impairments, with particular emphasis on machine learning algorithms and neural signal processing techniques.
 <br/>  
 
 <br/>
