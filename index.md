@@ -3,6 +3,8 @@ layout: cv
 title: Berdakh Abibullaev
 ---
 <br/>
+
+#
 <font size="5"> Berdakh Abibullaev Ph.D. </font>
 
 <img src="media\profilephoto.jpg"
@@ -29,18 +31,19 @@ Email: <a href="mailto:berdakh.abibullaev@nu.edu.kz">berdakh.abibullaev@nu.edu.k
 
 ## Quick Links:
 
-- [Quick Links:](#quick-links)
-- [Summary](#summary)
-- [Education](#education)
-- [Experience](#experience)
-- [Grants and funding](#grants-and-funding)
-- [Honors and Awards](#honors-and-awards)
-- [Technical Skills](#technical-skills)
-- [Language Skills](#language-skills)
-- [Academic Service](#academic-service)
-- [Publications](#publications)
-- [Conference Publications](#conference-publications)
-- [Patents](#patents)
+- [](#)
+  - [Quick Links:](#quick-links)
+  - [Summary](#summary)
+  - [Education](#education)
+  - [Experience](#experience)
+  - [Grants and funding](#grants-and-funding)
+  - [Honors and Awards](#honors-and-awards)
+  - [Technical Skills](#technical-skills)
+  - [Language Skills](#language-skills)
+  - [Academic Service](#academic-service)
+  - [Publications](#publications)
+  - [Conference Publications](#conference-publications)
+  - [Patents](#patents)
   
 ## Summary
 
