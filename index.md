@@ -4,9 +4,7 @@ title: Berdakh Abibullaev
 ---
 <br/>
 
-# 
-
-<font size="5"> Berdakh Abibullaev Ph.D. </font>
+## <font size="5"> Berdakh Abibullaev Ph.D. </font>
 
 <img src="media\profilephoto.jpg"
      style="float: left; margin-right: 15px; 
@@ -30,22 +28,7 @@ Email: <a href="mailto:berdakh.abibullaev@nu.edu.kz">berdakh.abibullaev@nu.edu.k
   <a href="https://www.youtube.com/channel/UCOUcmoCAWBFaqPb1Fu3J86A/playlists"><i class="fab fa-youtube"></i> YouTube </a> 
 </div>
 
-## Quick Links:
 
-- [](#)
-  - [Quick Links:](#quick-links)
-  - [Summary](#summary)
-  - [Education](#education)
-  - [Experience](#experience)
-  - [Grants and funding](#grants-and-funding)
-  - [Honors and Awards](#honors-and-awards)
-  - [Technical Skills](#technical-skills)
-  - [Language Skills](#language-skills)
-  - [Academic Service](#academic-service)
-  - [Publications](#publications)
-  - [Conference Publications](#conference-publications)
-  - [Patents](#patents)
-  
 ## Summary
 
 Dr. Berdakh Abibullaev earned his M.Sc and Ph.D. degrees in electronic engineering from Yeungnam University, South Korea, in 2006 and 2010, respectively. After completing his education, he worked as a research scientist at the Daegu-Gyeongbuk Institute of Science and Technology from 2010 to 2013, followed by a position at the Samsung Medical Center in Seoul, South Korea, from 2013 to 2014.
