@@ -18,10 +18,9 @@ Robotics and Mechatronics Department, <br/>
 53 Qabanbay Batyr Ave., Astana, Kazakhstan <br/> 
 Email: <a href="mailto:berdakh.abibullaev@nu.edu.kz">berdakh.abibullaev@nu.edu.kz</a><br/> <br/>
 
-
-
+ 
 <div id="webaddress">
-  <a href="https://berdakh.github.io/I2023%5BCV%5D-Berdakh.pdf"><i class="fas fa-book"></i> CV </a> -   
+  <a href="https://nubmi.notion.site/Berdakh-Abibullaev-Ph-D-f986e4f1f8d8464ea71db302501f75d2?pvs=4"><i class="fas fa-book"></i> CV </a> -   
   <a href="https://www.linkedin.com/in/berdakh-abibullaev-a79655137/"><i class="fas fa-home"></i> LinkedIn </a> -   
   <a href="https://github.com/berdakh"><i class="fab fa-github"></i> Github </a> - 
   <a href="http://nubmi.notion.site"><i class="fas fa-home"></i> Lab Page </a> -
