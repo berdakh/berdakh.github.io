@@ -6,10 +6,6 @@ title: Berdakh Abibullaev
 
 # <font size="5"> Berdakh Abibullaev Ph.D. </font>
 
-<img src="media\profilephoto.jpg"
-     style="float: left; margin-right: 15px; 
-     margin-top:10px; margin-bottom: 10px; 
-     width:125px;height:145px;" />
 Associate Professor,<br/>
 IEEE Senior Member,<br/>
 Nazarbayev University (www.nu.edu.kz), <br/>
