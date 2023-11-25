@@ -21,8 +21,3 @@ Email: <a href="mailto:berdakh.abibullaev@nu.edu.kz">berdakh.abibullaev@nu.edu.k
   <a href="https://www.youtube.com/channel/UCOUcmoCAWBFaqPb1Fu3J86A/playlists"><i class="fab fa-youtube"></i> YouTube </a> 
 </div>
 
-
-## Summary
-
-Dr. Berdakh Abibullaev earned his M.Sc. and Ph.D. in electronic engineering from Yeungnam University, South Korea in 2006 and 2010. He worked at Daegu Gyeongbuk Institute of Science and Technology (2010-2013) and Samsung Medical Center (2013-2014), and in 2014 he joined the University of Houston, TX, USA, as a Postdoctoral Research Fellow II supported by the National Institute of Health. He is currently an Associate Professor at the Robotics Department, Nazarbayev University, Kazakhstan. His research is centered around developing machine learning techniques to solve inference problems in Brain-Computer Interfaces. He is an Associate Editor of IEEE ACCESS.
- 
