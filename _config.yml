@@ -41,18 +41,18 @@ author:
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=berdakh+abibullaev"
   researchgate     : # URL
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=26537215100"
-  youtube          : "https://www.youtube.com/channel/UCOUcmoCAWBFaqPb1Fu3J86A" 
+    
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "berdakh"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -74,7 +74,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "https://www.youtube.com/channel/UCOUcmoCAWBFaqPb1Fu3J86A" 
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings

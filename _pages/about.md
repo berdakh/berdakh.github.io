@@ -1,18 +1,13 @@
 ---
 permalink: /
-title: "Berdakh Abibullaev, PhD – Machine Learning Researcher"
+title: #"Berdakh Abibullaev, PhD – Machine Learning Researcher"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome! I'm **Berdakh Abibullaev**, PhD — a machine learning researcher and professor with a strong background in brain-computer interfaces (BCIs), artificial intelligence in healthcare, and EEG/iEEG signal processing.
-
-
-## Professional Summary  
-
-Accomplished machine learning researcher with 10+ years of experience advancing AI-driven solutions in healthcare, neurotechnology, and biomedical engineering. Specialized in deep learning, neural signal processing, and large-scale data analytics, with a strong track record of translating research into impactful applications—including patented BCI-based rehabilitation systems. Demonstrated leadership in multidisciplinary teams, mentoring graduate students and engineers, and fostering collaborations across academia, industry, and clinical partners.
+Welcome! I'm accomplished machine learning researcher with 10+ years of experience advancing AI-driven solutions in healthcare, neurotechnology, and biomedical engineering. Specialized in deep learning, neural signal processing, and large-scale data analytics, with a strong track record of translating research into impactful applications—including patented BCI-based rehabilitation systems. Demonstrated leadership in multidisciplinary teams, mentoring graduate students and engineers, and fostering collaborations across academia, industry, and clinical partners.
 
 ---
 
@@ -86,6 +81,7 @@ Accomplished machine learning researcher with 10+ years of experience advancing 
 * **B. Abibullaev, Kassymzhomart Kunanbayev, and A. Zollanvari**, “Subject-Independent Classification of P300 Event-Related Potentials Using a Small Number of Training Subjects,” *IEEE Transactions on Human-Machine Systems*, 2022. [Link](https://doi.org/10.1109/THMS.2022.3189576)  
 * **B. Abibullaev and A. Zollanvari**, “A Systematic Deep Learning Model Selection for P300-Based Brain-Computer Interfaces,” *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 2021. [Link](https://ieeexplore.ieee.org/document/9351887)  
 * **B. Abibullaev and A. Zollanvari**, “Learning Discriminative Spatiospectral Features of ERPs for Accurate Brain-Computer Interfaces,” *IEEE Journal of Biomedical and Health Informatics*, 2019. [Link](https://ieeexplore.ieee.org/document/8613780)
+  
 ---
 
 This website is built using the [AcademicPages](https://github.com/academicpages/academicpages.github.io) Jekyll theme, designed for researchers and hosted freely via GitHub Pages.
