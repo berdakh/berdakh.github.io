@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-title            : "Berdakh Abibullaev"
-description      : "Machine Learning Engineer, Data Scientist, and Researcher"
+title            : "Welcome to my page!"
+description      : "Berdakh Abibullaev, Machine Learning Engineer, Data Scientist, and Researcher"
 locale           : "en-US"
 url              : "https://berdakh.github.io"
 baseurl          : "" # the subpath of your site, e.g. "/blog"

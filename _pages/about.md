@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm accomplished machine learning researcher with 10+ years of experience advancing AI-driven solutions in healthcare, neurotechnology, and biomedical engineering. Specialized in deep learning, neural signal processing, and large-scale data analytics, with a strong track record of translating research into impactful applications—including patented BCI-based rehabilitation systems. Demonstrated leadership in multidisciplinary teams, mentoring graduate students and engineers, and fostering collaborations across academia, industry, and clinical partners.
+Welcome! I am a machine learning researcher with over a decade of experience developing AI-driven solutions in healthcare, neurotechnology, and biomedical engineering. My expertise spans deep learning, neural signal processing, and large-scale data analytics, with a proven record of translating research into real-world impact—including patented brain–computer interface (BCI) rehabilitation systems. I have led multidisciplinary teams, mentored graduate students and engineers, and built strong collaborations across academia, industry, and clinical partners to advance the frontiers of AI in neuroscience and healthcare.
 
 ---
 
-## Core Skills
+## Core Expertise
 
 - **Machine Learning & AI:** Deep learning (CNNs, RNNs, Transformers), classical algorithms (SVM, Random Forest, clustering), advanced time-series modeling, and feature engineering for EEG/ECG data.
 - **Programming & Tools:** Expert in Python (NumPy, pandas, scikit-learn, TensorFlow, PyTorch, MNE), MATLAB, C/C++; proficient with Git, Linux, and cloud-based development environments.
@@ -83,5 +83,3 @@ Welcome! I'm accomplished machine learning researcher with 10+ years of experien
 * **B. Abibullaev and A. Zollanvari**, “Learning Discriminative Spatiospectral Features of ERPs for Accurate Brain-Computer Interfaces,” *IEEE Journal of Biomedical and Health Informatics*, 2019. [Link](https://ieeexplore.ieee.org/document/8613780)
   
 ---
-
-This website is built using the [AcademicPages](https://github.com/academicpages/academicpages.github.io) Jekyll theme, designed for researchers and hosted freely via GitHub Pages.
