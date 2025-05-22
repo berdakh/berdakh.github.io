@@ -23,10 +23,10 @@ site_theme       : "minimal-mistakes-jekyll"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Berdakh Abibullaev"
+  name             : "Berdakh Abibullaev, PhD"
   pronouns         : # example: "she/her"  
   bio              : "Machine Learning Engineer, Data Scientist, and Researcher"
-  location         : "Earth"
+  location         : "Houston, Texas, USA"
   employer         : #"Red Brick University"
   uri              : # URL
   email            : "berdaskho@gmail.com" 
