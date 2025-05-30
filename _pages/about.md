@@ -7,9 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About Me
+**About Me**
 
-I am a machine learning researcher with over a decade of experience developing AI-driven solutions in healthcare, neurotechnology, and biomedical engineering. My expertise spans deep learning, neural signal processing, and large-scale data analytics, with a proven record of translating research into real-world impact—including patented brain–computer interface (BCI) rehabilitation systems. I have led multidisciplinary teams, mentored graduate students and engineers, and built strong collaborations across academia, industry, and clinical partners to advance the frontiers of AI in neuroscience and healthcare.
+I am a machine learning researcher with over a decade of experience developing AI-driven solutions in healthcare, neurotechnology, and biomedical engineering. My expertise spans deep learning, neural signal processing, and large-scale data analytics, with a proven record of translating research into real-world impact—including patented brain–computer interface (BCI) rehabilitation systems. 
+
+I have led multidisciplinary teams, mentored graduate students and engineers, and built strong collaborations across academia, industry, and clinical partners to advance the frontiers of AI in neuroscience and healthcare.
 
 ---
 
