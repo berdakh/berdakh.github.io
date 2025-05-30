@@ -2,6 +2,7 @@
 permalink: /
 title: #"Berdakh Abibullaev, PhD – Machine Learning Researcher"
 author_profile: true
+header: false
 redirect_from: 
   - /about/
   - /about.html
