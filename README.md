@@ -1,96 +1,181 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+# About Me
 
-![Academic Pages template example](images/homepage.png "Academic Pages template example")
-
-# Getting Started
-
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your public repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
-
-See more info at https://academicpages.github.io/
-
-## Running locally
-
-When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
-
-1. Clone the repository and made updates as detailed above.
-
-### Using a different IDE
-1. Make sure you have ruby-dev, bundler, and nodejs installed
-    
-    On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
-    ```bash
-    sudo apt install ruby-dev ruby-bundler nodejs
-    ```
-    If you see error `Unable to locate package ruby-bundler`, `Unable to locate package nodejs `, run the following:
-    ```bash
-    sudo apt update && sudo apt upgrade -y
-    ```
-    then try run `sudo apt install ruby-dev ruby-bundler nodejs` again.
-
-    On MacOS the commands are:
-    ```bash
-    brew install ruby
-    brew install node
-    gem install bundler
-    ```
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-
-    If you see file permission error like `Fetching bundler-2.6.3.gem ERROR:  While executing gem (Gem::FilePermissionError) You don't have write permissions for the /var/lib/gems/3.2.0 directory.` or `Bundler::PermissionError: There was an error while trying to write to /usr/local/bin.`
-    Install Gems Locally (Recommended):
-    ```bash
-    bundle config set --local path 'vendor/bundle'
-    ```
-    then try run `bundle install` again. If succeeded, you should see a folder called `vendor` and `.bundle`.
-
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
-    You may also try `bundle exec jekyll serve -l -H localhost` to ensure jekyll to use specific dependencies on your own local machine.
-
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
-
-## Using Docker
-
-Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
-
-You can build and execute the container by running the following command in the repository:
-
-```bash
-chmod -R 777 .
-docker compose up
-```
-
-You should now be able to access the website from `localhost:4000`.
-
-### Using the DevContainer in VS Code
-
-If you are using [Visual Studio Code](https://code.visualstudio.com/) you can use the [Dev Container](https://code.visualstudio.com/docs/devcontainers/containers) that comes with this Repository. Normally VS Code detects that a development coontainer configuration is available and asks you if you want to use the container. If this doesn't happen you can manually start the container by **F1->DevContainer: Reopen in Container**. This restarts your VS Code in the container and automatically hosts your academic page locally on http://localhost:4000. All changes will be updated live to that page after a few seconds.
-
-# Maintenance
-
-Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
-
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
-
-## Bugfixes and enhancements
-
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
-
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
-
----
+<!-- Banner Image -->
 <div align="center">
-    
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
-[![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
-[![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
+  <img src="https://your-custom-banner-url.com/banner.png" alt="Berdakh Abibullaev - Machine Learning Researcher" width="100%">
+</div>
 
-[![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
+<!-- Profile Header -->
+<h1 align="center">Berdakh Abibullaev, PhD</h1>
+<h3 align="center">Machine Learning Engineer, Data Scientist, and Researcher</h3>
+<p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail" alt="Email"></a>
+  <a href="https://scholar.google.com/citations?user=YOUR_ID"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=flat-square&logo=google-scholar" alt="Google Scholar"></a>
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=YOUR_ID"><img src="https://img.shields.io/badge/Scopus-Profile-orange?style=flat-square&logo=elsevier" alt="Scopus"></a>
+  <a href="https://github.com/berdakh"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github" alt="GitHub"></a>
+  <a href="https://www.youtube.com/c/YOUR_CHANNEL"><img src="https://img.shields.io/badge/YouTube-Channel-red?style=flat-square&logo=youtube" alt="YouTube"></a>
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+</p>
+
+<!-- GitHub Stats Section -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=berdakh&show_icons=true&count_private=true&hide=issues&theme=radical" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berdakh&layout=compact&theme=radical" alt="Top Languages" height="170">
+</div>
+
+<!-- Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berdakh&theme=radical" alt="GitHub Streak">
+</div>
+
+<!-- About Me Section -->
+## 👨‍🔬 About Me
+
+I am a machine learning researcher with over a decade of experience developing AI-driven solutions in healthcare, neurotechnology, and biomedical engineering. My expertise spans deep learning, neural signal processing, and large-scale data analytics, with a proven record of translating research into real-world impact—including patented brain–computer interface (BCI) rehabilitation systems. I have led multidisciplinary teams, mentored graduate students and engineers, and built strong collaborations across academia, industry, and clinical partners to advance the frontiers of AI in neuroscience and healthcare.
+
+<!-- Skills Section with Visual Representation -->
+## 🔧 Skills & Technologies
+
+<div align="center">
+  <!-- Machine Learning & AI -->
+  <h3>Machine Learning & AI</h3>
+  <p>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+    <img src="https://img.shields.io/badge/Deep%20Learning-00AEFF?style=for-the-badge" alt="Deep Learning">
+    <img src="https://img.shields.io/badge/Neural%20Networks-00AEFF?style=for-the-badge" alt="Neural Networks">
+    <img src="https://img.shields.io/badge/Time%20Series-00AEFF?style=for-the-badge" alt="Time Series">
+  </p>
+  
+  <!-- Programming & Tools -->
+  <h3>Programming & Tools</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  </p>
+  
+  <!-- Data Science -->
+  <h3>Data Science</h3>
+  <p>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+    <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" alt="Matplotlib">
+    <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" alt="Seaborn">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  </p>
+  
+  <!-- Domain Expertise -->
+  <h3>Domain Expertise</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Brain--Computer%20Interfaces-9B59B6?style=for-the-badge" alt="BCI">
+    <img src="https://img.shields.io/badge/Biomedical%20Signal%20Processing-3498DB?style=for-the-badge" alt="Signal Processing">
+    <img src="https://img.shields.io/badge/Neural%20Engineering-2ECC71?style=for-the-badge" alt="Neural Engineering">
+    <img src="https://img.shields.io/badge/Healthcare%20Analytics-E74C3C?style=for-the-badge" alt="Healthcare Analytics">
+  </p>
+</div>
+
+<!-- Featured Projects Section -->
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/berdakh/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=berdakh&repo=project1&theme=radical" alt="Project 1">
+  </a>
+  <a href="https://github.com/berdakh/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=berdakh&repo=project2&theme=radical" alt="Project 2">
+  </a>
+</div>
+
+### EEG-PyTorch
+A comprehensive deep learning toolkit for EEG signal processing and classification, featuring state-of-the-art architectures for brain-computer interfaces.
+
+**Technologies:** PyTorch, Python, NumPy, MNE
+<div align="center">
+  <img src="https://via.placeholder.com/800x400?text=EEG-PyTorch+Visualization" alt="EEG-PyTorch Visualization" width="80%">
+</div>
+
+### P3Net BCI Framework
+An end-to-end framework for P300-based brain-computer interfaces, including data preprocessing, model training, and real-time inference capabilities.
+
+**Technologies:** TensorFlow, Python, C++, MATLAB
+<div align="center">
+  <img src="https://via.placeholder.com/800x400?text=P3Net+BCI+Framework" alt="P3Net BCI Framework" width="80%">
+</div>
+
+<!-- Experience Section -->
+## 💼 Experience
+
+### Associate Professor, Robotics & Machine Learning
+**Nazarbayev University, Astana, Kazakhstan** | 2015 – Present
+
+- Lead a multidisciplinary research lab advancing AI applications in neurotechnology and healthcare
+- Design and deploy scalable deep learning models for neural signal decoding
+- Secure and manage competitive research grants focused on AI-driven epilepsy diagnostics
+- Collaborate with clinicians to develop BCI-powered assistive devices
+
+### NIH Postdoctoral Research Fellow
+**University of Houston, Houston, TX, USA** | 2014 – 2015
+
+- Conducted NIH-funded research on brain-machine interfaces
+- Pioneered advanced signal processing and neural network algorithms
+- Investigated mirror-neuron system in infant motor learning
+
+### Research Scientist
+**Samsung Medical Center, Seoul, South Korea** | 2013 – 2014
+
+- Engineered ML techniques for ECoG/EEG analysis in epilepsy treatment
+- Co-invented an EEG-driven rehabilitation training system (US Patent #9081890)
+
+<!-- Publications Section with Interactive Elements -->
+## 📚 Selected Publications
+
+<details>
+  <summary>Click to expand publication list</summary>
+  
+  1. **B. Abibullaev, A. Keutayeva, and A. Zollanvari**, "Deep Learning in BCIs: A Comprehensive Review of Transformer Models, Advantages, Challenges, and Applications," _IEEE Access_, 2023.
+  
+  2. **B. Abibullaev, Kassymzhomart Kunanbayev, and A. Zollanvari**, "Subject-Independent Classification of P300 Event-Related Potentials Using a Small Number of Training Subjects," _IEEE Transactions on Human-Machine Systems_, 2022.
+  
+  3. **B. Abibullaev and A. Zollanvari**, "A Systematic Deep Learning Model Selection for P300-Based Brain-Computer Interfaces," _IEEE Transactions on Systems, Man, and Cybernetics: Systems_, 2021.
+  
+  4. **B. Abibullaev and A. Zollanvari**, "Learning Discriminative Spatiospectral Features of ERPs for Accurate Brain-Computer Interfaces," _IEEE Journal of Biomedical and Health Informatics_, 2019.
+</details>
+
+<!-- Education Section -->
+## 🎓 Education
+
+- **Ph.D. in Electronic Engineering** | Yeungnam University, South Korea (2006–2010)
+- **M.Sc. in Electronic Engineering** | Yeungnam University, South Korea (2004–2006)
+- **B.Sc. in Information Technology** | Tashkent University of Information Technologies, Uzbekistan (2000–2004)
+
+<!-- Certifications & Affiliations -->
+## 🏆 Certifications & Affiliations
+
+- **IEEE Senior Member** – Honored for significant professional achievements
+- **US Patent 9,081,890** – Co-inventor of an EEG-based rehabilitation training system
+- **Open-Source Maintainer** – Lead developer of EEG-PyTorch and P3Net BCI toolkits
+- **YouTube Educator (2.9K+ subscribers)** – Creator of educational content on ML and BCIs
+
+<!-- Contact Form Section -->
+## 📬 Get in Touch
+
+<div align="center">
+  <a href="https://github.com/berdakh/contact">
+    <img src="https://img.shields.io/badge/Contact%20Form-Message%20Me-green?style=for-the-badge" alt="Contact Form">
+  </a>
+</div>
+
+<!-- Visitor Counter -->
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=berdakh.berdakh" alt="Visitor Count">
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 </div>
