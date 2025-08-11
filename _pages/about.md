@@ -24,39 +24,6 @@ I have led multidisciplinary teams, mentored graduate students and engineers, an
 
 ---
 
-## Experience  
-
-**Associate Professor, Robotics & Machine Learning**  
-*Nazarbayev University, Astana, Kazakhstan*  
-*2015 – Present*  
-- Lead a multidisciplinary research lab advancing AI applications in neurotechnology and healthcare; mentor graduate students and engineers in EEG-based BCI, assistive robotics, and data analytics.
-- Designed and deployed scalable deep learning models (CNN, LSTM, Transformer) for neural signal decoding, achieving state-of-the-art results in cognitive and motor intent recognition.
-- Secured and managed competitive research grants focused on AI-driven epilepsy diagnostics and rehabilitation, overseeing projects from conception to clinical validation.
-- Collaborated with clinicians and engineers to develop and validate BCI-powered assistive devices, successfully translating research prototypes into real-world healthcare solutions.
-
-**NIH Postdoctoral Research Fellow, Electrical & Computer Engineering**  
-*University of Houston, Houston, TX, USA*  
-*2014 – 2015*  
-- Conducted NIH-funded research on brain–machine interfaces, pioneering advanced signal processing and neural network algorithms for decoding cognitive states from EEG data.
-- Investigated the role of the mirror-neuron system in infant motor learning through analysis of non-invasive neural recordings.
-- Collaborated with neuroscientists and clinicians at Texas Medical Center to address complex challenges in neurorehabilitation.
-
-**Research Scientist, Neurology Department**  
-*Samsung Medical Center (Sungkyunkwan University), Seoul, South Korea*  
-*2013 – 2014*  
-- Engineered advanced ML techniques for ECoG/EEG analysis to identify epileptogenic zones for surgical planning.  
-- Collaborated on presurgical evaluations for treatment-resistant epilepsy, enhancing patient treatment via data-driven insights.  
-- Co-invented an EEG-driven rehabilitation training system (US Patent #9081890).
-
-**Research Scientist, BCI R&D**  
-*Daegu Gyeongbuk Institute of Science & Technology (DGIST), Daegu, South Korea*  
-*2010 – 2013*  
-- Led R&D on advanced BCI systems and neuroprosthetics; optimized signal-processing pipelines to improve response time and accuracy.  
-- Developed EEG-driven assistive device prototypes; fostered international collaborations and published key findings.  
-- Co-invented a brain-signal-driven rehabilitation system combining EEG intent detection with functional electrical stimulation.
-
----
-
 ## Education
 
 - **Ph.D. in Electronic Engineering**  
