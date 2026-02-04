@@ -17,7 +17,7 @@ I have led multidisciplinary teams, mentored graduate students and engineers, an
 
 ## Core Expertise
 
-- **Machine Learning & AI:** Deep learning (CNNs, RNNs, Transformers), classical algorithms (SVM, Random Forest, clustering), advanced time-series modeling, and feature engineering for EEG/ECG data.
+- **Machine Learning & AI:** Deep learning, classical algorithms (SVM, Random Forest, clustering), advanced time-series modeling, and feature engineering for EEG/ECG data.
 - **Programming & Tools:** Expert in Python (NumPy, pandas, scikit-learn, TensorFlow, PyTorch, MNE), MATLAB, C/C++; proficient with Git, Linux, and cloud-based development environments.
 - **Data Science:** Comprehensive experience in data preprocessing, statistical analysis, data visualization (Matplotlib, Seaborn), scalable data pipelines, and SQL/database integration.
 - **Domain Expertise:** Brain–computer interfaces (BCIs), biomedical signal processing, neural engineering, healthcare analytics, and human–robot interaction.
