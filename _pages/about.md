@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Berdakh Abibullaev, PhD
+## About Me
 
 Machine learning researcher with over 10+ years of experience in developing, evaluating, and deploying robust AI systems for complex, real-world data. Expertise spans neurotechnology, biosignals, multimodal learning, and foundational deep learning methods that ensure generalization and reliability in high-stakes applications.
 
