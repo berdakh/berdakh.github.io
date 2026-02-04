@@ -1,56 +1,91 @@
 ---
 permalink: /
-title: #"Berdakh Abibullaev, PhD – Machine Learning Researcher"
+title: "Berdakh Abibullaev, PhD — Senior Machine Learning Engineer / Scientist"
 author_profile: true
 header: false
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
-**About Me**
 
-I am a machine learning researcher with over a decade of experience developing AI-driven solutions in healthcare, neurotechnology, and biomedical engineering. My expertise spans deep learning, neural signal processing, and large-scale data analytics, with a proven record of translating research into real-world impact—including patented brain–computer interface (BCI) rehabilitation systems. 
+## Berdakh Abibullaev, PhD  
+**Senior Machine Learning Engineer / Scientist — Time Series, Sensors, Applied AI**
 
-I have led multidisciplinary teams, mentored graduate students and engineers, and built strong collaborations across academia, industry, and clinical partners to advance the frontiers of AI in neuroscience and healthcare.
+I am a senior machine learning engineer and applied research scientist with **10+ years of experience building ML systems for real-world, noisy, high-dimensional data**. My work focuses on **time-series and sensor data** (EEG, iEEG, ECG, industrial signals), with an emphasis on **robust generalization, evaluation under distribution shift, and reproducible ML pipelines**.
 
----
+I operate comfortably across the full ML lifecycle — from data preprocessing and modeling to validation, interpretation, and deployment-ready experimentation — and I have led multidisciplinary teams spanning research, engineering, and applied product development.
 
-## Core Expertise
-
-- **Machine Learning & AI:** Deep learning, classical algorithms (SVM, Random Forest, clustering), advanced time-series modeling, and feature engineering for EEG/ECG data.
-- **Programming & Tools:** Expert in Python (NumPy, pandas, scikit-learn, TensorFlow, PyTorch, MNE), MATLAB, C/C++; proficient with Git, Linux, and cloud-based development environments.
-- **Data Science:** Comprehensive experience in data preprocessing, statistical analysis, data visualization (Matplotlib, Seaborn), scalable data pipelines, and SQL/database integration.
-- **Domain Expertise:** Brain–computer interfaces (BCIs), biomedical signal processing, neural engineering, healthcare analytics, and human–robot interaction.
+**Open to:** Senior / Staff ML Engineer, Applied Scientist, Research Scientist  
+**Location:** United States (Texas)  
+**Contact:** berdakho@gmail.com  
+**GitHub:** https://github.com/berdakh
 
 ---
 
+## Impact Highlights
+- **10+ years** designing and deploying machine learning models for complex time-series and sensor data.
+- Proven ability to **generalize models across subjects, sites, and devices** under severe distribution shift.
+- Strong focus on **leakage-safe evaluation, reproducibility, and reliability**, not just model accuracy.
+- **Co-inventor of a U.S. patent** for an EEG-based rehabilitation training system.
+- Experience translating **research prototypes into usable, production-ready ML pipelines**.
+
+---
+
+## Selected Work & Projects
+
+### Subject-Independent EEG & Sensor Modeling
+- Built deep learning pipelines for **cross-subject generalization** using CNNs and transformer-based architectures.
+- Designed strict **cross-validation and ablation protocols** to avoid data leakage and overfitting.
+- Emphasized interpretability and failure-mode analysis for deployment in real environments.
+- **Tech:** PyTorch, NumPy, pandas, scikit-learn, MNE-Python
+
+### Intracranial EEG & Clinical Signal Modeling
+- Developed end-to-end pipelines for preprocessing, event detection, feature learning, and evaluation of iEEG data.
+- Worked under **clinical and regulatory constraints**, prioritizing robustness and explainability.
+- Collaborated with clinicians and engineers to align ML outputs with decision-making workflows.
+- **Tech:** Python, PyTorch, signal processing, statistical validation
+
+### Applied Time-Series ML (Generalizable Frameworks)
+- Experience modeling multivariate temporal data for classification, detection, and prediction tasks.
+- Addressed real-world challenges: missing data, non-stationarity, noise, and concept drift.
+- Designed reusable experiment templates and reproducible research pipelines.
+- **Tech:** Python, SQL, PyTorch, scikit-learn
+
+---
+
+## Technical Stack
+- **Languages:** Python (expert), MATLAB, C/C++
+- **ML / DL:** PyTorch, scikit-learn (TensorFlow familiarity)
+- **Data:** NumPy, pandas, SQL, data preprocessing & validation
+- **Signals:** MNE-Python, time-frequency analysis, artifact handling
+- **Tools:** Git, Linux, reproducible experimentation workflows
+
+---
+
+## Credentials
+- **IEEE Senior Member**
+- **U.S. Patent 9,081,890** — EEG-based rehabilitation training system
+- **Open-Source Contributor:** Deep learning and EEG analysis toolkits on GitHub
+- **Technical Educator:** 2.9K+ subscribers on YouTube (ML, signal processing, Python)
+
+---
 ## Education
 
-- **Ph.D. in Electronic Engineering**  
-  *Specialization: Machine Learning & Neural Signal Processing*  
-  Yeungnam University, South Korea (2006–2010)
+- **Ph.D. in Electronic Engineering** — Yeungnam University, South Korea  
+  *Focus: Machine Learning, Neural Signal Processing*
 
-- **M.Sc. in Electronic Engineering**  
-  Yeungnam University, South Korea (2004–2006)
+- **M.Sc. in Electronic Engineering** — Yeungnam University, South Korea
 
-- **B.Sc. in Information Technology**  
-  Tashkent University of Information Technologies, Uzbekistan (2000–2004)
+- **B.Sc. in Information Technology** — Tashkent University of Information Technologies, Uzbekistan
 
 ---
 
-## Certifications & Affiliations  
-- **IEEE Senior Member** – Honored for significant professional achievements in electrical and computer engineering  
-- **US Patent 9,081,890** – Co-inventor of an EEG-based rehabilitation training system for neurotechnology applications  
-- **Open-Source Maintainer** – Lead developer of EEG-PyTorch and P3Net BCI deep learning toolkits on GitHub  
-- **YouTube Educator (2.9K+ subscribers):** Creator of educational content on machine learning, brain–computer interfaces, microcontrollers, and Python for neural data analysis  
-  [YouTube Playlists](https://www.youtube.com/channel/UCOUcmoCAWBFaqPb1Fu3J86A/playlists)
+## Selected Research (Optional)
+- *Deep Learning in BCIs: Transformer Models, Advantages, Challenges, and Applications*, IEEE Access, 2023  
+- *Subject-Independent Classification of P300 ERPs*, IEEE Transactions on Human-Machine Systems, 2022  
+- *Systematic Deep Learning Model Selection for P300-Based BCIs*, IEEE TSMC: Systems, 2021  
+- *Learning Discriminative Spatiospectral ERP Features*, IEEE JBHI, 2019
 
 ---
 
-## Selected Publications  
-* **B. Abibullaev, A. Keutayeva, and A. Zollanvari**, “Deep Learning in BCIs: A Comprehensive Review of Transformer Models, Advantages, Challenges, and Applications,” *IEEE Access*, 2023. [Link](https://ieeexplore.ieee.org/document/10305163)  
-* **B. Abibullaev, Kassymzhomart Kunanbayev, and A. Zollanvari**, “Subject-Independent Classification of P300 Event-Related Potentials Using a Small Number of Training Subjects,” *IEEE Transactions on Human-Machine Systems*, 2022. [Link](https://doi.org/10.1109/THMS.2022.3189576)  
-* **B. Abibullaev and A. Zollanvari**, “A Systematic Deep Learning Model Selection for P300-Based Brain-Computer Interfaces,” *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 2021. [Link](https://ieeexplore.ieee.org/document/9351887)  
-* **B. Abibullaev and A. Zollanvari**, “Learning Discriminative Spatiospectral Features of ERPs for Accurate Brain-Computer Interfaces,” *IEEE Journal of Biomedical and Health Informatics*, 2019. [Link](https://ieeexplore.ieee.org/document/8613780)
-  
----
+**I am interested in roles where rigorous ML meets real data and real constraints.**
