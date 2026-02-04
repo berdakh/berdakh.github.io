@@ -106,3 +106,23 @@ Abibullaev, B. & Zollanvari, A. A Systematic Deep Learning Model Selection for P
 Abibullaev, B. & Zollanvari, A. Learning Discriminative Spatiospectral Features of ERPs for Accurate Brain-Computer Interfaces. *IEEE Journal of Biomedical and Health Informatics*. [[Link]](https://ieeexplore.ieee.org/document/8613780)
 
 ---
+
+## What I Bring to Industry ML
+
+**Research mindset in a product context** — I ship systems, not just papers. I know when to iterate fast and when to invest in rigor.
+
+**Deep learning fundamentals** — Not wedded to any one domain or architecture. I understand *why* things work and can learn new frameworks quickly.
+
+**Evaluation discipline** — I build systems that survive honest testing. This mindset directly prevents production failures.
+
+**Collaborative problem-solving** — Experience working across teams (engineers, clinicians, domain experts) on high-stakes problems.
+
+**Pattern recognition across domains** — The principles that make a good signal processing model inform good vision and language models. Fundamentals transfer.
+
+---
+
+## Let's Connect
+
+I'm actively exploring opportunities where I can apply deep ML expertise, research rigor, and learning agility to solve real-world problems. Whether it's model development, evaluation, or pushing the boundaries of what deployed ML systems can do—I'm interested.
+
+Check out my repositories, papers, and projects. Feel free to reach out to discuss machine learning, research practices, or opportunities to collaborate.
