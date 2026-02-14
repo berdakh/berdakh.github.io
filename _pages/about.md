@@ -10,7 +10,13 @@ redirect_from:
 
 ## About Me
 
-I am a Machine Learning researcher and IEEE Senior Member with 10+ years of experience developing robust AI systems for complex, real-world data.My work focuses on **generalizable representation learning under distribution shift**, particularly for structured, temporal, and multimodal data. I combine deep learning (CNNs, Transformers, hybrid architectures) with strong signal-processing foundations to design models that remain reliable across subjects, domains, and operating conditions.
+I am a Machine Learning researcher and IEEE Senior Member with over 10 years of experience developing AI systems for complex, real-world environments.
+
+Many AI models perform well on benchmarks yet degrade when conditions change. My research addresses this reliability gap. I study generalizable representation learning under distribution shift, with emphasis on non-stationary, high-dimensional, and multimodal data.
+
+By integrating statistical signal modeling with modern deep architectures, I develop methods that remain stable across subjects, domains, and operating conditions — enabling AI systems that can be trusted beyond the lab.
+
+
 
 ## Research Pillars
 ### 1. Robust Representation Learning
