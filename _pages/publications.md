@@ -69,9 +69,9 @@ layout: single
 ---
 ## Book Chapters
 
-- **A. Keutayeva, A. Zollanvari, B. Abibullaev**, "Visual Evoked Potentials in Neurofeedback: Advancing Cognitive Control in ADHD Through Therapeutic Gaming," *Bridging the Gap between Mind and Machine: Exploring the Future of Human-AI-Neurotechnology Integration*, pp. 131–154, 2025; DOI: https://doi.org/10.1007/978-3-032-06713-5_7
+- **A. Keutayeva, A. Zollanvari, B. Abibullaev**, "Visual Evoked Potentials in Neurofeedback: Advancing Cognitive Control in ADHD Through Therapeutic Gaming," *Bridging the Gap between Mind and Machine: Exploring the Future of Human-AI-Neurotechnology Integration*, pp. 131–154, 2025; DOI: [>link<](https://doi.org/10.1007/978-3-032-06713-5_7)
 
-- **A. Keutayeva, A. Zollanvari, B. Abibullaev**, "Evolving Trends and Future Prospects of Transformer Models in EEG-Based Motor-Imagery BCI Systems," *Discovering the Frontiers of Human-Robot Interaction: Insights and Innovations in Collaboration, Communication, and Control*, pp. 233, 2024; DOI: https://doi.org/10.1007/978-3-031-66656-8_10
+- **A. Keutayeva, A. Zollanvari, B. Abibullaev**, "Evolving Trends and Future Prospects of Transformer Models in EEG-Based Motor-Imagery BCI Systems," *Discovering the Frontiers of Human-Robot Interaction: Insights and Innovations in Collaboration, Communication, and Control*, pp. 233, 2024; DOI: [>link<](https://doi.org/10.1007/978-3-031-66656-8_10)
 
 ---
 
