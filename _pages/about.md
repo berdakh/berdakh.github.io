@@ -12,10 +12,7 @@ redirect_from:
 
 I am a Machine Learning researcher and IEEE Senior Member with 10+ years of experience developing robust AI systems for complex, real-world data.My work focuses on **generalizable representation learning under distribution shift**, particularly for structured, temporal, and multimodal data. I combine deep learning (CNNs, Transformers, hybrid architectures) with strong signal-processing foundations to design models that remain reliable across subjects, domains, and operating conditions.
 
----
-
 ## Research Pillars
-
 ### 1. Robust Representation Learning
 
 Designing deep architectures that generalize across subjects, domains, and environments.
@@ -24,8 +21,6 @@ Designing deep architectures that generalize across subjects, domains, and envir
 - Subject-independent modeling  
 - Hybrid CNN–Transformer systems  
 - Stability under noise and heterogeneity  
-
----
 
 ### 2. Structured & Temporal Data Modeling
 
@@ -36,8 +31,6 @@ Advanced learning methods for high-dimensional, irregular, and noisy time-series
 - Multimodal sensor integration  
 - Sequence modeling with attention and state-space approaches  
 
----
-
 ### 3. Trustworthy & Reproducible AI
 
 Ensuring reliability through principled evaluation.
@@ -47,8 +40,6 @@ Ensuring reliability through principled evaluation.
 - Robust cross-validation frameworks  
 - Research-to-production deployment principles  
 
----
-
 ### Selected Publications 
 For a complete list, see [Google Scholar](https://scholar.google.com/citations?user=KvECkz0AAAAJ). 
 
@@ -57,10 +48,7 @@ For a complete list, see [Google Scholar](https://scholar.google.com/citations?u
 - **2021**: Abibullaev, B. & Zollanvari, A. A Systematic Deep Learning Model Selection for P300-Based Brain-Computer Interfaces. *IEEE Transactions on Systems, Man, and Cybernetics: Systems*. [[Link]](https://ieeexplore.ieee.org/document/9351887) 
 - **2019**: Abibullaev, B. & Zollanvari, A. Learning Discriminative Spatiospectral Features of ERPs for Accurate Brain-Computer Interfaces. *IEEE Journal of Biomedical and Health Informatics*. [[Link]](https://ieeexplore.ieee.org/document/8613780)
 
----
-
 ## Open to
-
 - AI/ML research collaborations  
 - Healthcare and clinical AI initiatives  
 - Robust time-series and multimodal modeling  
