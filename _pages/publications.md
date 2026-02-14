@@ -7,64 +7,64 @@ layout: single
 
 ## Journal Articles
 
-1. **W. U. R. Qamar, B. Abibullaev**, "Multi-scale EEG feature decoding with Swin Transformers for subject independent motor imagery BCIs," *Scientific Reports*, vol. 16, no. 1, pp. 2503, 2026; DOI: [LINK](https://doi.org/10.1038/s41598-025-32207-3)
+1. **W. U. R. Qamar, B. Abibullaev**, "Multi-scale EEG feature decoding with Swin Transformers for subject independent motor imagery BCIs," *Scientific Reports*, vol. 16, no. 1, pp. 2503, 2026; DOI: [>link<](https://doi.org/10.1038/s41598-025-32207-3)
 
-2. **W. U. R. Qamar, M. Lee, B. Abibullaev**, "Deep Learning in Intracranial EEG for Seizure Detection: Advances, Challenges, and Clinical Applications," *Frontiers in Neuroscience*, vol. 19, no. 1677898, 2025; DOI: [LINK](https://doi.org/10.3389/fnins.2025.1677898)
+2. **W. U. R. Qamar, M. Lee, B. Abibullaev**, "Deep Learning in Intracranial EEG for Seizure Detection: Advances, Challenges, and Clinical Applications," *Frontiers in Neuroscience*, vol. 19, no. 1677898, 2025; DOI: [>link<](https://doi.org/10.3389/fnins.2025.1677898)
 
-3. **A. Keutayeva, C. J. Nwachukwu, M. Alaran, Z. Otarbay, B. Abibullaev**, "Neurotechnology in Gaming: A Systematic Review of Visual Evoked Potential-Based Brain-Computer Interfaces," *IEEE Access*, 2025; DOI: [LINK](https://doi.org/10.1109/ACCESS.2025.3564328)
+3. **A. Keutayeva, C. J. Nwachukwu, M. Alaran, Z. Otarbay, B. Abibullaev**, "Neurotechnology in Gaming: A Systematic Review of Visual Evoked Potential-Based Brain-Computer Interfaces," *IEEE Access*, 2025; DOI: [>link<](https://doi.org/10.1109/ACCESS.2025.3564328)
 
-4. **A. Keutayeva, N. Fakhrutdinov, B. Abibullaev**, "Compact convolutional transformer for subject-independent motor imagery EEG-based BCIs," *Scientific Reports*, vol. 14, no. 1, pp. 25775, 2024; DOI: [LINK](https://doi.org/10.1038/s41598-024-73755-4)
+4. **A. Keutayeva, N. Fakhrutdinov, B. Abibullaev**, "Compact convolutional transformer for subject-independent motor imagery EEG-based BCIs," *Scientific Reports*, vol. 14, no. 1, pp. 25775, 2024; DOI: [>link<](https://doi.org/10.1038/s41598-024-73755-4)
 
-5. **A. Keutayeva, B. Abibullaev**, "Data constraints and performance optimization for transformer-based models in eeg-based brain-computer interfaces: A survey," *IEEE Access*, vol. 12, pp. 62628–62647, 2024; DOI: [LINK](https://doi.org/10.1109/ACCESS.2024.3394696)
+5. **A. Keutayeva, B. Abibullaev**, "Data constraints and performance optimization for transformer-based models in eeg-based brain-computer interfaces: A survey," *IEEE Access*, vol. 12, pp. 62628–62647, 2024; DOI: [>link<](https://doi.org/10.1109/ACCESS.2024.3394696)
 
-6. **I. Dolzhikova, B. Abibullaev, A. Zollanvari**, "A Jackknife-Inspired Deep Learning Approach to Subject-Independent Classification of EEG," *Pattern Recognition Letters*, vol. 176, pp. 28–33, 2023; DOI: [LINK](https://doi.org/10.1016/j.patrec.2023.10.011)
+6. **I. Dolzhikova, B. Abibullaev, A. Zollanvari**, "A Jackknife-Inspired Deep Learning Approach to Subject-Independent Classification of EEG," *Pattern Recognition Letters*, vol. 176, pp. 28–33, 2023; DOI: [>link<](https://doi.org/10.1016/j.patrec.2023.10.011)
 
-7. **A. Keutayeva, B. Abibullaev**, "Exploring the potential of attention mechanism-based deep learning for robust subject-independent motor-imagery based BCIs," *IEEE Access*, vol. 11, pp. 107562–107580, 2023; DOI: [LINK](https://doi.org/10.1109/ACCESS.2023.3320561)
+7. **A. Keutayeva, B. Abibullaev**, "Exploring the potential of attention mechanism-based deep learning for robust subject-independent motor-imagery based BCIs," *IEEE Access*, vol. 11, pp. 107562–107580, 2023; DOI: [>link<](https://doi.org/10.1109/ACCESS.2023.3320561)
 
-8. **B. Abibullaev, A. Keutayeva, A. Zollanvari**, "Deep learning in EEG-based BCIs: A comprehensive review of transformer models, advantages, challenges, and applications," *IEEE Access*, vol. 11, pp. 127271–127301, 2023; DOI: [LINK](https://doi.org/10.1109/ACCESS.2023.3329678)
+8. **B. Abibullaev, A. Keutayeva, A. Zollanvari**, "Deep learning in EEG-based BCIs: A comprehensive review of transformer models, advantages, challenges, and applications," *IEEE Access*, vol. 11, pp. 127271–127301, 2023; DOI: [>link<](https://doi.org/10.1109/ACCESS.2023.3329678)
 
-9. **I. Dolzhikova, B. Abibullaev, R. Sameni, A. Zollanvari**, "Subject-independent classification of motor imagery tasks in EEG using multisubject ensemble CNN," *IEEE Access*, vol. 10, pp. 81355–81363, 2022; DOI: [LINK](https://doi.org/10.1109/ACCESS.2022.3195513)
+9. **I. Dolzhikova, B. Abibullaev, R. Sameni, A. Zollanvari**, "Subject-independent classification of motor imagery tasks in EEG using multisubject ensemble CNN," *IEEE Access*, vol. 10, pp. 81355–81363, 2022; DOI: [>link<](https://doi.org/10.1109/ACCESS.2022.3195513)
 
-10. **B. Abibullaev, K. Kunanbayev, A. Zollanvari**, "Subject-independent classification of P300 event-related potentials using a small number of training subjects," *IEEE Transactions on Human-Machine Systems*, vol. 52, no. 5, pp. 843–854, 2022; DOI: [LINK](https://ieeexplore.ieee.org/document/9837440)
+10. **B. Abibullaev, K. Kunanbayev, A. Zollanvari**, "Subject-independent classification of P300 event-related potentials using a small number of training subjects," *IEEE Transactions on Human-Machine Systems*, vol. 52, no. 5, pp. 843–854, 2022; DOI: [>link<](https://ieeexplore.ieee.org/document/9837440)
 
-11. **A. Zollanvari, B. Abibullaev**, "Bias correction for linear discriminant analysis," *Pattern Recognition Letters*, vol. 151, pp. 41–47, 2021; DOI: [LINK](https://doi.org/10.1016/j.patrec.2021.07.026)
+11. **A. Zollanvari, B. Abibullaev**, "Bias correction for linear discriminant analysis," *Pattern Recognition Letters*, vol. 151, pp. 41–47, 2021; DOI: [>link<](https://doi.org/10.1016/j.patrec.2021.07.026)
 
-12. **B. Abibullaev, A. Zollanvari**, "A systematic deep learning model selection for P300-based brain–computer interfaces," *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, vol. 52, no. 5, pp. 2744–2756, 2022; DOI: [LINK](https://doi.org/10.1109/TSMC.2021.3051136)
+12. **B. Abibullaev, A. Zollanvari**, "A systematic deep learning model selection for P300-based brain–computer interfaces," *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, vol. 52, no. 5, pp. 2744–2756, 2022; DOI: [>link<](https://doi.org/10.1109/TSMC.2021.3051136)
 
-13. **B. Abibullaev, I. Dolzhikova, A. Zollanvari**, "A Brute-force CNN Model Selection for Accurate Classification of Sensorimotor Rhythms in BCIs," *IEEE Access*, vol. 8, pp. 101014–101023, 2020; DOI: [LINK](https://doi.org/10.1109/ACCESS.2020.2997681)
+13. **B. Abibullaev, I. Dolzhikova, A. Zollanvari**, "A Brute-force CNN Model Selection for Accurate Classification of Sensorimotor Rhythms in BCIs," *IEEE Access*, vol. 8, pp. 101014–101023, 2020; DOI: [>link<](https://doi.org/10.1109/ACCESS.2020.2997681)
 
-14. **A. Zollanvari, M. Abdirash, A. Dadlani, B. Abibullaev**, "Asymptotically Bias-Corrected Regularized Linear Discriminant Analysis for Cost-Sensitive Binary Classification," *IEEE Signal Processing Letters*, vol. 26, no. 5, pp. 724–728, 2019; DOI: [LINK](https://ieeexplore.ieee.org/document/8720003)
+14. **A. Zollanvari, M. Abdirash, A. Dadlani, B. Abibullaev**, "Asymptotically Bias-Corrected Regularized Linear Discriminant Analysis for Cost-Sensitive Binary Classification," *IEEE Signal Processing Letters*, vol. 26, no. 5, pp. 724–728, 2019; DOI: [>link<](https://ieeexplore.ieee.org/document/8720003)
 
-15. **B. Abibullaev, A. Zollanvari, B. Saduanov, T. Alizadeh**, "Design and Optimization of a BCI-Driven Telepresence Robot Through Programming by Demonstration," *IEEE Access*, vol. 7, pp. 111625–111636, 2019; DOI: [LINK](https://doi.org/10.1109/ACCESS.2019.2933268)
+15. **B. Abibullaev, A. Zollanvari, B. Saduanov, T. Alizadeh**, "Design and Optimization of a BCI-Driven Telepresence Robot Through Programming by Demonstration," *IEEE Access*, vol. 7, pp. 111625–111636, 2019; DOI: [>link<](https://doi.org/10.1109/ACCESS.2019.2933268)
 
-16. **B. Abibullaev, A. Zollanvari**, "Learning Discriminative Spatiospectral Features of ERPs for Accurate Brain-Computer Interfaces," *IEEE Journal of Biomedical and Health Informatics*, vol. 23, no. 5, pp. 2009–2020, 2019; DOI: [LINK](https://ieeexplore.ieee.org/document/8613780)
+16. **B. Abibullaev, A. Zollanvari**, "Learning Discriminative Spatiospectral Features of ERPs for Accurate Brain-Computer Interfaces," *IEEE Journal of Biomedical and Health Informatics*, vol. 23, no. 5, pp. 2009–2020, 2019; DOI: [>link<](https://ieeexplore.ieee.org/document/8613780)
 
-17. **B. Abibullaev, J. An, S. H. Lee, J. I. Moon**, "Design and evaluation of action observation and motor imagery based BCIs using near-infrared spectroscopy," *Measurement*, vol. 98, pp. 250–261, 2017; DOI: [LINK](https://doi.org/10.1016/j.measurement.2016.12.001)
+17. **B. Abibullaev, J. An, S. H. Lee, J. I. Moon**, "Design and evaluation of action observation and motor imagery based BCIs using near-infrared spectroscopy," *Measurement*, vol. 98, pp. 250–261, 2017; DOI: [>link<](https://doi.org/10.1016/j.measurement.2016.12.001)
 
-18. **N. Bhagat, A. Venkatakrishnan, B. Abibullaev, E. Artz, N. Yozbatiran, A. Blank, J. French, C. Karmonik, R. G. Grossman, M. K. O'Malley, G. E. Francisco, J. L. Contreras-Vidal**, "Design and optimization of an EEG-based brain machine interface (BMI) to an upper-limb exoskeleton for stroke survivors," *Frontiers in Neuroscience*, vol. 10, pp. 1–17, 2016; DOI: [LINK](https://doi.org/10.3389/fnins.2016.00122)
+18. **N. Bhagat, A. Venkatakrishnan, B. Abibullaev, E. Artz, N. Yozbatiran, A. Blank, J. French, C. Karmonik, R. G. Grossman, M. K. O'Malley, G. E. Francisco, J. L. Contreras-Vidal**, "Design and optimization of an EEG-based brain machine interface (BMI) to an upper-limb exoskeleton for stroke survivors," *Frontiers in Neuroscience*, vol. 10, pp. 1–17, 2016; DOI: [>link<](https://doi.org/10.3389/fnins.2016.00122)
 
 
-19. **J. G. Cruz-Garza, Z. R. Hernandez, T. Tse, E. Caducoy, B. Abibullaev, J. L. Contreras-Vidal**, "A novel experimental and analytical approach to the multimodal neural decoding of intent during social interaction in freely-behaving human infants," *Journal of Visualized Experiments: JoVE*, no. 104, pp. 53406, 2015; DOI: [LINK](https://doi.org/10.3791/53406)
+19. **J. G. Cruz-Garza, Z. R. Hernandez, T. Tse, E. Caducoy, B. Abibullaev, J. L. Contreras-Vidal**, "A novel experimental and analytical approach to the multimodal neural decoding of intent during social interaction in freely-behaving human infants," *Journal of Visualized Experiments: JoVE*, no. 104, pp. 53406, 2015; DOI: [>link<](https://doi.org/10.3791/53406)
 
-20. **C. Park, J. H. Seo, B. Abibullaev, D. Kim, et al.**, "EEG source imaging in partial epilepsy in comparison with presurgical evaluation and magnetoencephalography," *Journal of Clinical Neurology*, vol. 11, no. 4, pp. 319–330, 2015; DOI: [LINK](https://doi.org/10.3988/jcn.2015.11.4.319)
+20. **C. Park, J. H. Seo, B. Abibullaev, D. Kim, et al.**, "EEG source imaging in partial epilepsy in comparison with presurgical evaluation and magnetoencephalography," *Journal of Clinical Neurology*, vol. 11, no. 4, pp. 319–330, 2015; DOI: [>link<](https://doi.org/10.3988/jcn.2015.11.4.319)
 
-21. **B. Abibullaev, J. An, S. H. Jin, J. I. Moon**, "Classification of brain hemodynamic signals arising from visual action observation tasks for brain–computer interfaces: a functional near-infrared spectroscopy study," *Measurement*, vol. 49, pp. 320–328, 2014; DOI: [LINK](https://doi.org/10.1016/j.measurement.2013.11.044)
+21. **B. Abibullaev, J. An, S. H. Jin, J. I. Moon**, "Classification of brain hemodynamic signals arising from visual action observation tasks for brain–computer interfaces: a functional near-infrared spectroscopy study," *Measurement*, vol. 49, pp. 320–328, 2014; DOI: [>link<](https://doi.org/10.1016/j.measurement.2013.11.044)
 
-22. **B. Abibullaev, J. An, S. H. Jin, S. H. Lee, J. I. Moon**, "Minimizing inter-subject variability in fNIRS-based brain–computer interfaces via multiple-kernel support vector learning," *Medical Engineering & Physics*, vol. 35, no. 12, pp. 1811–1818, 2013; DOI: [LINK](https://doi.org/10.1016/j.medengphy.2013.08.009)
+22. **B. Abibullaev, J. An, S. H. Jin, S. H. Lee, J. I. Moon**, "Minimizing inter-subject variability in fNIRS-based brain–computer interfaces via multiple-kernel support vector learning," *Medical Engineering & Physics*, vol. 35, no. 12, pp. 1811–1818, 2013; DOI: [>link<](https://doi.org/10.1016/j.medengphy.2013.08.009)
 
-23. **B. Abibullaev, J. An**, "Decision support algorithm for diagnosis of ADHD using electroencephalograms," *Journal of Medical Systems*, vol. 36, no. 4, pp. 2675–2688, 2012; DOI: [LINK](https://doi.org/10.1007/s10916-011-9742-x)
+23. **B. Abibullaev, J. An**, "Decision support algorithm for diagnosis of ADHD using electroencephalograms," *Journal of Medical Systems*, vol. 36, no. 4, pp. 2675–2688, 2012; DOI: [>link<](https://doi.org/10.1007/s10916-011-9742-x)
 
-24. **B. Abibullaev, J. An**, "Classification of frontal cortex haemodynamic responses during cognitive tasks using wavelet transforms and machine learning algorithms," *Medical Engineering & Physics*, vol. 34, no. 10, pp. 1394–1410, 2012; DOI: [LINK](https://doi.org/10.1016/j.medengphy.2012.01.002)
+24. **B. Abibullaev, J. An**, "Classification of frontal cortex haemodynamic responses during cognitive tasks using wavelet transforms and machine learning algorithms," *Medical Engineering & Physics*, vol. 34, no. 10, pp. 1394–1410, 2012; DOI: [>link<](https://doi.org/10.1016/j.medengphy.2012.01.002)
 
-25. **B. Abibullaev, J. An, J. I. Moon**, "Neural network classification of brain hemodynamic responses from four mental tasks," *International Journal of Optomechatronics*, vol. 5, no. 4, pp. 340–359, 2011; DOI: [LINK](https://doi.org/10.1080/15599612.2011.633209)
+25. **B. Abibullaev, J. An, J. I. Moon**, "Neural network classification of brain hemodynamic responses from four mental tasks," *International Journal of Optomechatronics*, vol. 5, no. 4, pp. 340–359, 2011; DOI: [>link<](https://doi.org/10.1080/15599612.2011.633209)
 
-26. **B. Abibullaev, H. D. Seo**, "A new QRS detection method using wavelets and artificial neural networks," *Journal of Medical Systems*, vol. 35, no. 4, pp. 683–691, 2011; DOI: [LINK](https://link.springer.com/article/10.1007/s10916-009-9405-3)
+26. **B. Abibullaev, H. D. Seo**, "A new QRS detection method using wavelets and artificial neural networks," *Journal of Medical Systems*, vol. 35, no. 4, pp. 683–691, 2011; DOI: [>link<](https://link.springer.com/article/10.1007/s10916-009-9405-3)
 
-27. **B. Abibullaev, M. S. Kim, H. D. Seo**, "Seizure detection in temporal lobe epileptic EEGs using the best basis wavelet functions," *Journal of Medical Systems*, vol. 34, no. 4, pp. 755–765, 2010; DOI: [LINK](https://link.springer.com/article/10.1007/s10916-009-9290-9) 
+27. **B. Abibullaev, M. S. Kim, H. D. Seo**, "Seizure detection in temporal lobe epileptic EEGs using the best basis wavelet functions," *Journal of Medical Systems*, vol. 34, no. 4, pp. 755–765, 2010; DOI: [>link<](https://link.springer.com/article/10.1007/s10916-009-9290-9) 
 
-28. **B. Abibullaev, H. D. Seo, M. S. Kim**, "Epileptic spike detection using continuous wavelet transforms and artificial neural networks," *International Journal of Wavelets, Multiresolution and Information Processing*, vol. 8, no. 01, pp. 33–48, 2010; DOI: [LINK](https://doi.org/10.1142/S0219691310003341) 
+28. **B. Abibullaev, H. D. Seo, M. S. Kim**, "Epileptic spike detection using continuous wavelet transforms and artificial neural networks," *International Journal of Wavelets, Multiresolution and Information Processing*, vol. 8, no. 01, pp. 33–48, 2010; DOI: [>link<](https://doi.org/10.1142/S0219691310003341) 
 
-29. **M. S. Kim, Y. C. Cho, B. Abibullaev, H. D. Seo**, "Analysis of brain function and classification of sleep stage EEG using Daubechies wavelet," *Sensors and Materials*, vol. 20, no. 1, pp. 1–15, 2008; DOI: [LINK](https://sensors.myu-group.co.jp/sm_pdf/SM701.pdf) 
+29. **M. S. Kim, Y. C. Cho, B. Abibullaev, H. D. Seo**, "Analysis of brain function and classification of sleep stage EEG using Daubechies wavelet," *Sensors and Materials*, vol. 20, no. 1, pp. 1–15, 2008; DOI: [>link<](https://sensors.myu-group.co.jp/sm_pdf/SM701.pdf) 
 
 ---
 ## Book Chapters
