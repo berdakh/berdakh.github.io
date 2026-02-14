@@ -10,9 +10,7 @@ redirect_from:
 
 ## About Me
 
-I am a Machine Learning researcher and IEEE Senior Member with 10+ years of experience developing robust AI systems for complex, real-world data.
-
-My work focuses on **generalizable representation learning under distribution shift**, particularly for structured, temporal, and multimodal data. I combine deep learning (CNNs, Transformers, hybrid architectures) with strong signal-processing foundations to design models that remain reliable across subjects, domains, and operating conditions.
+I am a Machine Learning researcher and IEEE Senior Member with 10+ years of experience developing robust AI systems for complex, real-world data.My work focuses on **generalizable representation learning under distribution shift**, particularly for structured, temporal, and multimodal data. I combine deep learning (CNNs, Transformers, hybrid architectures) with strong signal-processing foundations to design models that remain reliable across subjects, domains, and operating conditions.
 
 ---
 
@@ -51,37 +49,13 @@ Ensuring reliability through principled evaluation.
 
 ---
 
-## Selected Impact
+### Selected Publications 
+For a complete list, see [Google Scholar](https://scholar.google.com/citations?user=KvECkz0AAAAJ). 
 
-- **IEEE Senior Member**
-- **U.S. Patent (9,081,890)** – EEG-based rehabilitation training system  
-- 1500+ citations | h-index ~21  
-- Publications in *IEEE Transactions*, and leading peer-reviewed venues  
-- Open-source ML implementations on GitHub  
-- Technical educator (3K+ YouTube subscribers)  
-
-Full publication list:  
-👉 [Google Scholar](https://scholar.google.com/citations?user=KvECkz0AAAAJ)
-
----
-
-## Representative Publications
-
-**2023**  
-Deep Learning in BCIs: Transformer Models, Advantages, Challenges, and Applications  
-*IEEE Access*
-
-**2022**  
-Subject-Independent Classification of P300 Event-Related Potentials  
-*IEEE Transactions on Human-Machine Systems*
-
-**2021**  
-Systematic Deep Learning Model Selection for P300-Based BCIs  
-*IEEE Transactions on Systems, Man, and Cybernetics: Systems*
-
-**2019**  
-Learning Discriminative Spatiospectral Features of ERPs  
-*IEEE Journal of Biomedical and Health Informatics*
+- **2023**: Abibullaev, B., Keutayeva, A., & Zollanvari, A. Deep Learning in BCIs: A Comprehensive Review of Transformer Models, Advantages, Challenges, and Applications. *IEEE Access*. [[Link]](https://ieeexplore.ieee.org/document/10305163) 
+- **2022**: Abibullaev, B., Kunanbayev, K., & Zollanvari, A. Subject-Independent Classification of P300 Event-Related Potentials Using a Small Number of Training Subjects. *IEEE Transactions on Human-Machine Systems*. [[Link]](https://doi.org/10.1109/THMS.2022.3189576) 
+- **2021**: Abibullaev, B. & Zollanvari, A. A Systematic Deep Learning Model Selection for P300-Based Brain-Computer Interfaces. *IEEE Transactions on Systems, Man, and Cybernetics: Systems*. [[Link]](https://ieeexplore.ieee.org/document/9351887) 
+- **2019**: Abibullaev, B. & Zollanvari, A. Learning Discriminative Spatiospectral Features of ERPs for Accurate Brain-Computer Interfaces. *IEEE Journal of Biomedical and Health Informatics*. [[Link]](https://ieeexplore.ieee.org/document/8613780)
 
 ---
 
