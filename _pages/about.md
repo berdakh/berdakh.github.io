@@ -51,7 +51,9 @@ Building evaluation frameworks that ensure reliability beyond benchmarks.
 
 
 ### Selected Publications 
-For a complete list, see [Google Scholar](https://scholar.google.com/citations?user=KvECkz0AAAAJ). 
+For the complete list of publications, see:
+👉 [Publications](/publications/) | [Google Scholar](https://scholar.google.com/citations?user=KvECkz0AAAAJ)
+
 
 - **2023**: Abibullaev, B., Keutayeva, A., & Zollanvari, A. Deep Learning in BCIs: A Comprehensive Review of Transformer Models, Advantages, Challenges, and Applications. *IEEE Access*. [[Link]](https://ieeexplore.ieee.org/document/10305163) 
 - **2022**: Abibullaev, B., Kunanbayev, K., & Zollanvari, A. Subject-Independent Classification of P300 Event-Related Potentials Using a Small Number of Training Subjects. *IEEE Transactions on Human-Machine Systems*. [[Link]](https://doi.org/10.1109/THMS.2022.3189576) 
