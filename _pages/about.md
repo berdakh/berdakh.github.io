@@ -10,11 +10,9 @@ redirect_from:
 
 ## About Me
 
-I am a Machine Learning researcher and IEEE Senior Member with over 10 years of experience developing AI systems for complex, real-world environments.
+I am a Machine Learning researcher and IEEE Senior Member with over 10 years of experience developing AI systems for complex, real-world environments. 
 
-Many AI models perform well on benchmarks yet degrade when conditions change. My research addresses this reliability gap. I study generalizable representation learning under distribution shift, with emphasis on non-stationary, high-dimensional, and multimodal data.
-
-By integrating statistical signal modeling with modern deep architectures, I develop methods that remain stable across subjects, domains, and operating conditions — enabling AI systems that can be trusted beyond the lab.
+Many AI models perform well on benchmarks yet degrade when conditions change. My research addresses this reliability gap. I study generalizable representation learning under distribution shift, with emphasis on non-stationary, high-dimensional, and multimodal data. By integrating statistical signal modeling with modern deep architectures, I develop methods that remain stable across subjects, domains, and operating conditions — enabling AI systems that can be trusted beyond the lab.
 
 
 
