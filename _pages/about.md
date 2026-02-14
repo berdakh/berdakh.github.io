@@ -14,35 +14,41 @@ I am a Machine Learning researcher and IEEE Senior Member with over 10 years of 
 
 Many AI models perform well on benchmarks yet degrade when conditions change. My research addresses this reliability gap. I study generalizable representation learning under distribution shift, with emphasis on non-stationary, high-dimensional, and multimodal data. By integrating statistical signal modeling with modern deep architectures, I develop methods that remain stable across subjects, domains, and operating conditions — enabling AI systems that can be trusted beyond the lab.
 
-
-
 ## Research Pillars
+
 ### 1. Robust Representation Learning
 
-Designing deep architectures that generalize across subjects, domains, and environments.
+Advancing methods that remain stable under distribution shift and subject variability.
 
-- Distribution shift and domain adaptation  
-- Subject-independent modeling  
-- Hybrid CNN–Transformer systems  
-- Stability under noise and heterogeneity  
+- Domain adaptation and cross-distribution generalization  
+- Subject-independent modeling frameworks  
+- Hybrid architectures (CNN–Transformer systems)  
+- Robustness to noise, heterogeneity, and non-stationarity  
 
-### 2. Structured & Temporal Data Modeling
+---
 
-Advanced learning methods for high-dimensional, irregular, and noisy time-series data.
+### 2. Learning from Temporal & Multimodal Signals
 
-- EEG, iEEG, ECG and physiological signals  
-- Event-related potentials and neural decoding  
-- Multimodal sensor integration  
-- Sequence modeling with attention and state-space approaches  
+Developing principled models for high-dimensional, non-stationary sensor data.
 
-### 3. Trustworthy & Reproducible AI
+- Physiological and neural signals (EEG, iEEG, ECG)  
+- Event-related and time-locked neural decoding  
+- Multimodal sensor fusion  
+- Sequential modeling with attention and state-space methods  
 
-Ensuring reliability through principled evaluation.
+---
 
-- Leakage-proof validation pipelines  
-- Statistical testing and ablation studies  
-- Robust cross-validation frameworks  
-- Research-to-production deployment principles  
+### 3. Trustworthy & Deployable AI Systems
+
+Building evaluation frameworks that ensure reliability beyond benchmarks.
+
+- Leakage-resistant validation design  
+- Statistical rigor and ablation analysis  
+- Cross-domain evaluation protocols  
+- Research-to-production system design  
+
+
+
 
 ### Selected Publications 
 For a complete list, see [Google Scholar](https://scholar.google.com/citations?user=KvECkz0AAAAJ). 
