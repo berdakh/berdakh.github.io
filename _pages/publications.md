@@ -69,7 +69,6 @@ layout: single
 ## Book Chapters
 
 - A. Keutayeva, A. Zollanvari, <u>B. Abibullaev</u>, **Visual Evoked Potentials in Neurofeedback: Advancing Cognitive Control in ADHD Through Therapeutic Gaming**, *Bridging the Gap between Mind and Machine: Exploring the Future of Human-AI-Neurotechnology Integration*, pp. 131–154, 2025; DOI: [(link)](https://doi.org/10.1007/978-3-032-06713-5_7)
-
 - A. Keutayeva, A. Zollanvari, <u>B. Abibullaev</u>, **Evolving Trends and Future Prospects of Transformer Models in EEG-Based Motor-Imagery BCI Systems**, *Discovering the Frontiers of Human-Robot Interaction: Insights and Innovations in Collaboration, Communication, and Control*, pp. 233, 2024; DOI: [(link)](https://doi.org/10.1007/978-3-031-66656-8_10)
 ---
 
@@ -155,13 +154,9 @@ layout: single
 
 40. <u>B. Abibullaev</u>, S. H. Don. **Epileptic seizures detection using continuous time wavelet based artificial neural networks.** *2009 Sixth International Conference on Information Technology: New Generations*, pp. 1456–1461, 2009.
 
-
-
-
 ---
 ## Patents
 
-1. J. An, S. H. Jin, S. H. Lee, J. I. Moon, <u>B. Abibullaev</u>, J. H. Ahn, G. H. Jang, **Rehabilitation training system and method**, *.*, 2015.
-
-2. J. An, S. H. Jin, S. H. Lee, J. I. Moon, <u>B. Abibullaev</u>, J. H. Ahn, G. H. Jang, **Self-directed rehabilitation training method combining brain signals and functional electrostimulation**, *.*, 2014.
-
+- J. An, S.H. Jin, S.H. Lee, J.I. Moon, B. Abibullaev, J.H. Ahn and G.H. Jang. **Rehabilitation Training System and Method.** : 9,081,890, Washington, DC: United States. Patent and Trademark Office, 2015 [[Link]](https://www.google.com/patents/US9081890).
+- J. An, S.H. Jin, S.H. Lee, J.I. Moon, B. Abibullaev, J.H. Ahn and G.H. Jang. **Self-directed Rehabilitation Training Method Combining Brain Signals and Functional Electrostimulation**. : 17077057,  14049302, 09-OCT-2013, United States, [[Link]](http://www.google.com/patents/US20140200632).
+- J. An, S.H. Jin, S.H. Lee, B. Abibullaev, J.I. Moon , J.H. Ahn and G.H. Jang. **Combining Brain Signals and Functional Electrostimulation Self-Directed Rehabilitation Method**, Patent Registration Number: 101501524000, 05.03.2015. South Korea, [[Link]](http://eng.kipris.or.kr/).
