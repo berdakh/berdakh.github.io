@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Berdakh Abibullaev, PhD"
-  pronouns         : # example: "she/her"  
+  pronouns         : "" # example: "she/her"  
   bio              : "Machine Learning Engineer, Data Scientist, and Researcher"
   location         : "Houston, Texas, USA"
   employer         : #"Red Brick University"
@@ -43,11 +43,7 @@ author:
   researchgate     : # URL
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=26537215100"
     
-  custom_links:
-    - label: "Publications"
-      icon: "fas fa-book"
-      url: "/publications/"
-
+ 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
