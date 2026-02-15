@@ -62,12 +62,18 @@ layout: single
 27. <u>B. Abibullaev</u>, M. S. Kim, H. D. Seo, **Seizure detection in temporal lobe epileptic EEGs using the best basis wavelet functions**, *Journal of Medical Systems*, vol. 34, no. 4, pp. 755–765, 2010; DOI: [(link)](https://link.springer.com/article/10.1007/s10916-009-9290-9)
 
 28. <u>B. Abibullaev</u>, H. D. Seo, M. S. Kim, **Epileptic spike detection using continuous wavelet transforms and artificial neural networks**, *International Journal of Wavelets, Multiresolution and Information Processing*, vol. 8, no. 01, pp. 33–48, 2010; DOI: [(link)](https://doi.org/10.1142/S0219691310003341)
+
 29. M. S. Kim, Y. C. Cho, <u>B. Abibullaev</u>, H. D. Seo, **Analysis of brain function and classification of sleep stage EEG using Daubechies wavelet**, *Sensors and Materials*, vol. 20, no. 1, pp. 1–15, 2008; DOI: [(link)](https://sensors.myu-group.co.jp/sm_pdf/SM701.pdf)
+
+
 ---
 
 ## Book Chapters
-- A. Keutayeva, A. Zollanvari, <u>B. Abibullaev</u>, **Visual Evoked Potentials in Neurofeedback: Advancing Cognitive Control in ADHD Through Therapeutic Gaming**, *Bridging the Gap between Mind and Machine: Exploring the Future of Human-AI-Neurotechnology Integration*, pp. 131–154, 2025; DOI: [(link)](https://doi.org/10.1007/978-3-032-06713-5_7)
-- A. Keutayeva, A. Zollanvari, <u>B. Abibullaev</u>,**Evolving Trends and Future Prospects of Transformer Models in EEG-Based Motor-Imagery BCI Systems**, *Discovering the Frontiers of Human-Robot Interaction: Insights and Innovations in Collaboration, Communication, and Control*, pp. 233, 2024; DOI: [(link)](https://doi.org/10.1007/978-3-031-66656-8_10)
+1. A. Keutayeva, A. Zollanvari, <u>B. Abibullaev</u>, **Visual Evoked Potentials in Neurofeedback: Advancing Cognitive Control in ADHD Through Therapeutic Gaming**, *Bridging the Gap between Mind and Machine: Exploring the Future of Human-AI-Neurotechnology Integration*, pp. 131–154, 2025; DOI: [(link)](https://doi.org/10.1007/978-3-032-06713-5_7)
+
+2. A. Keutayeva, A. Zollanvari, <u>B. Abibullaev</u>,**Evolving Trends and Future Prospects of Transformer Models in EEG-Based Motor-Imagery BCI Systems**, *Discovering the Frontiers of Human-Robot Interaction: Insights and Innovations in Collaboration, Communication, and Control*, pp. 233, 2024; DOI: [(link)](https://doi.org/10.1007/978-3-031-66656-8_10)
+
+
 ---
 
 ## Conference Papers
