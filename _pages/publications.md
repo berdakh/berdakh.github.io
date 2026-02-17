@@ -73,7 +73,6 @@ layout: single
 
 2. A. Keutayeva, A. Zollanvari, <u>B. Abibullaev</u>,**Evolving Trends and Future Prospects of Transformer Models in EEG-Based Motor-Imagery BCI Systems**, *Discovering the Frontiers of Human-Robot Interaction: Insights and Innovations in Collaboration, Communication, and Control*, pp. 233, 2024; DOI: [(link)](https://doi.org/10.1007/978-3-031-66656-8_10)
 
-
 ---
 
 ## Conference Papers
