@@ -11,7 +11,7 @@ I believe engineering and computer science education should develop not only tec
 
 My role as an educator is to design environments where students actively build understanding, solve meaningful problems, and grow into confident engineers and researchers.
 
-My teaching is grounded in over a decade of instruction, active research in machine learning and neural engineering, and a strong technical foundation spanning signal processing, control systems, digital design, and biomedical engineering.
+My teaching is grounded in over a decade of instruction, active research in machine learning and neural engineering, and a strong technical foundation spanning signal processing, digital design, and biomedical engineering.
 
 ---
 
