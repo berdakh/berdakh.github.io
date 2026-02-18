@@ -17,5 +17,7 @@ main:
     url: /teaching_statement/
   - title: "CV"
     url: /cv_teaching/
+  - title: "Lab Page"
+    url: /lab_page/
 
   # add more as needed
