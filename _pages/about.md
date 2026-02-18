@@ -60,7 +60,7 @@ For the complete list of publications, see: 👉 [Publications](/publications/) 
 
 ## Professional Engagement
 
-I welcome academic collaboration in:
+I welcome collaboration in:
 
 - Robust machine learning  
 - Temporal and multimodal modeling  
