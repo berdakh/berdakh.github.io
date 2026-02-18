@@ -1,154 +1,102 @@
 ---
-title: "Teaching Statement"
+layout: single
+title: "Courses Taught"
 permalink: /teaching_statement/
 author_profile: true
-layout: single
+share: true
 ---
 
-## Teaching Philosophy
+# Courses Taught
 
-I believe engineering and computer science education should develop not only technical competence, but intellectual independence — the ability to reason rigorously, connect theory to practice, and make responsible decisions about technology’s impact on society.
+I have designed and taught core and elective courses in the Robotics & Mechatronics program at Nazarbayev University (2015–present), emphasizing active, hands-on learning with real-world applications in signals, machine learning, neural interfaces, and embedded systems.
 
-My role as an educator is to design environments where students actively build understanding, solve meaningful problems, and grow into confident engineers and researchers.
+Courses feature Python/PyTorch/MNE-Python implementations, hardware labs (OpenBCI, FPGA, microcontrollers), and research-integrated projects — many resulting in student IEEE publications. Average student feedback: **4.5/5.0** (above institutional average of 4.1/5.0).
 
-My teaching is grounded in over a decade of instruction, active research in machine learning and neural engineering, and a strong technical foundation spanning signal processing, digital design, and biomedical engineering.
+For full syllabi, lecture notes, project examples, code repos, and resources, visit:
 
----
+**[Complete Courses Overview → brainu.notion.site/Courses](https://brainu.notion.site/Courses-b590909e2fd7411d8313959da9f5cb11)**
 
-## Core Teaching Principles
+### Key Courses
 
-### 1. Active, Problem-Driven Learning
+#### ROBT 206: Microcontrollers with Lab (Core Undergraduate Engineering) 
+- Core course in Robotics & Mechatronics Program
+- Covers Boolean algebra, logic/circuit design, instruction sets, microcontroller peripherals & programming
+- Tools: Arduino IDE, MATLAB, Quartus, Proteus for circuit simulation
+- Labs: Hands-on FPGA board programming and electronic component work
+- Focus: Practical digital system design and embedded programming skills
 
-Students learn best by doing.
+ [Watch the Course Playlist → YouTube](https://youtu.be/bq7Id4ZxxBI?si=DRsgbBGfwmkrWiBB) 
 
-Rather than presenting theory in isolation, I anchor concepts in real problems:
+#### ROBT 407: Machine Learning with Applications (Undergraduate/Graduate Elective)
+- PyTorch-based course, 40–60 students/year
+- Real datasets (neural signals, sensors, biomedical measurements)
+- Emphasis: Implementation, model interpretability, ethical AI considerations
+- Student projects: 15+ published in IEEE conference proceedings, 3+ in peer-reviewed journals
+- **Full Lecture Playlist on YouTube** (ROBT407-Machine Learning with Applications): Structured video series covering fundamentals (supervised/unsupervised learning, overfitting hazards, model selection, etc.) with practical examples.
 
-- In **Signals and Systems**, students analyze real ECG data before learning Fourier theory.
-- In **Machine Learning**, students train models on neural and biomedical datasets instead of toy examples.
-- In laboratory courses, students design, implement, debug, and iterate — experiencing engineering as a creative process.
+ [Watch the Complete ML Course Playlist → YouTube](https://www.youtube.com/playlist?list=PLXtvZiGkmNVvg384muk3ouqbMNDammpbj) 
 
-I use short lectures followed by structured problem-solving, hands-on coding, and reflection. This approach promotes deeper understanding and long-term retention.
+#### Signals and Systems (Core Undergraduate Engineering)
+- Taught to 40+ students/year
+- Modernized with Python simulations and real-world labs (biomedical ECG/EEG, industrial signals)
+- Starts with clinical problems (e.g., ECG arrhythmia detection) to motivate theory
+- Student feedback: 4.5/5.0
 
----
+#### Brain-Machine Interfaces / Brain-Computer Interfaces (Graduate Capstone Seminar)
+- Hands-on lab course
+- Full BCI pipeline: acquisition → preprocessing → feature extraction → real-time decoding
+- Hardware: OpenBCI + EEG amplifiers
+- Software: MNE-Python, scikit-learn, PyTorch
+- Outcomes: 20+ student-led IEEE publications (EMBC, BCI, NER)
+- **Supporting YouTube Playlists**:
+  - Brain-Computer Interfaces Lectures (16 videos): Intro to BCI, EEG mechanisms, decoding challenges, ERP features.
+    [Watch BCI Lectures → YouTube](https://www.youtube.com/playlist?list=PLXtvZiGkmNVsgTHQcZP8v-4l0i5QE9Zbq)
+  - MNE Python Tutorials (9 videos): Hands-on EEG/MEG processing (loading, segmentation, visualization, artifact detection).
+    [Watch MNE Tutorials → YouTube](https://www.youtube.com/playlist?list=PLXtvZiGkmNVvPS0N9UNBVkIFe0_0t_Nqt)
 
-### 2. Research-Integrated Education
+#### Statistical Methods and Machine Learning (Undergraduate Foundation, 2015–2020)
+- 40+ students/year
+- Foundational stats + applied ML (scikit-learn)
+- Jupyter tutorials and peer-review for interactive learning
 
-My research in machine learning for neural and biomedical signals directly informs my teaching.
+### Teaching Preparation & Approach
 
-Students do not just learn algorithms — they apply them to real research questions. Many have:
+My preparation to teach stems from rigorous graduate training at Yeungnam University (M.S. Electronic Engineering 2004–2006; Ph.D. Engineering 2006–2010), where I completed advanced coursework with high performance (GPA ~3.94–3.95/4.50 Korean scale, mostly A/A+ grades) in signal processing, systems theory, digital/VLSI design, control, biomedical engineering, and emerging areas. This foundation, combined with 10+ years of faculty experience, equips me to teach core and specialized topics effectively.
 
-- Implemented state-of-the-art models  
-- Contributed to publishable results  
-- Presented at IEEE conferences  
-- Continued to PhD programs or research careers  
+**Prepared to teach across the following areas** (with key supporting graduate courses):
 
-Bringing research into the classroom demystifies discovery and shows students that they can contribute to knowledge creation.
+#### Signal Processing & Biomedical Signals
+- Bio-Signal Processing, Random Signal Processing
+- Image Signal Processing Theory, Multimedia Signal Processing (Integrated Topics & Special Topics)
+- Digital Image Processing
+- **Related taught courses**: Signals and Systems (modernized with biomedical labs), Brain-Machine Interfaces (EEG/iEEG focus)
 
----
+#### Digital Design, Circuits & Embedded Systems
+- Digital Logic Design, Hardware Description Language
+- Design of Electronic Circuits, Integrated Signal Circuit Engineering
+- Design of Microprocessor-Based Systems, VLSI System Design
+- Semiconductor Devices
+- **Related taught courses**: ROBT 206 Microcontrollers with Lab (FPGA/Arduino/Quartus focus)
 
-### 3. Inclusive and Structured Course Design
+#### Machine Learning, AI & Data-Driven Methods
+- (Built on strong signal processing foundation + self-directed research/teaching in ML)
+- Neural networks, deep learning, supervised/unsupervised methods (integrated into recent courses)
+- **Related taught courses**: ROBT 407 Machine Learning with Applications (PyTorch/Scikit-learn projects), Statistical Methods and Machine Learning
 
-Students enter with diverse backgrounds and preparation levels. I design courses to support growth for all learners through:
+#### Biomedical & Neural Engineering
+- Introduction to Biomedical Measurement
+- Advanced Bioelectronic Engineering
+- **Related taught courses**: Brain-Machine Interfaces (hands-on BCI pipelines with OpenBCI/MNE-Python)
 
-- Clear learning objectives and transparent grading  
-- Scaffolded assignments that build complexity gradually  
-- Frequent low-stakes assessments  
-- Multiple formats (lectures, labs, projects, discussions)  
-- Emphasis on growth mindset and productive struggle  
+#### Emerging & Interdisciplinary Areas
+- Multimedia Engineering topics
+- **Potential electives**: Computer Vision, Data Science, AI for Medical Devices, Cyber-Physical Systems
 
-I intentionally cultivate an environment where students feel intellectually safe to ask questions, make mistakes, and improve.
+**Approach**: Active, project-based learning with real datasets/hardware; research integration (e.g., current transformer/BCI results); inclusive design (multiple modalities, scaffolding, formative feedback); emphasis on ethical AI, interpretability, and professional skills (communication, teamwork). Student outcomes include 30+ publications from projects and consistent 4.5/5.0 ratings.
 
----
+### Supplementary YouTube Channel
+My channel (@berdakh-abibullaev) hosts ~3.13K subscribers and 59+ videos focused on neurotech, BCI, EEG analysis, and ML tools. It provides free access to lecture recordings, tutorials, and practical demos that support these courses.
 
-### 4. Real-World Relevance and Professional Skills
+**[Explore Channel → YouTube](https://www.youtube.com/@berdakh-abibullaev)**
 
-Engineering education must prepare students for professional practice.
-
-I integrate:
-
-- Industry-relevant tools (Python, PyTorch, embedded systems, FPGA prototyping)
-- Technical writing and IEEE-style reporting
-- Oral presentations and peer review
-- Team-based project development
-- Ethical discussions on bias, privacy, and responsible AI
-
-Students leave not only with knowledge, but with practical competence and communication skills.
-
----
-
-### 5. Mentorship as a Central Responsibility
-
-Teaching extends beyond the classroom.
-
-Over the past decade, I have mentored:
-
-- Ph.D. students who continued into academic positions  
-- M.Sc. students admitted to competitive Ph.D. programs  
-- 20+ undergraduates involved in research, several with publications  
-
-I invest in students individually — helping them identify strengths, navigate career paths, and build confidence as engineers and scholars.
-
----
-
-## Teaching Practice
-
-I design courses using backward planning:
-
-1. Define learning outcomes  
-2. Align assessments with those outcomes  
-3. Build activities that support mastery  
-
-A typical class session includes:
-- Focused concept introduction  
-- Guided group problem-solving  
-- Applied demonstration with real data  
-- Short reflective assessment  
-
-Laboratory and project components are central to my courses. Students implement complete systems — from signal acquisition and processing to machine learning and evaluation.
-
----
-
-## Courses I Teach
-
-**Core Engineering Courses**
-- Signals and Systems  
-- Digital Logic Design  
-- Microcontrollers and Embedded Systems  
-
-**Signal Processing & AI**
-- Digital Signal Processing  
-- Machine Learning  
-- Deep Learning  
-- Neural Signal Processing  
-- Brain-Computer Interfaces  
-
-**Interdisciplinary**
-- Biomedical Instrumentation  
-- Data Science  
-
----
-
-## Continuous Improvement
-
-Teaching is a craft that requires reflection and iteration.
-
-I:
-- Analyze assessment patterns to refine instruction  
-- Incorporate student feedback each semester  
-- Engage with scholarship of teaching and learning  
-- Stay current with emerging technologies  
-
-My goal is continual improvement — just as I expect from my students.
-
----
-
-## Closing
-
-I aim for students to leave my courses not only having mastered content, but having developed:
-
-- Structured problem-solving ability  
-- Intellectual independence  
-- Confidence in tackling complex systems  
-- Awareness of ethical responsibility  
-
-Engineering education should empower students to build, question, and innovate responsibly. That is the standard I hold for my teaching.
+These videos serve as open educational resources for students, researchers, and self-learners in machine learning and neural engineering.

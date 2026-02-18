@@ -11,4 +11,3 @@ For detailed information on our projects, team members, publications, and resour
 
 [Visit Lab Site](https://brainu.notion.site/) 
 
-This external site provides comprehensive updates and interactive content.
