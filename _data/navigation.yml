@@ -11,16 +11,14 @@
 main:
   - title: "Publications"
     url: /publications/
-  - title: "Talks"
-    url: /talks/
+  - title: "Research Statement"
+    url: /research-statement/
   - title: "Teaching"
-    url: /teaching/
-  - title: "Blog Posts"
-    url: /blog-posts/          # or /posts/ or whatever your path is
+    url: /cv-teaching/
   - title: "Portfolio"
     url: /portfolio/
   - title: "CV"
-    url: /cv/
+    url: /cv-teaching/
   - title: "Guide"
     url: /guide/
   # add more as needed
