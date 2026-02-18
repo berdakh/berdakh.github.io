@@ -5,56 +5,108 @@ author_profile: true
 layout: single
 ---
 
-# Research Statement
-
 ## Research Vision
 
-My research develops machine learning methods for complex, heterogeneous temporal/sequential data where standard ML assumptions fail. I focus on **representation learning**, **robust AI**, and **signal processing** at the intersection of neural engineering, biomedical signals, and human-machine systems.
+My research develops **robust machine learning methods for heterogeneous temporal and sequential data**, where classical assumptions of stationarity, independence, and uniform data distributions fail.
 
-Core question: How can models discover invariant, generalizable representations amid high heterogeneity, limited labels, distribution shift, and non-stationary dynamics?
+Modern AI systems are often trained under idealized conditions but deployed in environments characterized by:
+- distribution shift,
+- non-stationary dynamics,
+- limited and imbalanced labels,
+- domain-specific nuisance variation.
 
-Neural signals (EEG/iEEG) serve as the ultimate testbed for robust AI; successes here generalize to medical imaging, sensor networks, autonomous systems, and industrial monitoring.
+My central research question is:
+
+> How can we learn invariant and generalizable representations that remain stable across domains, subjects, sensors, and time?
+
+Neural signals (EEG and intracranial EEG) serve as a particularly demanding testbed for this question. If models can generalize under the extreme heterogeneity of brain data, they can generalize in medical, industrial, and cyber-physical systems more broadly.
+
+My work sits at the intersection of:
+- Representation Learning  
+- Robust and Generalizable AI  
+- Signal Processing and Systems Theory  
+- Human–Machine Systems  
+
+---
 
 ## Core Research Thrusts
 
-### A. Invariant Representation Learning for Cross-Domain Generalization
+### 1. Invariant Representation Learning Under Heterogeneity
 
-**Challenge** — Models trained on one dataset/population often fail in new settings due to entangled nuisance variation (e.g., subject differences, sensors, protocols).
+**Problem.**  
+Models trained on one population or environment often fail when deployed in another due to entangled nuisance factors (subject differences, sensor variability, acquisition protocols).
 
-**Approach** — Develop invariance-enforcing objectives during representation learning to:
-- Capture task-relevant features (motor intent, seizure patterns)
-- Suppress domain-specific noise
-- Enable reliable cross-subject/site generalization
+**Approach.**  
+I develop invariance-enforcing objectives embedded directly into representation learning. Rather than correcting for domain shift post hoc, these methods:
 
-**Contributions** — Architecture-agnostic methods (CNNs, transformers, RNNs); integrated objectives (not post-hoc); strong gains on multi-site datasets.
+- Encourage extraction of task-relevant latent structure  
+- Suppress domain-specific nuisance variation  
+- Promote cross-subject and cross-site generalization  
 
-**Impact** — Applies to any heterogeneous temporal data (wearables, medical time-series, industrial sensors).
+These methods are architecture-agnostic and have been validated across CNNs, recurrent models, and transformers.
 
-### B. Deep Learning for Clinical Neural Signals Under Real Constraints
+**Intellectual Contribution.**  
+My work demonstrates that robust generalization requires explicitly modeling heterogeneity, not simply scaling model size. Naïve scaling often amplifies artifacts rather than improving invariance.
 
-**Challenge** — iEEG in epilepsy shows extreme variability (electrode layouts, small/imbalanced data, limited sharing).
+**Broader Impact.**  
+These ideas extend beyond neural signals to wearable sensing, medical time-series, multimodal systems, and industrial monitoring.
 
-**Approach** — Heterogeneity-aware pretraining; separate within- vs. across-site evaluation; principled scaling with inductive biases over raw capacity.
+---
 
-**Contributions** — Showed naïve scaling amplifies artifacts; regularization/sampling for clinical data; frameworks distinguishing true generalization from overfitting.
+### 2. Scalable Deep Learning for Clinical Neural Data
 
-**Impact** — Informs large-scale AI for multi-site temporal medical data (cardiac, respiratory, biomarkers).
+Clinical iEEG datasets present extreme variability:
+- non-standard electrode layouts  
+- limited labeled samples  
+- site-specific acquisition differences  
+- strict data-sharing constraints  
 
-### C. Robust ML for Real-Time Closed-Loop Systems
+I develop frameworks that distinguish:
+- within-site performance from true cross-site generalization  
+- artifact-driven improvements from biologically meaningful learning  
 
-**Challenge** — Human-in-the-loop BCIs create feedback loops that amplify errors/instability.
+My work emphasizes:
+- heterogeneity-aware pretraining  
+- principled regularization  
+- evaluation protocols that reflect real deployment constraints  
 
-**Approach** — Extend invariant representations to system-level properties (stability, error recovery, safety under shift/artifacts); closed-loop evaluation + control theory integration.
+This research contributes to building AI systems that are clinically meaningful, not merely statistically impressive.
 
-**Contributions** — Robust reps improve stability and interaction; protocols reveal offline misleading results; bridged ML, control, and human factors.
+---
 
-**Impact** — Relevant to safety-critical real-time AI (autonomous vehicles, medical support, industrial systems).
+### 3. Robust Machine Learning for Closed-Loop Systems
 
-## Summary of Impact
+Human-in-the-loop systems (e.g., brain-computer interfaces) create dynamic feedback loops between model predictions and user adaptation.
 
-- 80+ publications (h-index 21, 1,500+ citations)
-- $1.14M funding as PI/Co-PI
-- 2 patents; open-source tools (github.com/berdakh)
-- Mentored 20+ students with publications/outcomes
+Offline accuracy alone does not guarantee:
+- stability,
+- safety,
+- or reliable long-term interaction.
 
-Future: Advance theory-grounded robust representation learning, scalable methods for heterogeneous data, validated closed-loop systems, and responsible neurotech innovation.
+I integrate representation learning with control-theoretic concepts to analyze:
+
+- stability under distribution shift  
+- robustness to artifacts  
+- error amplification in closed-loop settings  
+
+This work bridges machine learning, control systems, and human factors engineering, advancing AI for safety-critical real-time systems.
+
+---
+
+## Future Research Directions
+
+Over the next decade, I aim to advance:
+
+1. **Theory-grounded invariant representation learning**  
+   Formalizing generalization under heterogeneity and non-stationarity.
+
+2. **Foundation-style models for temporal biomedical data**  
+   Large-scale pretraining strategies tailored to clinical and sensor data.
+
+3. **Robust evaluation paradigms**  
+   Benchmarks that measure real-world deployment performance under domain shift.
+
+4. **Safe and Responsible Neurotechnology**  
+   Ethical, interpretable, and clinically validated AI systems.
+
+My long-term goal is to establish a research program centered on robust, deployable AI systems for heterogeneous real-world environments — beginning with neural systems, and extending to broader cyber-physical domains.
