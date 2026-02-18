@@ -3,8 +3,6 @@ layout: single
 title: "Brain-Machine Intefaces Lab"
 permalink: /lab_page/
 author_profile: true
-share: true
-comments: true
 ---
 
 Our lab focuses on developing robust machine learning methods for neural signal processing, brain-computer interfaces (BCIs), and clinical neurotechnology. We address challenges in heterogeneous temporal data, representation learning, and real-time closed-loop systems, with applications in epilepsy diagnostics, stroke rehabilitation, and assistive devices.
