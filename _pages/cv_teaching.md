@@ -51,9 +51,13 @@ Accomplished scholar and educator with over 10 years of leadership in Data Scien
 ## Teaching Experience
 
 - Signals and Systems (core undergrad)  
+- Microcontrollers with Laboratory (core undergrad)
+- Digital Logic Circuit Design (core undergrad)
 - Machine Learning with Applications (PyTorch-based elective)  
 - Brain-Machine Interfaces (graduate capstone seminar)  
 - Statistical Methods and Machine Learning  
+- Neural Signal Processing
+- Deep Learning 
 
 Consistently high evaluations (4.5/5.0 avg).
 
