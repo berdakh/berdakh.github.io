@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Curriculum Vitae
-permalink: /cv/
+permalink: /cv_teaching/
 author_profile: true
 ---
 

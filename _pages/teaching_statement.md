@@ -1,10 +1,8 @@
 ---
-layout: single
 title: "Teaching Statement"
-permalink: /teaching-statement/
+permalink: /teaching_statement/
 author_profile: true
-share: true
-comments: true
+layout: single
 ---
 
 # Teaching Statement

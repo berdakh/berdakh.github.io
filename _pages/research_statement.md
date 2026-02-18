@@ -1,6 +1,11 @@
-# Research Statement
+---
+title: "Research Statement"
+permalink: /research_statement/
+author_profile: true
+layout: single
+---
 
-**Berdakh Abibullaev, Ph.D.**
+# Research Statement
 
 ## Research Vision
 
