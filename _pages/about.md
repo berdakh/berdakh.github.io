@@ -49,8 +49,11 @@ My work integrates statistical signal processing, deep learning architectures (C
 For the complete list of publications, see: 👉 [Publications](/publications/) | [Google Scholar](https://scholar.google.com/citations?user=KvECkz0AAAAJ) 
 
 - **2023**: Abibullaev, B., Keutayeva, A., & Zollanvari, A. Deep Learning in BCIs: A Comprehensive Review of Transformer Models, Advantages, Challenges, and Applications. *IEEE Access*. [[Link]](https://ieeexplore.ieee.org/document/10305163) 
+
 - **2022**: Abibullaev, B., Kunanbayev, K., & Zollanvari, A. Subject-Independent Classification of P300 Event-Related Potentials Using a Small Number of Training Subjects. *IEEE Transactions on Human-Machine Systems*. [[Link]](https://doi.org/10.1109/THMS.2022.3189576) 
+
 - **2021**: Abibullaev, B. & Zollanvari, A. A Systematic Deep Learning Model Selection for P300-Based Brain-Computer Interfaces. *IEEE Transactions on Systems, Man, and Cybernetics: Systems*. [[Link]](https://ieeexplore.ieee.org/document/9351887) 
+
 - **2019**: Abibullaev, B. & Zollanvari, A. Learning Discriminative Spatiospectral Features of ERPs for Accurate Brain-Computer Interfaces. *IEEE Journal of Biomedical and Health Informatics*. [[Link]](https://ieeexplore.ieee.org/document/8613780)
 
 ---
