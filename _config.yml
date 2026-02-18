@@ -6,7 +6,7 @@
 
 # Basic Site Settings
 title            : "Welcome to my page!"
-description      : "Berdakh Abibullaev, Machine Learning Engineer, Data Scientist, and Researcher"
+description      : "Berdakh Abibullaev, Machine Learning Researcher, Data Scientist, and Educator"
 locale           : "en-US"
 url              : "https://berdakh.github.io"
 baseurl          : "" # the subpath of your site, e.g. "/blog"

@@ -15,8 +15,6 @@ main:
     url: /research_statement/
   - title: "Teaching"
     url: /teaching_statement/
-  - title: "Portfolio"
-    url: /portfolio/
   - title: "CV"
     url: /cv_teaching/
 

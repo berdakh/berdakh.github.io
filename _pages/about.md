@@ -8,63 +8,58 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
+## About
 
-I am a Machine Learning researcher and IEEE Senior Member with over 10 years of experience developing AI systems for complex, real-world environments. 
+My research develops machine learning methods for heterogeneous and non-stationary temporal data, with emphasis on representation learning and robust generalization.
 
-Many AI models perform well on benchmarks yet degrade when conditions change. My research addresses this reliability gap. I study generalizable representation learning under distribution shift, with emphasis on non-stationary, high-dimensional, and multimodal data. By integrating statistical signal modeling with modern deep architectures, I develop methods that remain stable across subjects, domains, and operating conditions — enabling AI systems that can be trusted beyond the lab.
+Modern AI systems often perform well under controlled experimental conditions but degrade under distribution shift, subject variability, or real-world deployment constraints. My work examines how to learn representations that remain stable across domains, subjects, sensors, and time.
 
-## Research Pillars
+Neural and physiological signals (EEG, intracranial EEG, ECG) provide a particularly stringent testbed for this problem. The extreme variability of such data forces careful modeling of nuisance variation, inductive bias, and evaluation design. Insights gained in this setting extend naturally to other complex sensor-based systems, including medical monitoring, wearable devices, and industrial time-series analysis.
 
-### 1. Robust Representation Learning
-
-Advancing methods that remain stable under distribution shift and subject variability.
-
-- Domain adaptation and cross-distribution generalization  
-- Subject-independent modeling frameworks  
-- Hybrid architectures (CNN–Transformer systems)  
-- Robustness to noise, heterogeneity, and non-stationarity  
+My work integrates statistical signal processing, deep learning architectures (CNNs and transformers), and system-level evaluation principles to develop AI methods that are not only accurate, but reliable.
 
 ---
 
-### 2. Learning from Temporal & Multimodal Signals
+## Research Areas
 
-Developing principled models for high-dimensional, non-stationary sensor data.
+### Invariant and Generalizable Representation Learning
 
-- Physiological and neural signals (EEG, iEEG, ECG)  
-- Event-related and time-locked neural decoding  
-- Multimodal sensor fusion  
-- Sequential modeling with attention and state-space methods  
+- Modeling heterogeneity across subjects and acquisition sites  
+- Learning task-relevant latent structure under domain shift  
+- Architecture-agnostic invariance objectives  
+- Rigorous cross-domain evaluation  
+
+### Machine Learning for Neural and Biomedical Signals
+
+- EEG and intracranial EEG analysis  
+- Event-related neural decoding  
+- Multimodal and time-series modeling  
+- Heterogeneity-aware pretraining strategies  
+
+### Robustness in Closed-Loop and Human-in-the-Loop Systems
+
+- Stability under feedback dynamics  
+- Evaluation beyond offline accuracy  
+- Integration of machine learning and control principles  
+- Deployment-aware validation protocols  
 
 ---
-
-### 3. Trustworthy & Deployable AI Systems
-
-Building evaluation frameworks that ensure reliability beyond benchmarks.
-
-- Leakage-resistant validation design  
-- Statistical rigor and ablation analysis  
-- Cross-domain evaluation protocols  
-- Research-to-production system design  
-
-
-
 
 ### Selected Publications 
-For the complete list of publications, see:
-👉 [Publications](/publications/) | [Google Scholar](https://scholar.google.com/citations?user=KvECkz0AAAAJ)
-
+For the complete list of publications, see: 👉 [Publications](/publications/) | [Google Scholar](https://scholar.google.com/citations?user=KvECkz0AAAAJ) 
 
 - **2023**: Abibullaev, B., Keutayeva, A., & Zollanvari, A. Deep Learning in BCIs: A Comprehensive Review of Transformer Models, Advantages, Challenges, and Applications. *IEEE Access*. [[Link]](https://ieeexplore.ieee.org/document/10305163) 
 - **2022**: Abibullaev, B., Kunanbayev, K., & Zollanvari, A. Subject-Independent Classification of P300 Event-Related Potentials Using a Small Number of Training Subjects. *IEEE Transactions on Human-Machine Systems*. [[Link]](https://doi.org/10.1109/THMS.2022.3189576) 
 - **2021**: Abibullaev, B. & Zollanvari, A. A Systematic Deep Learning Model Selection for P300-Based Brain-Computer Interfaces. *IEEE Transactions on Systems, Man, and Cybernetics: Systems*. [[Link]](https://ieeexplore.ieee.org/document/9351887) 
 - **2019**: Abibullaev, B. & Zollanvari, A. Learning Discriminative Spatiospectral Features of ERPs for Accurate Brain-Computer Interfaces. *IEEE Journal of Biomedical and Health Informatics*. [[Link]](https://ieeexplore.ieee.org/document/8613780)
 
-## Open to
-- AI/ML research collaborations  
-- Healthcare and clinical AI initiatives  
-- Robust time-series and multimodal modeling  
-- Academic and industry partnerships  
-- Consulting on trustworthy ML systems  
+---
 
+## Professional Engagement
 
+I welcome academic collaboration in:
+
+- Robust machine learning  
+- Temporal and multimodal modeling  
+- Clinical and biomedical AI  
+- Evaluation methodology for deployable AI systems  
