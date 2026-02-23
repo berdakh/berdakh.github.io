@@ -7,63 +7,105 @@ author_profile: true
 
 # Berdakh Abibullaev, Ph.D.
 
-**Associate Professor — Machine Learning — Neural Engineering**  
+**Associate Professor | Machine Learning | Neural Engineering**  
+School of Engineering and Digital Sciences  
 Nazarbayev University  
 IEEE Senior Member  
 
-- ✉ berdakho@gmail.com  
-- 🌐 https://berdakh.github.io 
-- 🔗 [Google Scholar](https://scholar.google.com/citations?user=KvECkz0AAAAJ)  
-- 📍 Houston, Texas, USA
+📍 Houston, Texas, USA (U.S. Permanent Resident)  
+✉ berdakho@gmail.com  
+🌐 https://berdakh.github.io  
+🔗 [Google Scholar](https://scholar.google.com/citations?user=KvECkz0AAAAJ)
 
-## Research Profile
+---
 
-Accomplished scholar and educator with over 10 years of leadership in Data Science and Machine Learning, focused on deep learning theory and clinical translation. Expert in principled algorithms for non-stationary, heterogeneous temporal data — with emphasis on Epilepsy Diagnostics and Brain-Computer Interfaces (BCIs). Secured >$1.1M in funding as PI/Co-PI. Committed to Open Science and robust, interpretable AI for high-stakes medical environments.
+## Professional Summary
 
-## Research Directions
+Machine learning researcher and engineering leader with 10+ years of experience developing robust AI systems for non-stationary temporal data (EEG, iEEG, multimodal biosignals).  
 
-1. Domain-general representation learning for temporal data  
-2. Transformer-based modeling of long physiological recordings  
-3. Reliable ML for healthcare deployment: calibration, uncertainty, interpretability
+My work bridges **theory, engineering, and clinical deployment**, with emphasis on:
 
+- Representation learning under distribution shift  
+- Transformer-based modeling of long time-series  
+- Reliable AI for healthcare (calibration, uncertainty, interpretability)  
+- Reproducible ML pipelines for high-stakes environments  
 
-## Academic Appointments
+Secured funding as PI/Co-PI and led multidisciplinary research teams spanning academia and clinical partners.
 
-| Position                          | Institution                                      | Period          | Notes                                                                 |
-|-----------------------------------|--------------------------------------------------|-----------------|-----------------------------------------------------------------------|
-| Associate Professor               | Nazarbayev University, Robotics & Mechatronics   | 2022–Present    | Promoted based on research, funding, doctoral supervision             |
-| Assistant Professor               | Nazarbayev University, Robotics & Mechatronics   | 2015–2021       | Established BCI lab, curriculum development                           |
-| Visiting Professor                | University of Houston, Electrical & Computer Eng | May–Jul 2018    |                                                                       |
-| NIH Postdoctoral Fellow           | University of Houston                            | Aug 2014–Jul 2015 | NIH R01: Non-invasive Neural Interface for Exoskeletons               |
-| Research Professor (Joint)        | Samsung Medical Center & Sungkyunkwan Univ       | 2013–2014       | Clinical epilepsy research                                            |
-| Senior Research Scientist         | DGIST, Robotics Research Division                | 2012–2013       | Promoted from Postdoc                                                 |
-| Postdoctoral Fellow               | DGIST, Robotics Research Division                | 2010–2012       | BCI systems for robotic control                                       |
+➡ Full Research Vision: [/research_statement/](/research_statement/)  
+➡ Teaching Philosophy & Courses: [/teaching_statement/](/teaching_statement/)
+
+---
+
+## Academic & Research Appointments
+
+| Position | Institution | Period |
+|-----------|------------|--------|
+| **Associate Professor** | Nazarbayev University – Robotics & Mechatronics | 2022–Present |
+| **Assistant Professor** | Nazarbayev University | 2015–2021 |
+| Visiting Professor | University of Houston – ECE | 2018 |
+| NIH Postdoctoral Fellow | University of Houston | 2014–2015 |
+| Research Professor (Joint) | Samsung Medical Center & SKKU | 2013–2014 |
+| Senior Research Scientist | DGIST Robotics Division | 2012–2013 |
+| Postdoctoral Fellow | DGIST Robotics Division | 2010–2012 |
+
+---
 
 ## Education
 
-| Degree                            | Institution                          | Years     | Advisor / Scholarship                              |
-|-----------------------------------|--------------------------------------|-----------|----------------------------------------------------|
-| Ph.D. Electronic & Computer Eng   | Yeungnam University, South Korea     | 2006–2010 | Prof. Seo Hee Don — Korean Govt ICT Scholarship    |
-| M.S. Electronic Engineering       | Yeungnam University, South Korea     | 2004–2006 | Brain Korea 21 Scholarship                         |
-| B.S. Telecommunication            | Tashkent University of Info Tech     | 2000–2004 |                                                    |
+| Degree | Institution | Years |
+|--------|------------|-------|
+| Ph.D., Electronic & Computer Engineering | Yeungnam University (South Korea) | 2006–2010 |
+| M.S., Electronic Engineering | Yeungnam University (South Korea) | 2004–2006 |
+| B.S., Telecommunication Engineering | Tashkent University of Information Technologies | 2000–2004 |
 
+---
 
-## Teaching Experience
+## Research & Engineering Expertise
 
-- Signals and Systems (core undergrad)  
-- Microcontrollers with Laboratory (core undergrad)
-- Digital Logic Circuit Design (core undergrad)
-- Machine Learning with Applications (PyTorch-based elective)  
-- Brain-Machine Interfaces (graduate capstone seminar)  
-- Statistical Methods and Machine Learning  
-- Neural Signal Processing
-- Deep Learning 
+### Machine Learning
+- Deep learning (CNNs, Transformers, hybrid architectures)
+- Domain adaptation & subject-independent modeling
+- Self-supervised and representation learning
+- Model calibration & uncertainty estimation
+- Temporal sequence modeling
 
-Consistently high evaluations (4.5/5.0 avg).
+### Software & Infrastructure
+- PyTorch, TensorFlow, scikit-learn, MNE-Python
+- Python, MATLAB, C/C++
+- Git, Docker, HPC clusters
+- Reproducible experimentation & deployment workflows
 
-## Skills & Tools
+### Application Domains
+- Clinical EEG & intracranial EEG
+- Brain–Computer Interfaces
+- Biomedical signal processing
+- High-dimensional multimodal data
 
-- **ML**: PyTorch, TensorFlow, scikit-learn, MNE-Python  
-- **Languages**: Python, MATLAB, C/C++  
-- **Other**: Git, Docker, HPC, cloud computing
- 
+---
+
+## Selected Teaching
+
+Designed and taught undergraduate and graduate courses integrating theory with hands-on ML implementation:
+
+Signals and Systems  
+Microcontrollers with Laboratory  
+Digital Logic Design  
+Machine Learning with Applications (PyTorch-based)  
+Brain–Machine Interfaces (Graduate)  
+Neural Signal Processing  
+Deep Learning  
+
+Average teaching evaluations: 4.5 / 5.0  
+
+➡ Full Teaching Statement: [/teaching_statement/](/teaching_statement/)
+
+---
+
+## Leadership & Impact
+
+- Principal Investigator / Co-PI on competitive research grants
+- Supervised PhD, MSc, and undergraduate researchers
+- Built and led a Brain–Computer Interface research laboratory
+- Published in peer-reviewed journals and international conferences
+- IEEE Senior Member
