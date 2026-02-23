@@ -26,7 +26,7 @@ Machine learning researcher and academic leader with over a decade of experience
 
 Research focuses on domain-general representation learning, transformer-based modeling of long physiological recordings, and reliability-aware AI systems designed for real-world deployment.
 
-Secured over $1.1M in competitive funding as Principal Investigator or Co-Principal Investigator. Led multidisciplinary research teams and supervised PhD, MSc, and undergraduate researchers.
+Secured competitive funding as Principal Investigator or Co-Principal Investigator. Led multidisciplinary research teams and supervised PhD, MSc, and undergraduate researchers.
 
 Full research vision → [/research_statement/](/research_statement/)  
 Teaching philosophy → [/teaching_statement/](/teaching_statement/)
