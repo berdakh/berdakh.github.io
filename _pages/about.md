@@ -36,13 +36,6 @@ My work integrates statistical signal processing, deep learning architectures (C
 - Multimodal and time-series modeling  
 - Heterogeneity-aware pretraining strategies  
 
-### Robustness in Closed-Loop and Human-in-the-Loop Systems
-
-- Stability under feedback dynamics  
-- Evaluation beyond offline accuracy  
-- Integration of machine learning and control principles  
-- Deployment-aware validation protocols  
-
 ---
 
 ### Selected Publications 
