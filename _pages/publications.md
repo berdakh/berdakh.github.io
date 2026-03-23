@@ -5,6 +5,12 @@ author_profile: true
 layout: single
 ---
 
+70+ peer-reviewed publications in machine learning, neural signal processing, and
+brain-computer interfaces. For citation metrics, see
+[Google Scholar](https://scholar.google.com/citations?user=KvECkz0AAAAJ) (h-index 21)
+and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=26537215100).
+
+
 ## Journal Articles
 
 1. W. U. R. Qamar, <u>B. Abibullaev</u>, **Multi-scale EEG feature decoding with Swin Transformers for subject independent motor imagery BCIs**, *Scientific Reports*, vol. 16, no. 1, pp. 2503, 2026; DOI: [(link)](https://doi.org/10.1038/s41598-025-32207-3)
