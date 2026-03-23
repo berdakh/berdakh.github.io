@@ -7,9 +7,8 @@ author_profile: true
 
 # Berdakh Abibullaev, Ph.D.
 
-**Machine Learning Researcher | Neural Signals · Time-Series · Robust AI**
+**Machine Learning Researcher · Neural Signals · Time-Series · Robust AI**
 
-📍 Houston, Texas, USA
 ✉ berdakho@gmail.com
 🌐 [berdakh.github.io](https://berdakh.github.io)
 🔗 [Google Scholar](https://scholar.google.com/citations?user=KvECkz0AAAAJ) · [GitHub](https://github.com/berdakh) · [LinkedIn](https://www.linkedin.com/in/berdakh-abibullaev-a79655137/)
@@ -40,7 +39,7 @@ Teaching philosophy → [Teaching Statement](/teaching_statement/)
 
 | Position | Institution | Location | Period |
 |---|---|---|---|
-| **Associate Professor** | Nazarbayev University, School of Engineering and Digital Sciences | Astana, Kazakhstan | 2022–2025 |
+| **Associate Professor** | Nazarbayev University, School of Engineering and Digital Sciences | Astana, Kazakhstan | 2022–present |
 | **Assistant Professor** | Nazarbayev University, Robotics & Mechatronics Department | Astana, Kazakhstan | 2015–2021 |
 | Visiting Professor | University of Houston, Dept. of Electrical & Computer Engineering | Houston, TX | 2018 |
 | NIH Postdoctoral Fellow | University of Houston | Houston, TX | 2014–2015 |
@@ -90,7 +89,6 @@ Signals and Systems · Microcontrollers with Laboratory · Digital Logic Circuit
 Machine Learning with Applications (PyTorch-based) · Brain-Machine Interfaces (Graduate
 Seminar) · Neural Signal Processing · Deep Learning
 
-**Certifications:** Python Institute PCAP (Certified Associate in Python Programming)
 
 Students I have mentored have appeared as co-authors on peer-reviewed publications,
 including work in *IEEE Access* and *IEEE Transactions on Human-Machine Systems*. I view

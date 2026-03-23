@@ -5,12 +5,12 @@ permalink: /teaching_statement/
 author_profile: true
 ---
 
-Courses designed and delivered in the Robotics & Mechatronics program at Nazarbayev
-University (2015–2025), emphasizing active, hands-on learning with real-world
+I have designed and delivered courses in the Robotics & Mechatronics program at Nazarbayev
+University (2015–present), emphasizing active, hands-on learning with real-world
 applications in signals, machine learning, neural interfaces, and embedded systems.
-Courses feature Python/PyTorch/MNE-Python implementations, hardware labs (OpenBCI,
+My courses feature Python/PyTorch/MNE-Python implementations, hardware labs (OpenBCI,
 FPGA, microcontrollers), and research-integrated projects — many resulting in student
-IEEE publications. Average teaching evaluations: **4.5 / 5.0**.
+IEEE publications. 
 
 
 For full syllabi, lecture notes, project examples, and code repos:

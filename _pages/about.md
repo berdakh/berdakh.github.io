@@ -10,10 +10,9 @@ redirect_from:
 
 ## About
 
-Research focused on machine learning systems that generalize reliably under
+My research focuses on machine learning systems that generalize reliably under
 distribution shift, subject variability, and real-world deployment constraints —
-with applications in neural signal processing, brain-computer interfaces, and
-biomedical time-series analysis.
+with applications in neural signal processing, brain-computer interfaces, and time-series analysis.
 
 Neural and physiological signals (EEG, intracranial EEG) serve as a demanding testbed
 for this work. Insights from this setting transfer directly to medical monitoring,

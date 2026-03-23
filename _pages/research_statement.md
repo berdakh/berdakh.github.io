@@ -5,23 +5,14 @@ author_profile: true
 layout: single
 ---
 
-
-Research focused on robust machine learning methods for heterogeneous temporal and
-sequential data — where classical assumptions of stationarity, independence, and
-uniform data distributions fail. The central question:
-
 > How can we learn invariant and generalizable representations that remain stable
 > across domains, subjects, sensors, and time?
 
-Modern AI systems are often trained under idealized conditions but deployed in
-environments characterized by distribution shift, non-stationary dynamics, limited
-and imbalanced labels, and domain-specific nuisance variation. Neural signals (EEG
-and intracranial EEG) serve as a particularly demanding testbed for this problem —
-if models can generalize under the extreme heterogeneity of brain data, they can
-generalize in medical, industrial, and cyber-physical systems more broadly.
-
-This work sits at the intersection of representation learning, robust and generalizable
-AI, signal processing and systems theory, and human-machine systems.
+Neural signals (EEG and intracranial EEG) serve as a particularly demanding testbed
+for this problem — if models can generalize under the extreme heterogeneity of brain
+data, they can generalize in medical, industrial, and cyber-physical systems more
+broadly. This work sits at the intersection of representation learning, robust and
+generalizable AI, signal processing and systems theory, and human-machine systems.
 
 ---
 
