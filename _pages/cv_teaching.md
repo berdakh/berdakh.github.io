@@ -7,50 +7,53 @@ author_profile: true
 
 # Berdakh Abibullaev, Ph.D.
 
-**Associate Professor of Machine Learning & Neural Engineering**  
-School of Engineering and Digital Sciences  
-Nazarbayev University  
+**Machine Learning Researcher | Neural Signals · Time-Series · Robust AI**
 
-IEEE Senior Member  
+📍 Houston, Texas, USA
+✉ berdakho@gmail.com
+🌐 [berdakh.github.io](https://berdakh.github.io)
+🔗 [Google Scholar](https://scholar.google.com/citations?user=KvECkz0AAAAJ) · [GitHub](https://github.com/berdakh) · [LinkedIn](https://www.linkedin.com/in/berdakh-abibullaev-a79655137/)
 
-📍 Houston, Texas, USA  
-✉ berdakho@gmail.com  
-🌐 https://berdakh.github.io  
-🔗 [Google Scholar](https://scholar.google.com/citations?user=KvECkz0AAAAJ)
 
 ---
 
 ## Professional Summary
 
-Machine learning researcher and academic leader with over a decade of experience developing robust AI systems for non-stationary temporal data, with applications in clinical neuroengineering and biomedical signal analysis.
+Machine learning researcher with 10+ years of experience in neural signal processing,
+brain-computer interfaces, and deep learning for non-stationary temporal data. Research
+focused on invariant representation learning — developing AI systems that generalize
+reliably under distribution shift, subject variability, and real-world deployment
+constraints. Insights from neural and physiological signals transfer directly to medical
+monitoring, wearable devices, and industrial time-series systems.
 
-Research focuses on domain-general representation learning, transformer-based modeling of long physiological recordings, and reliability-aware AI systems designed for real-world deployment.
+Track record includes competitive grant funding as PI and Co-PI, supervision of PhD,
+MSc, and undergraduate researchers, nearly a decade of undergraduate teaching at the
+Associate Professor level, and peer-reviewed publications in IEEE Transactions on
+Human-Machine Systems, IEEE Journal of Biomedical and Health Informatics, and IEEE Access.
 
-Secured competitive funding as Principal Investigator or Co-Principal Investigator. Led multidisciplinary research teams and supervised PhD, MSc, and undergraduate researchers.
-
-Full research vision → [/research_statement/](/research_statement/)  
-Teaching philosophy → [/teaching_statement/](/teaching_statement/)
+Full research vision → [Research Statement](/research_statement/)
+Teaching philosophy → [Teaching Statement](/teaching_statement/)
 
 ---
 
 ## Academic & Research Appointments
 
 | Position | Institution | Location | Period |
-|-----------|------------|----------|--------|
-| **Associate Professor** | Nazarbayev University, School of Engineering and Digital Sciences, Robotics & Mechatronics Department | Astana, Kazakhstan | 2022–Present |
+|---|---|---|---|
+| **Associate Professor** | Nazarbayev University, School of Engineering and Digital Sciences | Astana, Kazakhstan | 2022–2025 |
 | **Assistant Professor** | Nazarbayev University, Robotics & Mechatronics Department | Astana, Kazakhstan | 2015–2021 |
-| Visiting Professor | University of Houston, Department of Electrical & Computer Engineering | Houston, Texas, USA | 2018 |
-| NIH Postdoctoral Fellow | University of Houston | Houston, Texas, USA | 2014–2015 |
-| Research Professor (Joint Appointment) | Samsung Medical Center & Sungkyunkwan University | Seoul, South Korea | 2013–2014 |
-| Senior Research Scientist | Daegu Gyeongbuk Institute of Science & Technology (DGIST), Robotics Research Division | Daegu, South Korea | 2012–2013 |
-| Postdoctoral Fellow | Daegu Gyeongbuk Institute of Science & Technology (DGIST) | Daegu, South Korea | 2010–2012 |
+| Visiting Professor | University of Houston, Dept. of Electrical & Computer Engineering | Houston, TX | 2018 |
+| NIH Postdoctoral Fellow | University of Houston | Houston, TX | 2014–2015 |
+| Research Professor | Samsung Medical Center & Sungkyunkwan University | Seoul, South Korea | 2013–2014 |
+| Senior Research Scientist | DGIST, Robotics Research Division | Daegu, South Korea | 2012–2013 |
+| Postdoctoral Fellow | DGIST | Daegu, South Korea | 2010–2012 |
 
 ---
 
 ## Education
 
 | Degree | Institution | Location | Years |
-|--------|------------|----------|-------|
+|---|---|---|---|
 | Ph.D., Electronic & Computer Engineering | Yeungnam University | South Korea | 2006–2010 |
 | M.S., Electronic Engineering | Yeungnam University | South Korea | 2004–2006 |
 | B.S., Telecommunication Engineering | Tashkent University of Information Technologies | Uzbekistan | 2000–2004 |
@@ -60,59 +63,85 @@ Teaching philosophy → [/teaching_statement/](/teaching_statement/)
 ## Research & Technical Expertise
 
 ### Machine Learning & AI
-- Deep learning (CNNs, Transformers, hybrid architectures)
-- Representation learning for time-series data
-- Domain adaptation and subject-independent modeling
-- Model calibration, uncertainty quantification
-- Self-supervised and multimodal learning
-- Temporal sequence modeling for long recordings
+Deep learning (CNNs, Transformers, hybrid architectures), representation learning for
+time-series data, domain adaptation and subject-independent modeling, self-supervised
+and multimodal learning, model calibration and uncertainty quantification, temporal
+sequence modeling for long physiological recordings.
 
 ### Programming & Frameworks
-- PyTorch, TensorFlow, scikit-learn, MNE-Python
-- Python, MATLAB, C/C++
+PyTorch, TensorFlow, scikit-learn, MNE-Python, Python, MATLAB, C/C++
 
 ### Research Infrastructure
-- Reproducible ML pipelines
-- Git, Docker
-- High-Performance Computing (HPC)
-- Cloud computing environments
+Reproducible ML pipelines, Git, Docker, HPC, cloud computing environments.
 
 ### Application Domains
-- Clinical EEG & intracranial EEG
-- Brain–Computer Interfaces
-- Biomedical signal processing
-- Multimodal physiological data
+Clinical EEG & intracranial EEG, brain-computer interfaces, biomedical signal
+processing, multimodal physiological data.
 
 ---
 
 ## Teaching
 
-Designed and delivered undergraduate and graduate courses integrating mathematical foundations with hands-on implementation:
+Designed and delivered undergraduate and graduate courses integrating mathematical
+foundations with hands-on implementation. Average teaching evaluations: **4.5 / 5.0**.
 
-- Signals and Systems  
-- Microcontrollers with Laboratory  
-- Digital Logic Circuit Design  
-- Machine Learning with Applications (PyTorch-based)  
-- Brain–Machine Interfaces (Graduate Seminar)  
-- Neural Signal Processing  
-- Deep Learning  
+**Courses taught:**
+Signals and Systems · Microcontrollers with Laboratory · Digital Logic Circuit Design ·
+Machine Learning with Applications (PyTorch-based) · Brain-Machine Interfaces (Graduate
+Seminar) · Neural Signal Processing · Deep Learning
 
-Average teaching evaluations: 4.5 / 5.0  
+**Certifications:** Python Institute PCAP (Certified Associate in Python Programming)
 
-Full teaching statement → [/teaching_statement/](/teaching_statement/)
+Students I have mentored have appeared as co-authors on peer-reviewed publications,
+including work in *IEEE Access* and *IEEE Transactions on Human-Machine Systems*. I view
+research co-authorship as a natural extension of the teaching mission and one of the most
+effective ways to develop scientific thinking in early-career students.
 
----
-
-## Leadership & Academic Service
-
-- Principal Investigator / Co-Principal Investigator on competitive research grants (>$1.1M total)
-- Supervision of doctoral, master’s, and undergraduate research students
-- Established and led Brain–Computer Interface research laboratory
-- IEEE Senior Member
-- Reviewer for international journals and conferences in machine learning and biomedical engineering
+Full teaching philosophy → [Teaching Statement](/teaching_statement/)
 
 ---
 
-## Professional Membership
+## Grants & Funding
 
-- Institute of Electrical and Electronics Engineers (IEEE), Senior Member
+Principal Investigator or Co-Principal Investigator on competitive research grants
+totaling over **$1.1M**, including NIH-funded work on EEG-based motor decoding for
+stroke rehabilitation (University of Houston, with Prof. Jose Luis Contreras-Vidal).
+
+---
+
+## Patents
+
+2 granted patents in neural signal processing and brain-computer interface technology.
+
+---
+
+## Selected Publications
+
+For the complete list, see [Publications](/publications/) and
+[Google Scholar](https://scholar.google.com/citations?user=KvECkz0AAAAJ).
+
+- **2023**: Abibullaev, B., Keutayeva, A., & Zollanvari, A. Deep Learning in BCIs: A
+  Comprehensive Review of Transformer Models, Advantages, Challenges, and Applications.
+  *IEEE Access*. [[Link]](https://ieeexplore.ieee.org/document/10305163)
+
+- **2022**: Abibullaev, B., Kunanbayev, K., & Zollanvari, A. Subject-Independent
+  Classification of P300 Event-Related Potentials Using a Small Number of Training
+  Subjects. *IEEE Transactions on Human-Machine Systems*.
+  [[Link]](https://doi.org/10.1109/THMS.2022.3189576)
+
+- **2021**: Abibullaev, B. & Zollanvari, A. A Systematic Deep Learning Model Selection
+  for P300-Based Brain-Computer Interfaces. *IEEE Transactions on Systems, Man, and
+  Cybernetics: Systems*. [[Link]](https://ieeexplore.ieee.org/document/9351887)
+
+- **2019**: Abibullaev, B. & Zollanvari, A. Learning Discriminative Spatiospectral
+  Features of ERPs for Accurate Brain-Computer Interfaces. *IEEE Journal of Biomedical
+  and Health Informatics*. [[Link]](https://ieeexplore.ieee.org/document/8613780)
+
+---
+
+## Academic Service & Leadership
+
+Established and led a Brain-Computer Interface research laboratory at Nazarbayev
+University. Supervised doctoral, master's, and undergraduate researchers. Reviewer for
+international journals and conferences in machine learning and biomedical engineering.
+IEEE Senior Member.

@@ -1,13 +1,16 @@
 ---
-title: "Brain-Machine Intefaces Lab"
+title: "Brain-Machine Interfaces Lab"
 permalink: /lab_page/
 author_profile: true
 layout: single
 ---
 
-Our lab focuses on developing robust machine learning methods for neural signal processing, brain-computer interfaces (BCIs), and clinical neurotechnology. We address challenges in heterogeneous temporal data, representation learning, and real-time closed-loop systems, with applications in epilepsy diagnostics, stroke rehabilitation, and assistive devices.
+Our lab focuses focuses on robust machine learning for neural signal processing,
+brain-computer interfaces, and clinical neurotechnology — addressing challenges in
+heterogeneous temporal data, invariant representation learning, and real-time
+closed-loop systems, with applications in epilepsy diagnostics, stroke rehabilitation,
+and assistive devices.
 
-For detailed information on our projects, team members, publications, and resources, please visit our full lab site hosted on Notion:
+For projects, team members, publications, and resources, visit the full lab site:
 
-[Visit Lab Site](https://brainu.notion.site/) 
-
+👉 **[brainu.notion.site](https://brainu.notion.site/)**
