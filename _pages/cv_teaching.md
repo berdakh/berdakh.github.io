@@ -30,9 +30,6 @@ MSc, and undergraduate researchers, nearly a decade of undergraduate teaching at
 Associate Professor level, and peer-reviewed publications in IEEE Transactions on
 Human-Machine Systems, IEEE Journal of Biomedical and Health Informatics, and IEEE Access.
 
-Full research vision → [Research Statement](/research_statement/)
-Teaching philosophy → [Teaching Statement](/teaching_statement/)
-
 ---
 
 ## Academic & Research Appointments
