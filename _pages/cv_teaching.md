@@ -40,7 +40,7 @@ Human-Machine Systems, IEEE Journal of Biomedical and Health Informatics, and IE
 | **Assistant Professor** | Nazarbayev University, Robotics & Mechatronics Department | Astana, Kazakhstan | 2015–2021 |
 | Visiting Professor | University of Houston, Dept. of Electrical & Computer Engineering | Houston, TX | 2018 |
 | NIH Postdoctoral Fellow | University of Houston | Houston, TX | 2014–2015 |
-| Research Professor | Samsung Medical Center & Sungkyunkwan University | Seoul, South Korea | 2013–2014 |
+| Research Scientist | Samsung Medical Center  | Seoul, South Korea | 2013–2014 |
 | Senior Research Scientist | DGIST, Robotics Research Division | Daegu, South Korea | 2012–2013 |
 | Postdoctoral Fellow | DGIST | Daegu, South Korea | 2010–2012 |
 
