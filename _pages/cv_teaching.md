@@ -55,7 +55,6 @@ Teaching philosophy → [Teaching Statement](/teaching_statement/)
 |---|---|---|---|
 | Ph.D., Electronic & Computer Engineering | Yeungnam University | South Korea | 2006–2010 |
 | M.S., Electronic Engineering | Yeungnam University | South Korea | 2004–2006 |
-| B.S., Telecommunication Engineering | Tashkent University of Information Technologies | Uzbekistan | 2000–2004 |
 
 ---
 
