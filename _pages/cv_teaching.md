@@ -5,17 +5,6 @@ permalink: /cv_teaching/
 author_profile: true
 ---
 
-# Berdakh Abibullaev, Ph.D.
-
-**Machine Learning Researcher · Neural Signals · Time-Series · Robust AI**
-
-✉ berdakho@gmail.com
-🌐 [berdakh.github.io](https://berdakh.github.io)
-🔗 [Google Scholar](https://scholar.google.com/citations?user=KvECkz0AAAAJ) · [GitHub](https://github.com/berdakh) · [LinkedIn](https://www.linkedin.com/in/berdakh-abibullaev-a79655137/)
-
-
----
-
 ## Professional Summary
 
 Machine learning researcher with 10+ years of experience in neural signal processing,
