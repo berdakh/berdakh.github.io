@@ -7,17 +7,9 @@ author_profile: true
 
 ## Professional Summary
 
-Machine learning researcher with 10+ years of experience in neural signal processing,
-brain-computer interfaces, and deep learning for non-stationary temporal data. Research
-focused on invariant representation learning — developing AI systems that generalize
-reliably under distribution shift, subject variability, and real-world deployment
-constraints. Insights from neural and physiological signals transfer directly to medical
-monitoring, wearable devices, and industrial time-series systems.
+Electrical and Computer Engineering educator and Applied AI researcher with 10+ years of experience in machine learning, intelligent systems, neural signal processing, and biomedical AI.
 
-Track record includes competitive grant funding as PI and Co-PI, supervision of PhD,
-MSc, and undergraduate researchers, nearly a decade of undergraduate teaching at the
-Associate Professor level, and peer-reviewed publications in IEEE Transactions on
-Human-Machine Systems, IEEE Journal of Biomedical and Health Informatics, and IEEE Access.
+Extensive experience in undergraduate and graduate engineering education, including machine learning, microcontrollers, digital logic design, signal processing, and brain-machine interfaces. Proven record of research funding, student mentorship, interdisciplinary collaboration, and peer-reviewed publications in leading IEEE journals.
 
 ---
 
@@ -29,7 +21,7 @@ Human-Machine Systems, IEEE Journal of Biomedical and Health Informatics, and IE
 | **Assistant Professor** | Nazarbayev University, Robotics & Mechatronics Department | Astana, Kazakhstan | 2015–2021 |
 | Visiting Professor | University of Houston, Dept. of Electrical & Computer Engineering | Houston, TX | 2018 |
 | NIH Postdoctoral Fellow | University of Houston | Houston, TX | 2014–2015 |
-| Research Scientist | Samsung Medical Center  | Seoul, South Korea | 2013–2014 |
+| Research Scientist | Samsung Medical Center | Seoul, South Korea | 2013–2014 |
 | Senior Research Scientist | DGIST, Robotics Research Division | Daegu, South Korea | 2012–2013 |
 | Postdoctoral Fellow | DGIST, Robotics Research Division | Daegu, South Korea | 2010–2012 |
 
@@ -44,53 +36,43 @@ Human-Machine Systems, IEEE Journal of Biomedical and Health Informatics, and IE
 
 ---
 
-## Research & Technical Expertise
+## Research & Engineering Expertise
 
-### Machine Learning & AI
-Deep learning (CNNs, Transformers, hybrid architectures), representation learning for
-time-series data, domain adaptation and subject-independent modeling, self-supervised
-and multimodal learning, model calibration and uncertainty quantification, temporal
-sequence modeling for long physiological recordings.
+### Applied AI & Machine Learning
 
-### Programming & Frameworks
-PyTorch, TensorFlow, scikit-learn, MNE-Python, Python, MATLAB, C/C++
+Deep learning for temporal and multivariate data, transformer and CNN architectures, representation learning, trustworthy AI, domain generalization, subject-independent modeling, multimodal learning, uncertainty-aware AI systems, and deployable machine learning under real-world constraints.
 
-### Research Infrastructure
-Reproducible ML pipelines, Git, Docker, HPC, cloud computing environments.
+### Intelligent Systems & Signal Processing
+
+Biomedical signal analysis, neural signal processing, physiological monitoring, intelligent sensing systems, event-related decoding, time-series analysis, and multimodal data integration.
+
+### Programming & Engineering Tools
+
+Python, PyTorch, TensorFlow, scikit-learn, MNE-Python, MATLAB, C/C++, Git, Docker, Linux, HPC, and cloud-based ML environments.
 
 ### Application Domains
-Clinical EEG & intracranial EEG, brain-computer interfaces, biomedical signal
-processing, multimodal physiological data.
+
+Applied AI for healthcare and engineering systems, clinical EEG and intracranial EEG analysis, brain-computer interfaces, wearable sensing, rehabilitation technologies, and intelligent monitoring systems.
 
 ---
 
 ## Teaching
 
-Designed and delivered undergraduate and graduate courses integrating mathematical
-foundations with hands-on implementation. Average teaching evaluations: **4.5 / 5.0**.
+Designed and delivered undergraduate and graduate courses in Electrical and Computer Engineering with an emphasis on hands-on learning, practical implementation, and real-world engineering applications.
+
+Teaching areas include embedded systems, microcontrollers, digital logic design, machine learning, signal processing, intelligent systems, and brain-machine interfaces. Courses integrate mathematical foundations with practical programming, hardware interfacing, and data-driven engineering design.
+
 
 **Courses taught:**
-Signals and Systems · Microcontrollers with Laboratory · Digital Logic Circuit Design ·
-Machine Learning with Applications (PyTorch-based) · Brain-Machine Interfaces (Graduate
-Seminar) · Neural Signal Processing · Deep Learning
 
+Signals and Systems · Microcontrollers with Laboratory · Digital Logic Circuit Design · Machine Learning with Applications · Brain-Machine Interfaces · Neural Signal Processing · Deep Learning
 
-Students I have mentored have appeared as co-authors on peer-reviewed publications,
-including work in *IEEE Access* and *IEEE Transactions on Human-Machine Systems*. I view
-research co-authorship as a natural extension of the teaching mission and one of the most
-effective ways to develop scientific thinking in early-career students.
+Students mentored in my laboratory have co-authored peer-reviewed publications in IEEE journals and conferences. I view undergraduate and graduate research mentorship as an important extension of engineering education and professional development.
 
 Full teaching philosophy → [Teaching Statement](/teaching_statement/)
 
 ---
 
-## Grants & Funding
-
-Principal Investigator or Co-Principal Investigator on competitive research grants
-totaling over **$1.1M**, including NIH-funded work on EEG-based motor decoding for
-stroke rehabilitation (University of Houston, with Prof. Jose Luis Contreras-Vidal).
-
----
 
 ## Patents
 
@@ -100,31 +82,20 @@ stroke rehabilitation (University of Houston, with Prof. Jose Luis Contreras-Vid
 
 ## Selected Publications
 
-For the complete list, see [Publications](/publications/) and
-[Google Scholar](https://scholar.google.com/citations?user=KvECkz0AAAAJ).
+For the complete list, see [Publications](/publications/) and [Google Scholar](https://scholar.google.com/citations?user=KvECkz0AAAAJ).
 
-- **2023**: Abibullaev, B., Keutayeva, A., & Zollanvari, A. Deep Learning in BCIs: A
-  Comprehensive Review of Transformer Models, Advantages, Challenges, and Applications.
-  *IEEE Access*. [[Link]](https://ieeexplore.ieee.org/document/10305163)
+- **2023**: Abibullaev, B., Keutayeva, A., & Zollanvari, A. Deep Learning in BCIs: A Comprehensive Review of Transformer Models, Advantages, Challenges, and Applications. *IEEE Access*. [[Link]](https://ieeexplore.ieee.org/document/10305163)
 
-- **2022**: Abibullaev, B., Kunanbayev, K., & Zollanvari, A. Subject-Independent
-  Classification of P300 Event-Related Potentials Using a Small Number of Training
-  Subjects. *IEEE Transactions on Human-Machine Systems*.
-  [[Link]](https://doi.org/10.1109/THMS.2022.3189576)
+- **2022**: Abibullaev, B., Kunanbayev, K., & Zollanvari, A. Subject-Independent Classification of P300 Event-Related Potentials Using a Small Number of Training Subjects. *IEEE Transactions on Human-Machine Systems*. [[Link]](https://doi.org/10.1109/THMS.2022.3189576)
 
-- **2021**: Abibullaev, B. & Zollanvari, A. A Systematic Deep Learning Model Selection
-  for P300-Based Brain-Computer Interfaces. *IEEE Transactions on Systems, Man, and
-  Cybernetics: Systems*. [[Link]](https://ieeexplore.ieee.org/document/9351887)
+- **2021**: Abibullaev, B. & Zollanvari, A. A Systematic Deep Learning Model Selection for P300-Based Brain-Computer Interfaces. *IEEE Transactions on Systems, Man, and Cybernetics: Systems*. [[Link]](https://ieeexplore.ieee.org/document/9351887)
 
-- **2019**: Abibullaev, B. & Zollanvari, A. Learning Discriminative Spatiospectral
-  Features of ERPs for Accurate Brain-Computer Interfaces. *IEEE Journal of Biomedical
-  and Health Informatics*. [[Link]](https://ieeexplore.ieee.org/document/8613780)
+- **2019**: Abibullaev, B. & Zollanvari, A. Learning Discriminative Spatiospectral Features of ERPs for Accurate Brain-Computer Interfaces. *IEEE Journal of Biomedical and Health Informatics*. [[Link]](https://ieeexplore.ieee.org/document/8613780)
 
 ---
 
 ## Academic Service & Leadership
 
-Established and led a Brain-Computer Interface research laboratory at Nazarbayev
-University. Supervised doctoral, master's, and undergraduate researchers. Reviewer for
-international journals and conferences in machine learning and biomedical engineering.
-IEEE Senior Member.
+Established and led a Brain-Computer Interface and Applied AI research laboratory at Nazarbayev University. Supervised PhD, MSc, and undergraduate researchers working in machine learning, neural engineering, and intelligent systems.
+
+Served as reviewer and editor for international journals and conferences in machine learning, biomedical engineering, and artificial intelligence. Associate Editor for IEEE Access and PeerJ Computer Science. IEEE Senior Member.
