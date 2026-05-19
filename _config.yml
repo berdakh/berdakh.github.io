@@ -6,7 +6,7 @@
 
 # Basic Site Settings
 title            : "Welcome to my page!"
-description      : "Berdakh Abibullaev, Machine Learning Researcher, Data Scientist, and Educator"
+description      : "Berdakh Abibullaev, Engineer and Educator"
 locale           : "en-US"
 url              : "https://berdakh.github.io"
 baseurl          : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ author:
   avatar           : "profile.png"
   name             : "Berdakh Abibullaev, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Machine Learning Engineer, Data Scientist, and Researcher"
+  bio              : #"Machine Learning Engineer, Data Scientist, and Researcher"
   location         : "Houston, Texas, USA"
   employer         : #"Red Brick University"
   uri              : # URL
