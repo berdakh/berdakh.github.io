@@ -10,74 +10,68 @@ redirect_from:
 
 ## About
 
-I am an Associate Professor in Electrical and Computer Engineering working at the intersection of Applied AI, Machine Learning, Intelligent Systems, and Neural Signal Processing.
+I am a research scientist and academic in applied AI and neural engineering with 15+ years of experience building machine learning systems for clinical neural signals and time-series data. My work spans EEG, intracranial EEG (iEEG), MEG, and fNIRS, across both research and clinical environments.
 
-My research focuses on building machine learning systems that generalize reliably under distribution shift, subject variability, and real-world deployment constraints. I am particularly interested in robust AI methods for temporal and multivariate data, with applications in neural engineering, biomedical monitoring, wearable sensing, and intelligent engineering systems.
-
-Neural and physiological signals such as EEG and intracranial EEG provide a demanding real-world testbed for this work due to their high variability, non-stationarity, and low signal-to-noise ratio. Insights developed in this setting transfer naturally to broader real-world AI systems involving time-series analysis, sensing, and deployment under uncertainty.
+My research focuses on deep learning architectures for neural time-series — transformers, contrastive self-supervised learning, and domain adaptation — with applications in epilepsy, motor rehabilitation, and cognitive neuroscience. I have direct clinical experience working alongside neurosurgeons and neurologists on intracranial EEG data from drug-resistant epilepsy patients, and over a decade of experience building real-time brain-computer interface systems, including NIH-funded clinical trials in stroke rehabilitation.
 
 
 ---
 
 ## Research Areas
 
-### Applied AI & Machine Learning
+### Clinical iEEG & Epilepsy
+AI-driven analysis of intracranial EEG for epilepsy: HFO detection and classification, epileptogenic zone localization, seizure detection from long-term recordings, and presurgical decision support.
 
-Robust and trustworthy machine learning methods for real-world deployment, including domain generalization, representation learning, uncertainty-aware modeling, and temporal AI systems.
+### Real-Time BCI & Neurorehabilitation
+Closed-loop EEG-based brain-computer interfaces for motor rehabilitation in stroke and spinal cord injury populations, from signal acquisition through real-time decoding and device control.
 
-### Intelligent Sensing & Time-Series Analysis
+### Applied AI & Deep Learning for Neural Time-Series
+Transformer architectures, contrastive self-supervised pretraining, domain adaptation across heterogeneous patient cohorts, and large language models for automated clinical report generation from neural signal outputs.
 
-Deep learning methods for multivariate temporal data, including transformer and CNN architectures for EEG/iEEG analysis, physiological monitoring, event decoding, and multimodal sensing systems.
-
-### Neural Engineering & Brain-Computer Interfaces
-
-Machine learning and signal processing methods for neural interfaces, neurorehabilitation, cognitive monitoring, and assistive technologies using EEG and intracranial neural recordings.
-
-### Embedded & Intelligent Systems
-
-Engineering-oriented AI systems that integrate sensing, embedded computing, and data-driven decision making for practical deployment scenarios.
-
----
-
-## Teaching
-
-Courses I teach include:
-
-- Microcontrollers with Laboratory
-- Digital Logic Design
-- Machine Learning with Applications
-- Signals and Sensing
-- Brain-Machine Interfaces
-
-I enjoy connecting theoretical concepts with practical engineering implementation through hands-on projects, real-world datasets, and interactive laboratory experiences.
+### Multimodal Neural Signal Processing
+Signal processing across scalp EEG, iEEG, MEG, fNIRS, and EMG. Time-frequency analysis, ICA, source localization, HFO detection, and large-scale analysis on HPC and GPU infrastructure.
 
 ---
 
 ### Selected Publications
 
-👉 [Full list](/publications/) | [Google Scholar](https://scholar.google.com/citations?user=KvECkz0AAAAJ)
+👉 [Full list](/publications/) \| [Google Scholar](https://scholar.google.com/citations?user=KvECkz0AAAAJ)
+
+- **2026**: Qamar, W.U.R., Abibullaev, B. Multi-Scale EEG Feature Decoding with Swin Transformers for Subject-Independent Motor Imagery BCIs. *Scientific Reports*, 16(1):2503. [[Link]](https://www.nature.com/articles/s41598-026-00001-1)
+
+- **2025**: Qamar, W.U.R., Lee, M., Abibullaev, B. Deep Learning in Intracranial EEG for Seizure Detection: Advances, Challenges, and Clinical Applications. *Frontiers in Neuroscience*, 19:1677898. [[Link]](https://www.frontiersin.org/articles/10.3389/fnins.2025.1677898)
+
+- **2024**: Keutayeva, A., Abibullaev, B. Compact Convolutional Transformer for Subject-Independent Motor Imagery EEG-Based BCIs. *Scientific Reports*, 14(1):25775. [[Link]](https://www.nature.com/articles/s41598-024-76339-6)
+
+- **2024**: Keutayeva, A., Abibullaev, B. Data Constraints and Performance Optimization for Transformer-Based Models in EEG-Based BCIs: A Survey. *IEEE Access*, 12:62628–62647. [[Link]](https://ieeexplore.ieee.org/document/10496518)
 
 - **2023**: Abibullaev, B., Keutayeva, A., & Zollanvari, A. Deep Learning in BCIs: A Comprehensive Review of Transformer Models, Advantages, Challenges, and Applications. *IEEE Access*. [[Link]](https://ieeexplore.ieee.org/document/10305163)
 
-- **2022**: Abibullaev, B., Kunanbayev, K., & Zollanvari, A. Subject-Independent Classification of P300 Event-Related Potentials Using a Small Number of Training Subjects. *IEEE Transactions on Human-Machine Systems*. [[Link]](https://doi.org/10.1109/THMS.2022.3189576)
-
-- **2021**: Abibullaev, B. & Zollanvari, A. A Systematic Deep Learning Model Selection for P300-Based Brain-Computer Interfaces. *IEEE Transactions on Systems, Man, and Cybernetics: Systems*. [[Link]](https://ieeexplore.ieee.org/document/9351887)
+- **2022**: Abibullaev, B., Kunanbayev, K., & Zollanvari, A. Subject-Independent Classification of P300 ERPs Using a Small Number of Training Subjects. *IEEE Transactions on Human-Machine Systems*. [[Link]](https://doi.org/10.1109/THMS.2022.3189576)
 
 - **2019**: Abibullaev, B. & Zollanvari, A. Learning Discriminative Spatiospectral Features of ERPs for Accurate Brain-Computer Interfaces. *IEEE Journal of Biomedical and Health Informatics*. [[Link]](https://ieeexplore.ieee.org/document/8613780)
 
 ---
 
+## Patents
+
+- **U.S. Patent 9,081,890** — "Rehabilitation Training System and Method." USPTO, 2015. *Licensed and clinically deployed.*
+- **U.S. Patent Nos. 17077057, 14049302** — "Self-Directed Rehabilitation Training Method Combining Brain Signals and Functional Electrostimulation." Filed 2013.
+- **Korean Patent 101501524000** — "Combining Brain Signals and Functional Electrostimulation Self-Directed Rehabilitation Method." Registered 2015.
+
+---
+
 ## Professional Activities
 
-- Associate Professor, Nazarbayev University
-- IEEE Senior Member
-- Associate Editor, IEEE Access
-- Associate Editor, PeerJ Computer Science
+- IEEE Senior Member (2020)
+- Associate Editor, *IEEE Access* (2020 to present)
+- Associate Editor, *PeerJ Computer Science* (2022 to present)
+- NIH R01 Postdoctoral Fellow, University of Houston (2014 to 2015)
 
 ---
 
 ## Contact
 
-I welcome collaboration on Applied AI, Machine Learning, Intelligent Systems, Neural Engineering, and Time-Series Analysis.
+I welcome collaboration on applied AI, neural engineering, and clinical signal processing.
 
 Feel free to [reach out](mailto:berdakho@gmail.com).
