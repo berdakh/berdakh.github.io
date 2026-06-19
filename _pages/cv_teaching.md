@@ -12,10 +12,10 @@ author_profile: true
 | **Associate Professor** | Nazarbayev University, School of Engineering and Digital Sciences | Astana, Kazakhstan | 2022–present |
 | **Assistant Professor** | Nazarbayev University, Robotics & Mechatronics Department | Astana, Kazakhstan | 2015–2021 |
 | Visiting Professor | University of Houston, Dept. of Electrical & Computer Engineering | Houston, TX | 2018 |
-| NIH Postdoctoral Fellow | University of Houston | Houston, TX | 2014–2015 |
+| NIH Postdoctoral Fellow | University of Houston, Dept. of Electrical & Computer Engineering | Houston, TX | 2014–2015 |
 | Research Scientist | Samsung Medical Center | Seoul, South Korea | 2013–2014 |
-| Senior Research Scientist | DGIST, Robotics Research Division | Daegu, South Korea | 2012–2013 |
-| Postdoctoral Fellow | DGIST, Robotics Research Division | Daegu, South Korea | 2010–2012 |
+| Senior Research Scientist | Daegu-Gyeongbuk Institute of Science and Technology, Robotics Research Division | Daegu, South Korea | 2012–2013 |
+| Postdoctoral Fellow | Daegu-Gyeongbuk Institute of Science and Technology, Robotics Research Division | Daegu, South Korea | 2010–2012 |
 
 ---
 
