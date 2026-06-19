@@ -53,21 +53,11 @@ Signal processing across scalp EEG, iEEG, MEG, fNIRS, and EMG. Time-frequency an
 
 ---
 
-## Patents
-
-- **U.S. Patent 9,081,890** — "Rehabilitation Training System and Method." USPTO, 2015. *Licensed and clinically deployed.*
-- **U.S. Patent Nos. 17077057, 14049302** — "Self-Directed Rehabilitation Training Method Combining Brain Signals and Functional Electrostimulation." Filed 2013.
-- **Korean Patent 101501524000** — "Combining Brain Signals and Functional Electrostimulation Self-Directed Rehabilitation Method." Registered 2015.
-
----
-
 ## Professional Activities
 
 - IEEE Senior Member (2020)
 - Associate Editor, *IEEE Access* (2020 to present)
 - Associate Editor, *PeerJ Computer Science* (2022 to present)
-- NIH R01 Postdoctoral Fellow, University of Houston (2014 to 2015)
-
 ---
 
 ## Contact

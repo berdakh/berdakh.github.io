@@ -9,29 +9,6 @@ layout: single
 
 For citation metrics, see [Google Scholar](https://scholar.google.com/citations?user=KvECkz0AAAAJ) and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=26537215100).
 
-## Selected Publications
-
-1. W. U. R. Qamar, B. Abibullaev, **Multi-scale EEG feature decoding with Swin Transformers for subject-independent motor imagery BCIs**, *Scientific Reports*, 2026.
-
-2. W. U. R. Qamar, M. Lee, B. Abibullaev, **Deep Learning in Intracranial EEG for Seizure Detection: Advances, Challenges, and Clinical Applications**, *Frontiers in Neuroscience*, 2025.
-
-3. A. Keutayeva, B. Abibullaev, **Compact convolutional transformer for subject-independent motor imagery EEG-based BCIs**, *Scientific Reports*, 2024.
-
-4. B. Abibullaev, A. Keutayeva, A. Zollanvari, **Deep learning in EEG-based BCIs: A comprehensive review of transformer models, advantages, challenges, and applications**, *IEEE Access*, 2023.
-
-5. B. Abibullaev, K. Kunanbayev, A. Zollanvari, **Subject-independent classification of P300 event-related potentials using a small number of training subjects**, *IEEE Transactions on Human-Machine Systems*, 2022.
-
-6. B. Abibullaev, A. Zollanvari, **A systematic deep learning model selection for P300-based brain–computer interfaces**, *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 2022.
-
-7. B. Abibullaev, A. Zollanvari, **Learning Discriminative Spatiospectral Features of ERPs for Accurate Brain-Computer Interfaces**, *IEEE Journal of Biomedical and Health Informatics*, 2019.
-
-8. N. Bhagat, A. Venkatakrishnan, B. Abibullaev, et al., **Design and optimization of an EEG-based brain-machine interface to an upper-limb exoskeleton for stroke survivors**, *Frontiers in Neuroscience*, 2016.
-
-
-
-
-## Full List
-
 ### Journal Articles
 
 1. W. U. R. Qamar, <u>B. Abibullaev</u>, **Multi-scale EEG feature decoding with Swin Transformers for subject independent motor imagery BCIs**, *Scientific Reports*, vol. 16, no. 1, pp. 2503, 2026; DOI: [(link)](https://doi.org/10.1038/s41598-025-32207-3)

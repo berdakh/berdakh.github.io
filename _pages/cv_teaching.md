@@ -31,18 +31,10 @@ Associate Professor in Robotics and Mechatronics with a background in Electrical
 |---|---|---|---|
 | Ph.D., Electronic & Computer Engineering | Yeungnam University | South Korea | 2006–2010 |
 | M.S., Electronic Engineering | Yeungnam University | South Korea | 2004–2006 |
+| B.Sc., Information Technology | Tashkent University of Information Technology | Uzbekistan | 2000–2004 |
+
 
 ---
-
-## Research Interests
-
-Applied AI and machine learning for real-world deployment; domain generalization and
-representation learning under distribution shift; deep learning for multivariate time-series
-(transformer and CNN architectures); neural signal processing and brain–computer interfaces
-(EEG / intracranial EEG); intelligent sensing and embedded systems.
-
----
-
 
 ## Teaching
 
@@ -69,15 +61,4 @@ projects, real-world datasets, and interactive laboratory experiences.
 
 ---
 
-## Selected Publications
-
-| 👉 [Full list](https://berdakh.github.io/publications/) | [Google Scholar](https://scholar.google.com/citations?user=KvECkz0AAAAJ) |
-|---|---|
-
-- **2023** — Abibullaev, B., Keutayeva, A., & Zollanvari, A. *Deep Learning in BCIs: A Comprehensive Review of Transformer Models, Advantages, Challenges, and Applications.* IEEE Access.
-- **2022** — Abibullaev, B., Kunanbayev, K., & Zollanvari, A. *Subject-Independent Classification of P300 Event-Related Potentials Using a Small Number of Training Subjects.* IEEE Transactions on Human-Machine Systems.
-- **2021** — Abibullaev, B. & Zollanvari, A. *A Systematic Deep Learning Model Selection for P300-Based Brain-Computer Interfaces.* IEEE Transactions on Systems, Man, and Cybernetics: Systems.
-- **2019** — Abibullaev, B. & Zollanvari, A. *Learning Discriminative Spatiospectral Features of ERPs for Accurate Brain-Computer Interfaces.* IEEE Journal of Biomedical and Health Informatics.
-
----
 
