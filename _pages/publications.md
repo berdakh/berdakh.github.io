@@ -5,13 +5,34 @@ author_profile: true
 layout: single
 ---
 
-70+ peer-reviewed publications in machine learning, neural signal processing, and
-brain-computer interfaces. For citation metrics, see
-[Google Scholar](https://scholar.google.com/citations?user=KvECkz0AAAAJ) (h-index 21)
-and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=26537215100).
+70+ peer-reviewed publications spanning machine learning, neural signal processing, brain-computer interfaces, clinical neuroengineering, and intelligent systems. My recent work focuses on subject-independent EEG decoding, transformer-based BCI models, and deep learning approaches for intracranial EEG and seizure detection.
+
+For citation metrics, see [Google Scholar](https://scholar.google.com/citations?user=KvECkz0AAAAJ) and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=26537215100).
+
+## Selected Publications
+
+1. W. U. R. Qamar, B. Abibullaev, **Multi-scale EEG feature decoding with Swin Transformers for subject-independent motor imagery BCIs**, *Scientific Reports*, 2026.
+
+2. W. U. R. Qamar, M. Lee, B. Abibullaev, **Deep Learning in Intracranial EEG for Seizure Detection: Advances, Challenges, and Clinical Applications**, *Frontiers in Neuroscience*, 2025.
+
+3. A. Keutayeva, B. Abibullaev, **Compact convolutional transformer for subject-independent motor imagery EEG-based BCIs**, *Scientific Reports*, 2024.
+
+4. B. Abibullaev, A. Keutayeva, A. Zollanvari, **Deep learning in EEG-based BCIs: A comprehensive review of transformer models, advantages, challenges, and applications**, *IEEE Access*, 2023.
+
+5. B. Abibullaev, K. Kunanbayev, A. Zollanvari, **Subject-independent classification of P300 event-related potentials using a small number of training subjects**, *IEEE Transactions on Human-Machine Systems*, 2022.
+
+6. B. Abibullaev, A. Zollanvari, **A systematic deep learning model selection for P300-based brain–computer interfaces**, *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 2022.
+
+7. B. Abibullaev, A. Zollanvari, **Learning Discriminative Spatiospectral Features of ERPs for Accurate Brain-Computer Interfaces**, *IEEE Journal of Biomedical and Health Informatics*, 2019.
+
+8. N. Bhagat, A. Venkatakrishnan, B. Abibullaev, et al., **Design and optimization of an EEG-based brain-machine interface to an upper-limb exoskeleton for stroke survivors**, *Frontiers in Neuroscience*, 2016.
 
 
-## Journal Articles
+
+
+## Full List
+
+### Journal Articles
 
 1. W. U. R. Qamar, <u>B. Abibullaev</u>, **Multi-scale EEG feature decoding with Swin Transformers for subject independent motor imagery BCIs**, *Scientific Reports*, vol. 16, no. 1, pp. 2503, 2026; DOI: [(link)](https://doi.org/10.1038/s41598-025-32207-3)
 
@@ -74,14 +95,14 @@ and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=26537215100).
 
 ---
 
-## Book Chapters
+### Book Chapters
 1. A. Keutayeva, A. Zollanvari, <u>B. Abibullaev</u>, **Visual Evoked Potentials in Neurofeedback: Advancing Cognitive Control in ADHD Through Therapeutic Gaming**, *Bridging the Gap between Mind and Machine: Exploring the Future of Human-AI-Neurotechnology Integration*, pp. 131–154, 2025; DOI: [(link)](https://doi.org/10.1007/978-3-032-06713-5_7)
 
 2. A. Keutayeva, A. Zollanvari, <u>B. Abibullaev</u>,**Evolving Trends and Future Prospects of Transformer Models in EEG-Based Motor-Imagery BCI Systems**, *Discovering the Frontiers of Human-Robot Interaction: Insights and Innovations in Collaboration, Communication, and Control*, pp. 233, 2024; DOI: [(link)](https://doi.org/10.1007/978-3-031-66656-8_10)
 
 ---
 
-## Conference Papers
+### Conference Papers
 
 1. N. Kabdyshev, I. Umurbekov, M. Ziat, S. Topp, B. Duvernoy, J. Milroy, D. Kenzhebek, <u>B. Abibullaev</u>, Z. Kappassov. **HaptiComm-S20: Force-Feedback Characterization of Tactile Stimuli for Deafblind Communication.** *Climbing and Walking Robots Conference*, pp. 122–133, 2025.
 
@@ -164,7 +185,7 @@ and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=26537215100).
 40. <u>B. Abibullaev</u>, S. H. Don. **Epileptic seizures detection using continuous time wavelet based artificial neural networks.** *2009 Sixth International Conference on Information Technology: New Generations*, pp. 1456–1461, 2009.
 
 ---
-## Patents
+### Patents
 
 - J. An, S.H. Jin, S.H. Lee, J.I. Moon, B. Abibullaev, J.H. Ahn and G.H. Jang. **Rehabilitation Training System and Method.** : 9,081,890, Washington, DC: United States. Patent and Trademark Office, 2015 [[Link]](https://www.google.com/patents/US9081890).
 - J. An, S.H. Jin, S.H. Lee, J.I. Moon, B. Abibullaev, J.H. Ahn and G.H. Jang. **Self-directed Rehabilitation Training Method Combining Brain Signals and Functional Electrostimulation**. : 17077057,  14049302, 09-OCT-2013, United States, [[Link]](http://www.google.com/patents/US20140200632).
