@@ -7,10 +7,7 @@ author_profile: true
 
 ## Professional Summary
 
-Associate Professor in Electrical and Computer Engineering with 15+ years in applied
-machine learning, neural signal processing, and intelligent systems. Author of 70+ peer-reviewed
-publications, with ~$1.1M in competitive research funding and two patents. IEEE Senior Member and Associate Editor for *IEEE Access* and
-*PeerJ Computer Science*. 
+Associate Professor in Robotics and Mechatronics with a background in Electrical and Computer Engineering and 10+ years of experience developing machine learning methods for neural signal processing, brain–computer interfaces, and clinical neuroengineering. Published 70+ peer-reviewed papers, holds two patents, and has extensive experience securing competitive research funding and leading interdisciplinary AI-neuroengineering projects. IEEE Senior Member and Associate Editor for *IEEE Access* and *PeerJ Computer Science*.
 
 ---
 
@@ -46,17 +43,6 @@ representation learning under distribution shift; deep learning for multivariate
 
 ---
 
-## Selected Honors & Metrics
-
-| | |
-|---|---|
-| Publications | 70+ peer-reviewed articles |
-| Citations / h-index | 1,000+ citations · h-index 22 |
-| Competitive funding | ~$1.1M (PI / Co-PI) |
-| Patents | 2 (one clinically deployed) |
-| Professional standing | IEEE Senior Member |
-
----
 
 ## Teaching
 
