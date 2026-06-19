@@ -17,7 +17,8 @@ For citation metrics, see [Google Scholar](https://scholar.google.com/citations?
 
 3. A. Keutayeva, C. J. Nwachukwu, M. Alaran, Z. Otarbay, <u>B. Abibullaev</u>, **Neurotechnology in Gaming: A Systematic Review of Visual Evoked Potential-Based Brain-Computer Interfaces**, *IEEE Access*, 2025; DOI: [(link)](https://doi.org/10.1109/ACCESS.2025.3564328)
 
-4. A. Keutayeva, <u>B. Abibullaev</u>, **Compact convolutional transformer for subject-independent motor imagery EEG-based BCIs**, *Scientific Reports*, vol. 14, no. 1, pp. 25775, 2024; DOI: [(link)](https://doi.org/10.1038/s41598-024-73755-4)
+4. A. Keutayeva, Nail Fakhrutdinov, 
+<u>B. Abibullaev</u>, **Compact convolutional transformer for subject-independent motor imagery EEG-based BCIs**, *Scientific Reports*, vol. 14, no. 1, pp. 25775, 2024; DOI: [(link)](https://doi.org/10.1038/s41598-024-73755-4)
 
 5. A. Keutayeva, <u>B. Abibullaev</u>, **Data constraints and performance optimization for transformer-based models in eeg-based brain-computer interfaces: A survey**, *IEEE Access*, vol. 12, pp. 62628–62647, 2024; DOI: [(link)](https://doi.org/10.1109/ACCESS.2024.3394696)
 
