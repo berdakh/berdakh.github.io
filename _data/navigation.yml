@@ -15,8 +15,8 @@ main:
   #  url: /research_statement/
   #- title: "Teaching"
   #  url: /teaching_statement/
-  - title: "CV"
-    url: /cv_teaching/
+  #- title: "CV"
+  #  url: /cv_teaching/
   #- title: "Lab Page"
   #  url: /lab_page/
 

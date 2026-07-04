@@ -2,7 +2,7 @@
 layout: single
 title: Curriculum Vitae
 permalink: /cv_teaching/
-author_profile: true
+author_profile: false
 ---
 
 ## Professional Summary
