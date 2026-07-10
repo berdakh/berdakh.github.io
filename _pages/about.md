@@ -25,6 +25,7 @@ I've published 70+ peer-reviewed papers, hold two patents (one licensed and clin
 - **From model to bedside** — a real-time neural decoding system for stroke rehabilitation, developed under NIH funding and validated on a real patient cohort.
 - **Small models, big constraints** — a compact transformer with 73% fewer parameters at no loss in accuracy, built for latency- and compute-limited deployment.
 - **ML in production** — anomaly detection and predictive maintenance on industrial sensor streams, under real reliability and latency budgets.
+
 ---
 
 ## Contact 
