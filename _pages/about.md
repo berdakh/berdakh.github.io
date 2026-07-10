@@ -16,8 +16,6 @@ The problems I enjoy are the messy ones: heterogeneous patient cohorts, non-stat
 
 Lately I've been going deep on LLMs, multi-agent systems, and the broader craft of AI engineering — building agentic workflows and hands-on systems, not just reading about them. And I love teaching: distilling hard ideas into something a student can pick up and run with is some of the most satisfying work I do.
 
-I've published 70+ peer-reviewed papers, hold two patents (one licensed and clinically deployed), and have carried research from grant to prototype to deployment in both clinical and industrial settings. I'm now bringing that mix of research depth and shipping instinct to industry work in data science, applied AI, and ML engineering.
-
 ---
 
 ## A Few Highlights
