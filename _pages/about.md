@@ -10,22 +10,15 @@ redirect_from:
 
 ## About
 
-I'm a researcher who likes to see models leave the lab. For 10+ years I've worked on machine learning for high-dimensional time-series — mostly clinical neural signals (EEG, intracranial EEG), sometimes industrial sensor data — and taken methods all the way from a paper to a working system that runs under real-world constraints.
+I'm an Associate Professor at the School of Computing and AI, Nazarbayev University, where I lead research on deep learning for neural signal processing and brain-computer interfaces (EEG/iEEG). My work spans the full arc from algorithm to deployed system — including a real-time neural decoding system for stroke rehabilitation validated on a clinical cohort.
 
-The problems I enjoy are the messy ones: heterogeneous patient cohorts, non-stationary signals, distribution shift across sites and subjects, and models that have to be fast, robust, and reproducible rather than just accurate on a benchmark. My toolkit is modern deep learning in PyTorch — transformers, self-supervised and contrastive learning, transfer learning and domain adaptation — paired with the less glamorous discipline that makes it hold up: careful validation, honest evaluation, and pipelines someone else can actually rerun.
+My research focuses on the hard parts: non-stationary signals, cross-subject and cross-site distribution shift, and models that are fast and reproducible under real-world constraints. I work primarily in PyTorch — transformers, self-supervised and contrastive learning, transfer learning and domain adaptation — backed by rigorous validation.
 
-Lately I've been going deep on LLMs, multi-agent systems, and the broader craft of AI engineering — building agentic workflows and hands-on systems, not just reading about them. And I love teaching: distilling hard ideas into something a student can pick up and run with is some of the most satisfying work I do.
+I'm also deeply engaged with LLMs, multi-agent systems, and AI engineering in practice. And I find teaching genuinely rewarding: turning hard ideas into something a student can actually use.
 
----
-
-## A Few Highlights
-
-- **From model to bedside** — a real-time neural decoding system for stroke rehabilitation, developed under NIH funding and validated on a real patient cohort.
-- **Small models, big constraints** — a compact transformer with 73% fewer parameters at no loss in accuracy, built for latency- and compute-limited deployment.
-- **ML in production** — anomaly detection and predictive maintenance on industrial sensor streams, under real reliability and latency budgets.
 
 ---
 
-## Contact 
+## Contact
 
-I welcome collaboration on applied AI, machine learning and neural engineering. Feel free to [reach out](mailto:berdakho@gmail.com).
+Open to collaboration in applied AI, neural engineering, and machine learning. [Reach out](mailto:berdakho@gmail.com).
