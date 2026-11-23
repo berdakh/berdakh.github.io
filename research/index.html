@@ -1,0 +1,84 @@
+---
+layout: null
+title: "Research"
+permalink: /research/
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="I lead research on machine learning and AI for brain–machine interfaces (BMI) and brain–computer interfaces (BCI) at Nazarbayev University’s Brain–Machine Intelligence Lab. I study how decoders trained on limited data generalize across people and recording conditions, and I work with collaborators on assistive systems and epilepsy research.">
+  <title>Research | Berdakh Abibullaev</title>
+  <link rel="stylesheet" href="../assets/site.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="wrap masthead">
+    <a class="brand" href="../index.html"><span class="mark" aria-hidden="true">BA</span><span>Berdakh Abibullaev</span></a>
+    <nav class="site-nav" aria-label="Main navigation"><a href="../research/index.html" aria-current="page">Research</a><a href="../publications/index.html">Publications</a><a href="../teaching/index.html">Teaching</a><a href="https://berdakh.github.io/braiNU/">BMI Lab</a></nav>
+  </div>
+</header>
+<main id="main">
+  <header class="page-header">
+    <div class="wrap"><h1>Research</h1><p>I lead research on machine learning and AI for brain–machine interfaces (BMI) and brain–computer interfaces (BCI) at Nazarbayev University’s Brain–Machine Intelligence Lab. I study how decoders trained on limited data generalize across people and recording conditions, and I work with collaborators on assistive systems and epilepsy research.</p></div>
+  </header>
+  <div class="wrap page-layout">
+    <nav class="contents" aria-label="On this page">
+      <p class="eyebrow">On this page</p><ul><li><a href="#research-areas">Research areas</a></li>
+<li><a href="#recent-research">Recent research</a></li>
+<li><a href="#neural-signal-processing-and-learning-across-users">Neural signal processing and learning across users</a></li>
+<li><a href="#real-time-interfaces-and-assistive-robotics">Real-time interfaces and assistive robotics</a></li>
+<li><a href="#open-eeg-code-and-benchmarks">Open EEG code and benchmarks</a></li>
+<li><a href="#research-directions">Research directions</a></li></ul>
+    </nav>
+    <div class="prose "><h2 id="research-areas">Research areas</h2><ul class="research-areas">
+  <li><strong><a href="https://berdakh.github.io/braiNU/research-generalizable-decoding.html">Generalizable EEG decoding</a></strong><p>Develop and evaluate decoders for new users, with the aim of reducing individual calibration.</p></li>
+  <li><strong><a href="https://berdakh.github.io/braiNU/research-neural-machine-learning.html">Machine learning for neural signals</a></strong><p>Design and compare neural signal models, from statistical features to compact convolutional and transformer architectures.</p></li>
+  <li><strong><a href="https://berdakh.github.io/braiNU/research-communication-interaction.html">BCIs for communication and interaction</a></strong><p>Use P300 and other evoked EEG responses to study brain-driven spelling and interaction.</p></li>
+  <li><strong><a href="https://berdakh.github.io/braiNU/research-clinical-neuroai.html">Clinical NeuroAI and epilepsy</a></strong><p>Study seizure activity and candidate markers in intracranial EEG and build tools that trace findings to the signal.</p></li>
+  <li><strong><a href="https://berdakh.github.io/braiNU/research-rehabilitation-robotics.html">Neurorehabilitation and assistive robotics</a></strong><p>Connect neural and muscle signals to real-time control of assistive devices, including upper-limb exoskeletons.</p></li>
+  <li><strong><a href="https://berdakh.github.io/braiNU/research-fnirs-hemodynamics.html">fNIRS and hemodynamic decoding</a></strong><p>Use functional near-infrared spectroscopy to study how hemodynamic responses vary across cognitive and motor tasks.</p></li>
+  <li><strong><a href="https://berdakh.github.io/braiNU/research-developmental-neuroscience.html">Developmental and social neuroscience</a></strong><p>Collaborate on studies of neural signals during natural infant behavior and social interaction.</p></li>
+</ul>
+<p><a href="https://berdakh.github.io/braiNU/research.html">Explore the lab’s research and demonstrations</a></p><h2 id="recent-research">Recent research</h2><h3 id="onset-review-for-intracranial-eeg">Onset Review for intracranial EEG</h3><p>I lead a 2025–2027 Nazarbayev University project on machine learning for intracranial EEG in epilepsy. One result is <strong>Onset Review</strong>, an open-source desktop application and Python library for studying high-frequency oscillations, interictal discharges, and seizure-onset activity. Researchers can inspect the signal around each candidate event, record independent review judgments, and see which events and analysis settings produced a reported measurement. An optional local open-weight language model answers questions about saved analyses and links its answers back to signal windows and recorded measurements. <a href="https://research.nu.edu.kz/en/projects/transforming-epilepsy-care-in-kazakhstan-with-machine-learning-dr/">University project record</a> · <a href="https://berdakh.github.io/onset-hfo/">Onset Review documentation</a> · <a href="https://github.com/berdakh/onset-hfo">Source code</a></p><p>We evaluated the methods on public intracranial EEG recordings. In two cohorts, we compared a seizure-onset index with clinician-marked onset regions and repeated the analysis in pre-onset windows as a control. An exploratory analysis of fast-ripple activity and surgical outcomes was sensitive to the recording window in a small cohort. The project publishes the validation scripts and tables for others to inspect and reproduce. Onset Review is research software. <a href="https://berdakh.github.io/onset-hfo/#validation">Validation methods and results</a></p><div class="software-gallery" aria-label="Onset Review screenshots">
+  <figure class="software-main">
+    <a href="../assets/onset-recording.webp" aria-label="Open the recording review screenshot at full size"><img src="../assets/onset-recording.webp" width="1680" height="980" loading="lazy" alt="Onset Review desktop window with intracranial EEG traces and a table of channel event rates"></a>
+    <figcaption><strong>Recording review.</strong> Inspect EEG traces alongside channel event rates and uncertainty intervals.</figcaption>
+  </figure>
+  <figure>
+    <a href="../assets/onset-event-review.webp" aria-label="Open the event review screenshot at full size"><img src="../assets/onset-event-review.webp" width="1680" height="980" loading="lazy" alt="Review panel showing wideband and filtered traces and a time–frequency map for a candidate ripple"></a>
+    <figcaption><strong>Event review.</strong> Compare wideband, filtered, and time–frequency views before recording a verdict on a candidate event.</figcaption>
+  </figure>
+  <figure>
+    <a href="../assets/onset-assistant.webp" aria-label="Open the assistant screenshot at full size"><img src="../assets/onset-assistant.webp" width="1150" height="760" loading="lazy" alt="Assistant panel with an answer linked to signal evidence and a declined question about resection"></a>
+    <figcaption><strong>Evidence-linked assistant.</strong> Inspect the recorded evidence behind a response and see which questions the assistant declines.</figcaption>
+  </figure>
+</div>
+<h3 id="eeg-source-explorer">EEG Source Explorer</h3><p>This open research prototype combines MNE-Python source imaging with an interactive 3D view. Users can inspect preprocessing, head models, source estimates, and the analysis log. A synthetic recording with known sources lets users compare estimated locations with a reference. The app also offers an AI-assisted workflow for running and explaining the analysis. <a href="https://github.com/berdakh/eeg-source-explorer">EEG Source Explorer repository</a></p><div class="software-gallery" aria-label="EEG Source Explorer screenshot">
+  <figure class="software-main">
+    <a href="../assets/eeg-source-explorer.webp" aria-label="Open the EEG Source Explorer screenshot at full size">
+      <img src="../assets/eeg-source-explorer.webp" width="1600" height="1000" loading="lazy" alt="EEG Source Explorer showing a 3D map of estimated source activity, sensor traces, analysis controls, and the AI analyst panel">
+    </a>
+    <figcaption>EEG Source Explorer showing estimated source activity, sensor traces, and the AI analyst panel.</figcaption>
+  </figure>
+</div>
+<h2 id="neural-signal-processing-and-learning-across-users">Neural signal processing and learning across users</h2><p>A new BCI user should spend as little time as possible calibrating the decoder. My early work with Amin Zollanvari examined how to learn discriminative spatial and spectral features from event-related potentials. We subsequently studied how to build P300 decoders that transfer across users with data from relatively few training participants. <a href="https://doi.org/10.1109/JBHI.2018.2883458">Spatio-spectral ERP features</a> · <a href="https://doi.org/10.1109/THMS.2022.3189576">Subject-independent P300 decoding</a></p><p>For motor imagery, my collaborators and I developed compact convolutional and multiscale transformer models. Our compact model combines local EEG features with temporal attention and uses fewer parameters than several comparison architectures. Our 2026 Swin Transformer study uses hierarchical attention to learn EEG patterns at multiple scales. These studies evaluate performance with participants held out of training, which tests an important step toward reducing individual calibration. <a href="https://doi.org/10.1038/s41598-024-73755-4">Compact model and evaluation</a> · <a href="https://github.com/aikesha/EEGCCT">Implementation</a> · <a href="https://doi.org/10.1038/s41598-025-32207-3">Multiscale model</a></p><h2 id="real-time-interfaces-and-assistive-robotics">Real-time interfaces and assistive robotics</h2><p>Decoding is one part of a BCI. The system also has to turn uncertain signals into commands that a device can act on. In our telepresence system, we used EEG to select actions and programming by demonstration to teach a humanoid robot how to execute them. This reduced the need for users to specify each motion through the interface. <a href="https://research.nu.edu.kz/en/publications/design-and-optimization-of-a-bci-driven-telepresence-robot-throug/">BCI-driven telepresence</a></p><p>During my NIH-funded postdoctoral work at the University of Houston, I contributed EEG source analysis, experimental data collection, and exoskeleton operation to a collaboration with TIRR Memorial Hermann. In the published feasibility study, four chronic stroke survivors used an EEG-based interface to control an upper-limb exoskeleton in real time. At Nazarbayev University, I later served as principal investigator on a 2021–2023 project to integrate EEG control with an exoskeleton for upper-limb stroke rehabilitation. <a href="https://doi.org/10.3389/fnins.2016.00122">Exoskeleton feasibility study</a> · <a href="https://research.nu.edu.kz/en/projects/brain-computer-interface-to-exoskeleton-system-design-for-persona/">Nazarbayev University project</a></p><h2 id="open-eeg-code-and-benchmarks">Open EEG code and benchmarks</h2><ul><li><strong>Motor imagery EEG with MNE-Python and PyTorch.</strong> Notebooks for preprocessing, visualization, and CNN training on public EEG datasets. Includes pooled and participant-specific examples. <a href="https://github.com/berdakh/eeg-pytorch-bci">Motor imagery pipeline</a></li><li><strong>P3Net.</strong> Reproduction code for our systematic comparison of neural network architectures for P300 event-related potential decoding. <a href="https://github.com/berdakh/P3Net">P3Net repository</a></li></ul><h2 id="research-directions">Research directions</h2><ul><li><strong>Decoding with less calibration.</strong> Develop neural representations that use signal structure, such as the timing of event-related potentials and the spectral content of sensorimotor rhythms. Test transfer separately across users, recording sessions, and datasets to identify where new calibration data help most.</li><li><strong>Embedded AI for neural sensing.</strong> Adapt compact decoders to low-power hardware. Measure accuracy on unseen users alongside end-to-end latency, memory, and energy, then use those measurements to decide where quantization and other model changes help.</li><li><strong>Closed-loop interfaces for rehabilitation.</strong> Develop systems that combine decoded motor intent with assist-as-needed robot control. Study how decoder confidence and the timing of assistance affect the interaction, starting with feasibility measures.</li><li><strong>AI for epilepsy research.</strong> Develop models to detect seizures and characterize seizure onset in intracranial EEG. Evaluate candidate markers such as high-frequency oscillations across patients, recording windows, and datasets. Extend Onset Review so researchers can trace model findings back to the original signal. <a href="#onset-review-for-intracranial-eeg">Onset Review research</a></li></ul><p><a href="../publications/index.html">Full publications list</a> · <a href="https://github.com/berdakh">Research software</a></p>
+</div>
+  </div>
+</main>
+<footer class="site-footer inner-footer">
+  <div class="wrap footer-inner">
+    <span>Berdakh Abibullaev · Nazarbayev University</span>
+    <div class="footer-links">
+      <a href="mailto:berdakho@gmail.com">Email</a>
+      <a href="https://scholar.google.com/citations?user=KvECkz0AAAAJ">Google Scholar</a>
+      <a href="https://github.com/berdakh">GitHub</a>
+      <a href="https://www.youtube.com/@berdakh-abibullaev">YouTube</a>
+      <a href="https://research.nu.edu.kz/en/persons/berdakh-abibullaev/">University profile</a>
+    </div>
+  </div>
+</footer>
+</body>
+</html>
